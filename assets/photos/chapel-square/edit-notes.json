@@ -1,0 +1,42 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Conservative natural color and brightness adjustment only; lift shadows mildly and protect white walls. Preserve original composition, structure, objects, vegetation, surroundings and original signage.",
+  "photos": [
+    {
+      "id": "church-3",
+      "src": "assets/photos/chapel-square/church-3-1600.webp",
+      "srcset": "assets/photos/chapel-square/church-3-480.webp 480w, assets/photos/chapel-square/church-3-960.webp 960w, assets/photos/chapel-square/church-3-1600.webp 1600w",
+      "full": "assets/photos/chapel-square/church-3-8k.jpg",
+      "width": 1600,
+      "height": 1890,
+      "caption": "Front view of Wesley Methodist Church, popularly known as Chapel Square.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0640.JPG",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+    },
+    {
+      "id": "church-1",
+      "src": "assets/photos/chapel-square/church-1-1600.webp",
+      "srcset": "assets/photos/chapel-square/church-1-480.webp 480w, assets/photos/chapel-square/church-1-960.webp 960w, assets/photos/chapel-square/church-1-1600.webp 1600w",
+      "full": "assets/photos/chapel-square/church-1-8k.jpg",
+      "width": 1600,
+      "height": 1135,
+      "caption": "Angled view of Wesley Methodist Church and its clock tower.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0638.JPG",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+    },
+    {
+      "id": "church-2",
+      "src": "assets/photos/chapel-square/church-2-1600.webp",
+      "srcset": "assets/photos/chapel-square/church-2-480.webp 480w, assets/photos/chapel-square/church-2-960.webp 960w, assets/photos/chapel-square/church-2-1600.webp 1600w",
+      "full": "assets/photos/chapel-square/church-2-8k.jpg",
+      "width": 1600,
+      "height": 1578,
+      "caption": "Wesley Methodist Church with its green roof and clock tower.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0639.JPG",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+    }
+  ]
+}

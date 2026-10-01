@@ -1,0 +1,54 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Conservative natural color and brightness adjustment. Preserve original composition and all subjects, buildings, vehicles and signage; no additions or removals.",
+  "photos": [
+    {
+      "id": "kotokuraba-1",
+      "src": "assets/photos/kotokuraba-market/market-1-1600.webp",
+      "srcset": "assets/photos/kotokuraba-market/market-1-480.webp 480w, assets/photos/kotokuraba-market/market-1-960.webp 960w, assets/photos/kotokuraba-market/market-1-1600.webp 1600w",
+      "full": "assets/photos/kotokuraba-market/market-1-8k.jpg",
+      "width": 1600,
+      "height": 1453,
+      "caption": "Kotokuraba Market exterior and surrounding stalls.",
+      "credit": "Supplied by the site owner; photographer not provided",
+      "source": "IMG_0607.JPG",
+      "changes": "Color and brightness refined using the built-in image generation tool. Full-size download is upscaled to a 7680-pixel long edge; not native 8K detail."
+    },
+    {
+      "id": "kotokuraba-2",
+      "src": "assets/photos/kotokuraba-market/market-2-1600.webp",
+      "srcset": "assets/photos/kotokuraba-market/market-2-480.webp 480w, assets/photos/kotokuraba-market/market-2-960.webp 960w, assets/photos/kotokuraba-market/market-2-1600.webp 1600w",
+      "full": "assets/photos/kotokuraba-market/market-2-8k.jpg",
+      "width": 1600,
+      "height": 1772,
+      "caption": "Aerial view of Kotokuraba Market and the surrounding city.",
+      "credit": "Supplied by the site owner; photographer not provided",
+      "source": "IMG_0613.jpg",
+      "changes": "Color and brightness refined using the built-in image generation tool. Full-size download is upscaled to a 7680-pixel long edge; not native 8K detail."
+    },
+    {
+      "id": "kotokuraba-3",
+      "src": "assets/photos/kotokuraba-market/market-3-1600.webp",
+      "srcset": "assets/photos/kotokuraba-market/market-3-480.webp 480w, assets/photos/kotokuraba-market/market-3-960.webp 960w, assets/photos/kotokuraba-market/market-3-1600.webp 1600w",
+      "full": "assets/photos/kotokuraba-market/market-3-8k.jpg",
+      "width": 1600,
+      "height": 1069,
+      "caption": "Inside Kotokuraba Market’s central hall.",
+      "credit": "Supplied by the site owner; photographer not provided",
+      "source": "IMG_0604.JPG",
+      "changes": "Color and brightness refined using the built-in image generation tool. Full-size download is upscaled to a 7680-pixel long edge; not native 8K detail."
+    },
+    {
+      "id": "kotokuraba-4",
+      "src": "assets/photos/kotokuraba-market/market-4-1600.webp",
+      "srcset": "assets/photos/kotokuraba-market/market-4-480.webp 480w, assets/photos/kotokuraba-market/market-4-960.webp 960w, assets/photos/kotokuraba-market/market-4-1600.webp 1600w",
+      "full": "assets/photos/kotokuraba-market/market-4-8k.jpg",
+      "width": 1600,
+      "height": 1001,
+      "caption": "Street activity around Kotokuraba Market.",
+      "credit": "Supplied by the site owner; photographer not provided",
+      "source": "IMG_0615.JPG",
+      "changes": "Color and brightness refined using the built-in image generation tool. Full-size download is upscaled to a 7680-pixel long edge; not native 8K detail."
+    }
+  ]
+}

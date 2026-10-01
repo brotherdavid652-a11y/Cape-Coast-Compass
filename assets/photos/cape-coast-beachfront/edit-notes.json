@@ -1,0 +1,58 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "undefined\n",
+  "photos": [
+    {
+      "id": "beach-1",
+      "src": "assets/photos/cape-coast-beachfront/beach-1-1600.webp",
+      "srcset": "assets/photos/cape-coast-beachfront/beach-1-480.webp 480w, assets/photos/cape-coast-beachfront/beach-1-960.webp 960w, assets/photos/cape-coast-beachfront/beach-1-1600.webp 1600w",
+      "full": "assets/photos/cape-coast-beachfront/beach-1-8k.jpg",
+      "width": 1600,
+      "height": 1067,
+      "caption": "Palm trees and beachside buildings along the Cape Coast beachfront.",
+      "credit": "Supplied by site owner; original photographer not verified",
+      "source": "IMG_0632.JPG",
+      "changes": "Color and brightness refined with built-in imagegen. Consistent natural finish. 7680-pixel long edge is upscaled, not native 8K detail. Original content and watermarks retained."
+    },
+    {
+      "id": "beach-2",
+      "src": "assets/photos/cape-coast-beachfront/beach-2-1600.webp",
+      "srcset": "assets/photos/cape-coast-beachfront/beach-2-480.webp 480w, assets/photos/cape-coast-beachfront/beach-2-960.webp 960w, assets/photos/cape-coast-beachfront/beach-2-1600.webp 1600w",
+      "full": "assets/photos/cape-coast-beachfront/beach-2-8k.jpg",
+      "width": 1600,
+      "height": 1065,
+      "caption": "Cape Coast beachside buildings and palm trees.",
+      "credit": "Supplied by site owner; original photographer not verified",
+      "source": "IMG_0633.JPG",
+      "changes": "Color and brightness refined with built-in imagegen. Consistent natural finish. 7680-pixel long edge is upscaled, not native 8K detail. Original content and watermarks retained."
+    },
+    {
+      "id": "beach-3",
+      "src": "assets/photos/cape-coast-beachfront/beach-3-1600.webp",
+      "srcset": "assets/photos/cape-coast-beachfront/beach-3-480.webp 480w, assets/photos/cape-coast-beachfront/beach-3-960.webp 960w, assets/photos/cape-coast-beachfront/beach-3-1600.webp 1600w",
+      "full": "assets/photos/cape-coast-beachfront/beach-3-8k.jpg",
+      "width": 1600,
+      "height": 2137,
+      "caption": "Ocean waves and sandy Cape Coast beachfront framed by palms.",
+      "credit": "Supplied by site owner; original photographer not verified",
+      "source": "IMG_0634.AVIF",
+      "changes": "Color and brightness refined with built-in imagegen. Consistent natural finish. 7680-pixel long edge is upscaled, not native 8K detail. Original content and watermarks retained."
+    },
+    {
+      "id": "beach-4",
+      "src": "assets/photos/cape-coast-beachfront/beach-4-clean-1600.webp",
+      "srcset": "assets/photos/cape-coast-beachfront/beach-4-clean-480.webp 480w, assets/photos/cape-coast-beachfront/beach-4-clean-960.webp 960w, assets/photos/cape-coast-beachfront/beach-4-clean-1600.webp 1600w",
+      "full": "assets/photos/cape-coast-beachfront/beach-4-clean-8k.jpg",
+      "width": 1600,
+      "height": 1065,
+      "caption": "Wide view of Cape Coast beach and fishing-community surroundings.",
+      "credit": "Supplied by the site owner; original source contains an Alamy watermark",
+      "source": "IMG_0636.jpg",
+      "changes": "Color and brightness refined with AI; all overlaid white writing removed at the site owner’s request. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+    }
+  ],
+  "followup": {
+    "tool": "Built-in imagegen",
+    "prompt": "Remove all overlaid Alamy writing and repeated white a symbols; fill with matching surroundings. Preserve framing, color, brightness and all other content."
+  }
+}

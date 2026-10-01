@@ -1,0 +1,34 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Only modest natural color and brightness adjustments. Preserve composition, actual weather, natural water color, objects and existing writing.",
+  "photos": [
+    {
+      "id": "lagoon-1",
+      "src": "assets/photos/fosu-lagoon/lagoon-1-1600.webp",
+      "srcset": "assets/photos/fosu-lagoon/lagoon-1-480.webp 480w, assets/photos/fosu-lagoon/lagoon-1-960.webp 960w, assets/photos/fosu-lagoon/lagoon-1-1600.webp 1600w",
+      "full": "assets/photos/fosu-lagoon/lagoon-1-8k.jpg",
+      "width": 1600,
+      "height": 1231,
+      "caption": "Fosu Lagoon shoreline framed by palm leaves.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0623.jpg",
+      "changes": "Color and brightness refined with built-in imagegen. Existing writing retained. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+    },
+    {
+      "id": "lagoon-2",
+      "src": "assets/photos/fosu-lagoon/lagoon-2-matched-1600.webp",
+      "srcset": "assets/photos/fosu-lagoon/lagoon-2-matched-480.webp 480w, assets/photos/fosu-lagoon/lagoon-2-matched-960.webp 960w, assets/photos/fosu-lagoon/lagoon-2-matched-1600.webp 1600w",
+      "full": "assets/photos/fosu-lagoon/lagoon-2-matched-8k.jpg",
+      "width": 1600,
+      "height": 2133,
+      "caption": "Palm trees and a canoe beside Fosu Lagoon.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0624.JPG",
+      "changes": "Color and brightness matched to the first lagoon photo with AI; white writing in the center-left removed at the site owner’s request. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+    }
+  ],
+  "followup": {
+    "tool": "Built-in imagegen",
+    "prompt": "Match the first lagoon photo’s brightness, natural vibrancy and white balance; remove the white writing and logo at center-left, preserving the portrait composition, actual weather and all objects."
+  }
+}

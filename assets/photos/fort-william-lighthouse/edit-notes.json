@@ -1,0 +1,34 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Conservative natural color and brightness adjustment only; lift shadows mildly and protect white walls. Preserve original composition, structure, objects, vegetation, surroundings and existing watermark.",
+  "photos": [
+    {
+      "id": "lighthouse-1",
+      "src": "assets/photos/fort-william-lighthouse/lighthouse-1-1600.webp",
+      "srcset": "assets/photos/fort-william-lighthouse/lighthouse-1-480.webp 480w, assets/photos/fort-william-lighthouse/lighthouse-1-960.webp 960w, assets/photos/fort-william-lighthouse/lighthouse-1-1600.webp 1600w",
+      "full": "assets/photos/fort-william-lighthouse/lighthouse-1-8k.jpg",
+      "width": 1600,
+      "height": 1566,
+      "caption": "Fort William Lighthouse in Cape Coast, viewed from outside the circular walls.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0621.JPG",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Existing watermark retained."
+    },
+    {
+      "id": "lighthouse-2",
+      "src": "assets/photos/fort-william-lighthouse/lighthouse-2-clean-1600.webp",
+      "srcset": "assets/photos/fort-william-lighthouse/lighthouse-2-clean-480.webp 480w, assets/photos/fort-william-lighthouse/lighthouse-2-clean-960.webp 960w, assets/photos/fort-william-lighthouse/lighthouse-2-clean-1600.webp 1600w",
+      "full": "assets/photos/fort-william-lighthouse/lighthouse-2-clean-8k.jpg",
+      "width": 1600,
+      "height": 1200,
+      "caption": "Aerial view of Fort William Lighthouse in Cape Coast and its circular enclosure.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0622.JPG",
+      "changes": "Color and brightness refined with AI; white writing in the bottom-left removed at the site owner’s request. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+    }
+  ],
+  "followup": {
+    "tool": "Built-in imagegen",
+    "prompt": "Remove only the small white writing at bottom-left; fill with matching surrounding foliage. Preserve framing, color, brightness and all other content."
+  }
+}

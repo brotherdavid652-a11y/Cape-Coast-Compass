@@ -1,0 +1,16 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Only natural color and brightness adjustments with consistent neutral balance across both panels. Preserve artwork, objects, montage layout and original bottom caption exactly.",
+  "photo": {
+    "id": "asafo-gallery-interior",
+    "src": "assets/photos/osabarimba-asafo-art-gallery/gallery-1600.webp",
+    "srcset": "assets/photos/osabarimba-asafo-art-gallery/gallery-480.webp 480w, assets/photos/osabarimba-asafo-art-gallery/gallery-960.webp 960w, assets/photos/osabarimba-asafo-art-gallery/gallery-1600.webp 1600w",
+    "full": "assets/photos/osabarimba-asafo-art-gallery/gallery-8k.jpg",
+    "width": 1600,
+    "height": 900,
+    "caption": "Two interior views of Osabarimba Asafo Art Gallery showing Asafo flags and sculptures.",
+    "credit": "Supplied by the site owner; original photographer not verified",
+    "source": "IMG_0628.WEBP",
+    "changes": "Color and brightness refined using built-in imagegen. Original montage layout and caption retained. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+  }
+}

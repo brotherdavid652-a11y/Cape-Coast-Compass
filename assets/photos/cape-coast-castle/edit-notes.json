@@ -1,0 +1,55 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Change only brightness, exposure, white balance and natural color vibrancy; gently lift shadows, preserve white walls and original framing, architecture, people, signs and objects.",
+  "cover": "Image 3",
+  "photos": [
+    {
+      "id": "castle-1",
+      "src": "assets/photos/cape-coast-castle/castle-1-1600.webp",
+      "srcset": "assets/photos/cape-coast-castle/castle-1-480.webp 480w, assets/photos/cape-coast-castle/castle-1-960.webp 960w, assets/photos/cape-coast-castle/castle-1-1600.webp 1600w",
+      "full": "assets/photos/cape-coast-castle/castle-1-8k.jpg",
+      "width": 1600,
+      "height": 1184,
+      "caption": "Scale model of Cape Coast Castle displayed in the museum.",
+      "credit": "Supplied by the site owner; photographer not provided",
+      "source": "IMG_0616.jpg",
+      "changes": "Color and brightness refined with AI. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+    },
+    {
+      "id": "castle-2",
+      "src": "assets/photos/cape-coast-castle/castle-2-1600.webp",
+      "srcset": "assets/photos/cape-coast-castle/castle-2-480.webp 480w, assets/photos/cape-coast-castle/castle-2-960.webp 960w, assets/photos/cape-coast-castle/castle-2-1600.webp 1600w",
+      "full": "assets/photos/cape-coast-castle/castle-2-8k.jpg",
+      "width": 1600,
+      "height": 1202,
+      "caption": "Cape Coast Castle cannons beside the Atlantic Ocean.",
+      "credit": "Supplied by the site owner; photographer not provided",
+      "source": "IMG_0619.JPG",
+      "changes": "Color and brightness refined with AI. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+    },
+    {
+      "id": "castle-3",
+      "src": "assets/photos/cape-coast-castle/castle-3-1600.webp",
+      "srcset": "assets/photos/cape-coast-castle/castle-3-480.webp 480w, assets/photos/cape-coast-castle/castle-3-960.webp 960w, assets/photos/cape-coast-castle/castle-3-1600.webp 1600w",
+      "full": "assets/photos/cape-coast-castle/castle-3-8k.jpg",
+      "width": 1600,
+      "height": 1189,
+      "caption": "Cape Coast Castle courtyard and main building.",
+      "credit": "Supplied by the site owner; photographer not provided",
+      "source": "IMG_0618.jpg",
+      "changes": "Color and brightness refined with AI. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+    },
+    {
+      "id": "castle-4",
+      "src": "assets/photos/cape-coast-castle/castle-4-1600.webp",
+      "srcset": "assets/photos/cape-coast-castle/castle-4-480.webp 480w, assets/photos/cape-coast-castle/castle-4-960.webp 960w, assets/photos/cape-coast-castle/castle-4-1600.webp 1600w",
+      "full": "assets/photos/cape-coast-castle/castle-4-8k.jpg",
+      "width": 1600,
+      "height": 1178,
+      "caption": "Cape Coast beachfront and fishing boats viewed from the castle.",
+      "credit": "Supplied by the site owner; photographer not provided",
+      "source": "IMG_0617.jpg",
+      "changes": "Color and brightness refined with AI. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+    }
+  ]
+}

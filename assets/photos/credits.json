@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cape-coast-castle-museum",
+    "file": "cape-coast-castle",
+    "caption": "Cape Coast Castle courtyard and main building.",
+    "credit": "Central Regional Coordinating Council",
+    "source": "https://crcc.gov.gh/cape-coast-castle/",
+    "original": "https://crcc.gov.gh/wp-content/uploads/2024/02/cape-coast-castle-3.jpg",
+    "license": null,
+    "rights": "Reference photograph from an official tourism page. Reuse permission is not confirmed.",
+    "width": 640,
+    "height": 272,
+    "src": "assets/photos/cape-coast-castle-640.webp",
+    "srcset": "assets/photos/cape-coast-castle-480.webp 480w, assets/photos/cape-coast-castle-640.webp 640w",
+    "changes": "Resized and converted to WebP; display may crop the image."
+  },
+  {
+    "id": "fort-victoria",
+    "file": "fort-victoria",
+    "caption": "Fort Victoria in Cape Coast, photographed in June 2010.",
+    "credit": "Adam Jones",
+    "source": "https://commons.wikimedia.org/wiki/File:Fort_Victoria,_Cape_Coast_B004.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Fort_Victoria%2C_Cape_Coast_B004.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "licenseLabel": "CC BY-SA 2.0",
+    "width": 1200,
+    "height": 800,
+    "src": "assets/photos/fort-victoria-1200.webp",
+    "srcset": "assets/photos/fort-victoria-480.webp 480w, assets/photos/fort-victoria-1200.webp 1200w",
+    "changes": "Resized and converted to WebP; display may crop the image."
+  },
+  {
+    "id": "fosu-lagoon",
+    "file": "fosu-lagoon",
+    "caption": "Fosu Lagoon and its Cape Coast surroundings, photographed in June 2014.",
+    "credit": "Kobebigs",
+    "source": "https://commons.wikimedia.org/wiki/File:Fosu_Lagoon(Aerial_view).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fosu_Lagoon%28Aerial_view%29.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseLabel": "CC BY-SA 3.0",
+    "width": 1200,
+    "height": 800,
+    "src": "assets/photos/fosu-lagoon-1200.webp",
+    "srcset": "assets/photos/fosu-lagoon-480.webp 480w, assets/photos/fosu-lagoon-1200.webp 1200w",
+    "changes": "Resized and converted to WebP; display may crop the image."
+  },
+  {
+    "id": "kakum-national-park",
+    "file": "kakum-national-park",
+    "caption": "Visitors on the canopy walkway at Kakum National Park.",
+    "credit": "Visit Ghana / Ghana Tourism Authority",
+    "source": "https://visitghana.com/kakum-national-park/",
+    "original": "https://visitghana.com/wp-content/uploads/2025/04/8849-kakum-national-park.jpg",
+    "license": null,
+    "rights": "Reference photograph from the official tourism portal. Reuse permission is not confirmed.",
+    "width": 800,
+    "height": 578,
+    "src": "assets/photos/kakum-national-park-800.webp",
+    "srcset": "assets/photos/kakum-national-park-480.webp 480w, assets/photos/kakum-national-park-800.webp 800w",
+    "changes": "Resized and converted to WebP; display may crop the image."
+  }
+]

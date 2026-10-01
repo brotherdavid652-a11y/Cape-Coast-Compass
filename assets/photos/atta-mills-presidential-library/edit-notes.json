@@ -1,0 +1,42 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Conservative natural color and brightness adjustment only; lift shadows mildly and protect white walls. Preserve original composition, structure, objects, vegetation, surroundings and original signage.",
+  "photos": [
+    {
+      "id": "library-2",
+      "src": "assets/photos/atta-mills-presidential-library/library-2-1600.webp",
+      "srcset": "assets/photos/atta-mills-presidential-library/library-2-480.webp 480w, assets/photos/atta-mills-presidential-library/library-2-960.webp 960w, assets/photos/atta-mills-presidential-library/library-2-1600.webp 1600w",
+      "full": "assets/photos/atta-mills-presidential-library/library-2-8k.jpg",
+      "width": 1600,
+      "height": 1496,
+      "caption": "Front entrance and full exterior of John Evans Atta Mills Presidential Library.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0644.jpg",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+    },
+    {
+      "id": "library-1",
+      "src": "assets/photos/atta-mills-presidential-library/library-1-1600.webp",
+      "srcset": "assets/photos/atta-mills-presidential-library/library-1-480.webp 480w, assets/photos/atta-mills-presidential-library/library-1-960.webp 960w, assets/photos/atta-mills-presidential-library/library-1-1600.webp 1600w",
+      "full": "assets/photos/atta-mills-presidential-library/library-1-8k.jpg",
+      "width": 1600,
+      "height": 1531,
+      "caption": "John Evans Atta Mills Presidential Library building and landscaped planting.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0645.jpg",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+    },
+    {
+      "id": "library-3",
+      "src": "assets/photos/atta-mills-presidential-library/library-3-1600.webp",
+      "srcset": "assets/photos/atta-mills-presidential-library/library-3-480.webp 480w, assets/photos/atta-mills-presidential-library/library-3-960.webp 960w, assets/photos/atta-mills-presidential-library/library-3-1600.webp 1600w",
+      "full": "assets/photos/atta-mills-presidential-library/library-3-8k.jpg",
+      "width": 1600,
+      "height": 2095,
+      "caption": "John Evans Atta Mills Presidential Library entrance sign.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0646.jpg",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+    }
+  ]
+}

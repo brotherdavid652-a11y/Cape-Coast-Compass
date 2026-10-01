@@ -1,0 +1,762 @@
+[
+  {
+    "id": "cape-coast-castle-museum",
+    "slug": "cape-coast-castle-museum",
+    "name": "Cape Coast Castle & Museum",
+    "description": "Castle tours and museum exhibitions exploring the transatlantic slave trade. The museum is part of the castle visit.",
+    "access": "Confirm admission and tour arrangements.",
+    "category": "Heritage",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "castle-3",
+        "src": "assets/photos/cape-coast-castle/castle-3-1600.webp",
+        "srcset": "assets/photos/cape-coast-castle/castle-3-480.webp 480w, assets/photos/cape-coast-castle/castle-3-960.webp 960w, assets/photos/cape-coast-castle/castle-3-1600.webp 1600w",
+        "full": "assets/photos/cape-coast-castle/castle-3-8k.jpg",
+        "width": 1600,
+        "height": 1189,
+        "caption": "Cape Coast Castle courtyard and main building.",
+        "credit": "Supplied by the site owner; photographer not provided",
+        "source": "IMG_0618.jpg",
+        "changes": "Color and brightness refined with AI. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+      },
+      {
+        "id": "castle-2",
+        "src": "assets/photos/cape-coast-castle/castle-2-1600.webp",
+        "srcset": "assets/photos/cape-coast-castle/castle-2-480.webp 480w, assets/photos/cape-coast-castle/castle-2-960.webp 960w, assets/photos/cape-coast-castle/castle-2-1600.webp 1600w",
+        "full": "assets/photos/cape-coast-castle/castle-2-8k.jpg",
+        "width": 1600,
+        "height": 1202,
+        "caption": "Cape Coast Castle cannons beside the Atlantic Ocean.",
+        "credit": "Supplied by the site owner; photographer not provided",
+        "source": "IMG_0619.JPG",
+        "changes": "Color and brightness refined with AI. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+      },
+      {
+        "id": "castle-1",
+        "src": "assets/photos/cape-coast-castle/castle-1-1600.webp",
+        "srcset": "assets/photos/cape-coast-castle/castle-1-480.webp 480w, assets/photos/cape-coast-castle/castle-1-960.webp 960w, assets/photos/cape-coast-castle/castle-1-1600.webp 1600w",
+        "full": "assets/photos/cape-coast-castle/castle-1-8k.jpg",
+        "width": 1600,
+        "height": 1184,
+        "caption": "Scale model of Cape Coast Castle displayed in the museum.",
+        "credit": "Supplied by the site owner; photographer not provided",
+        "source": "IMG_0616.jpg",
+        "changes": "Color and brightness refined with AI. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+      },
+      {
+        "id": "castle-4",
+        "src": "assets/photos/cape-coast-castle/castle-4-1600.webp",
+        "srcset": "assets/photos/cape-coast-castle/castle-4-480.webp 480w, assets/photos/cape-coast-castle/castle-4-960.webp 960w, assets/photos/cape-coast-castle/castle-4-1600.webp 1600w",
+        "full": "assets/photos/cape-coast-castle/castle-4-8k.jpg",
+        "width": 1600,
+        "height": 1178,
+        "caption": "Cape Coast beachfront and fishing boats viewed from the castle.",
+        "credit": "Supplied by the site owner; photographer not provided",
+        "source": "IMG_0617.jpg",
+        "changes": "Color and brightness refined with AI. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+      }
+    ]
+  },
+  {
+    "id": "fort-victoria",
+    "slug": "fort-victoria",
+    "name": "Fort Victoria",
+    "description": "Historic hilltop lookout with views over Cape Coast and the Atlantic.",
+    "access": "Confirm access and admission.",
+    "category": "Heritage",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "fort-victoria",
+        "file": "fort-victoria",
+        "caption": "Fort Victoria in Cape Coast, photographed in June 2010.",
+        "credit": "Adam Jones",
+        "source": "https://commons.wikimedia.org/wiki/File:Fort_Victoria,_Cape_Coast_B004.jpg",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Fort_Victoria%2C_Cape_Coast_B004.jpg",
+        "license": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "licenseLabel": "CC BY-SA 2.0",
+        "width": 1200,
+        "height": 800,
+        "src": "assets/photos/fort-victoria-1200.webp",
+        "srcset": "assets/photos/fort-victoria-480.webp 480w, assets/photos/fort-victoria-1200.webp 1200w",
+        "changes": "Resized and converted to WebP; display may crop the image."
+      }
+    ]
+  },
+  {
+    "id": "fort-william-lighthouse",
+    "slug": "fort-william-lighthouse",
+    "name": "Fort William Lighthouse",
+    "description": "The lighthouse on Dawson’s Hill in Cape Coast, distinct from Fort William in Anomabu.",
+    "access": "Confirm visitor access.",
+    "category": "Heritage",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "lighthouse-1",
+        "src": "assets/photos/fort-william-lighthouse/lighthouse-1-1600.webp",
+        "srcset": "assets/photos/fort-william-lighthouse/lighthouse-1-480.webp 480w, assets/photos/fort-william-lighthouse/lighthouse-1-960.webp 960w, assets/photos/fort-william-lighthouse/lighthouse-1-1600.webp 1600w",
+        "full": "assets/photos/fort-william-lighthouse/lighthouse-1-8k.jpg",
+        "width": 1600,
+        "height": 1566,
+        "caption": "Fort William Lighthouse in Cape Coast, viewed from outside the circular walls.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0621.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Existing watermark retained."
+      },
+      {
+        "id": "lighthouse-2",
+        "src": "assets/photos/fort-william-lighthouse/lighthouse-2-clean-1600.webp",
+        "srcset": "assets/photos/fort-william-lighthouse/lighthouse-2-clean-480.webp 480w, assets/photos/fort-william-lighthouse/lighthouse-2-clean-960.webp 960w, assets/photos/fort-william-lighthouse/lighthouse-2-clean-1600.webp 1600w",
+        "full": "assets/photos/fort-william-lighthouse/lighthouse-2-clean-8k.jpg",
+        "width": 1600,
+        "height": 1200,
+        "caption": "Aerial view of Fort William Lighthouse in Cape Coast and its circular enclosure.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0622.JPG",
+        "changes": "Color and brightness refined with AI; white writing in the bottom-left removed at the site owner’s request. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+      }
+    ]
+  },
+  {
+    "id": "fosu-lagoon",
+    "slug": "fosu-lagoon",
+    "name": "Fosu Lagoon",
+    "description": "Coastal lagoon with cultural and ecological significance. A potential scenic stop; no boat activities are promised.",
+    "access": "Viewing access and activities to confirm.",
+    "category": "Nature & coast",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "lagoon-1",
+        "src": "assets/photos/fosu-lagoon/lagoon-1-1600.webp",
+        "srcset": "assets/photos/fosu-lagoon/lagoon-1-480.webp 480w, assets/photos/fosu-lagoon/lagoon-1-960.webp 960w, assets/photos/fosu-lagoon/lagoon-1-1600.webp 1600w",
+        "full": "assets/photos/fosu-lagoon/lagoon-1-8k.jpg",
+        "width": 1600,
+        "height": 1231,
+        "caption": "Fosu Lagoon shoreline framed by palm leaves.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0623.jpg",
+        "changes": "Color and brightness refined with built-in imagegen. Existing writing retained. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+      },
+      {
+        "id": "lagoon-2",
+        "src": "assets/photos/fosu-lagoon/lagoon-2-matched-1600.webp",
+        "srcset": "assets/photos/fosu-lagoon/lagoon-2-matched-480.webp 480w, assets/photos/fosu-lagoon/lagoon-2-matched-960.webp 960w, assets/photos/fosu-lagoon/lagoon-2-matched-1600.webp 1600w",
+        "full": "assets/photos/fosu-lagoon/lagoon-2-matched-8k.jpg",
+        "width": 1600,
+        "height": 2133,
+        "caption": "Palm trees and a canoe beside Fosu Lagoon.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0624.JPG",
+        "changes": "Color and brightness matched to the first lagoon photo with AI; white writing in the center-left removed at the site owner’s request. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+      }
+    ]
+  },
+  {
+    "id": "kotokuraba-market",
+    "slug": "kotokuraba-market",
+    "name": "Kotokuraba Market",
+    "description": "Explore local trading, produce, and everyday life in Cape Coast’s central market.",
+    "access": "Market stop; no admission assumed.",
+    "category": "Culture & everyday life",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "kotokuraba-1",
+        "src": "assets/photos/kotokuraba-market/market-1-1600.webp",
+        "srcset": "assets/photos/kotokuraba-market/market-1-480.webp 480w, assets/photos/kotokuraba-market/market-1-960.webp 960w, assets/photos/kotokuraba-market/market-1-1600.webp 1600w",
+        "full": "assets/photos/kotokuraba-market/market-1-8k.jpg",
+        "width": 1600,
+        "height": 1453,
+        "caption": "Kotokuraba Market exterior and surrounding stalls.",
+        "credit": "Supplied by the site owner; photographer not provided",
+        "source": "IMG_0607.JPG",
+        "changes": "Color and brightness refined using the built-in image generation tool. Full-size download is upscaled to a 7680-pixel long edge; not native 8K detail."
+      },
+      {
+        "id": "kotokuraba-2",
+        "src": "assets/photos/kotokuraba-market/market-2-1600.webp",
+        "srcset": "assets/photos/kotokuraba-market/market-2-480.webp 480w, assets/photos/kotokuraba-market/market-2-960.webp 960w, assets/photos/kotokuraba-market/market-2-1600.webp 1600w",
+        "full": "assets/photos/kotokuraba-market/market-2-8k.jpg",
+        "width": 1600,
+        "height": 1772,
+        "caption": "Aerial view of Kotokuraba Market and the surrounding city.",
+        "credit": "Supplied by the site owner; photographer not provided",
+        "source": "IMG_0613.jpg",
+        "changes": "Color and brightness refined using the built-in image generation tool. Full-size download is upscaled to a 7680-pixel long edge; not native 8K detail."
+      },
+      {
+        "id": "kotokuraba-3",
+        "src": "assets/photos/kotokuraba-market/market-3-1600.webp",
+        "srcset": "assets/photos/kotokuraba-market/market-3-480.webp 480w, assets/photos/kotokuraba-market/market-3-960.webp 960w, assets/photos/kotokuraba-market/market-3-1600.webp 1600w",
+        "full": "assets/photos/kotokuraba-market/market-3-8k.jpg",
+        "width": 1600,
+        "height": 1069,
+        "caption": "Inside Kotokuraba Market’s central hall.",
+        "credit": "Supplied by the site owner; photographer not provided",
+        "source": "IMG_0604.JPG",
+        "changes": "Color and brightness refined using the built-in image generation tool. Full-size download is upscaled to a 7680-pixel long edge; not native 8K detail."
+      },
+      {
+        "id": "kotokuraba-4",
+        "src": "assets/photos/kotokuraba-market/market-4-1600.webp",
+        "srcset": "assets/photos/kotokuraba-market/market-4-480.webp 480w, assets/photos/kotokuraba-market/market-4-960.webp 960w, assets/photos/kotokuraba-market/market-4-1600.webp 1600w",
+        "full": "assets/photos/kotokuraba-market/market-4-8k.jpg",
+        "width": 1600,
+        "height": 1001,
+        "caption": "Street activity around Kotokuraba Market.",
+        "credit": "Supplied by the site owner; photographer not provided",
+        "source": "IMG_0615.JPG",
+        "changes": "Color and brightness refined using the built-in image generation tool. Full-size download is upscaled to a 7680-pixel long edge; not native 8K detail."
+      }
+    ]
+  },
+  {
+    "id": "emintsimadze-palace",
+    "slug": "emintsimadze-palace",
+    "name": "Emintsimadze Palace",
+    "description": "The seat of Oguaa traditional leadership and a place to learn about local heritage.",
+    "access": "Advance permission required.",
+    "category": "Culture & everyday life",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "palace-1",
+        "src": "assets/photos/emintsimadze-palace/palace-1-1600.webp",
+        "srcset": "assets/photos/emintsimadze-palace/palace-1-480.webp 480w, assets/photos/emintsimadze-palace/palace-1-960.webp 960w, assets/photos/emintsimadze-palace/palace-1-1600.webp 1600w",
+        "full": "assets/photos/emintsimadze-palace/palace-1-8k.jpg",
+        "width": 1600,
+        "height": 1200,
+        "caption": "Emintsimadze Palace entrance and gates in Cape Coast.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0626.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across both photographs."
+      },
+      {
+        "id": "palace-2",
+        "src": "assets/photos/emintsimadze-palace/palace-2-1600.webp",
+        "srcset": "assets/photos/emintsimadze-palace/palace-2-480.webp 480w, assets/photos/emintsimadze-palace/palace-2-960.webp 960w, assets/photos/emintsimadze-palace/palace-2-1600.webp 1600w",
+        "full": "assets/photos/emintsimadze-palace/palace-2-8k.jpg",
+        "width": 1600,
+        "height": 1067,
+        "caption": "Emintsimadze Palace tower and Ghanaian flag.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0627.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across both photographs."
+      }
+    ]
+  },
+  {
+    "id": "osabarimba-asafo-art-gallery",
+    "slug": "osabarimba-asafo-art-gallery",
+    "name": "Osabarimba Asafo Art Gallery",
+    "description": "Asafo flags and art associated with Fante traditions, at Emintsimadze Palace.",
+    "access": "Confirm gallery visits and charges.",
+    "category": "Culture & everyday life",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "asafo-gallery-interior",
+        "src": "assets/photos/osabarimba-asafo-art-gallery/gallery-1600.webp",
+        "srcset": "assets/photos/osabarimba-asafo-art-gallery/gallery-480.webp 480w, assets/photos/osabarimba-asafo-art-gallery/gallery-960.webp 960w, assets/photos/osabarimba-asafo-art-gallery/gallery-1600.webp 1600w",
+        "full": "assets/photos/osabarimba-asafo-art-gallery/gallery-8k.jpg",
+        "width": 1600,
+        "height": 900,
+        "caption": "Two interior views of Osabarimba Asafo Art Gallery showing Asafo flags and sculptures.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0628.WEBP",
+        "changes": "Color and brightness refined using built-in imagegen. Original montage layout and caption retained. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+      }
+    ]
+  },
+  {
+    "id": "global-mamas-cultural-workshops",
+    "slug": "global-mamas-cultural-workshops",
+    "name": "Global Mamas cultural workshops",
+    "description": "Cape Coast experiences include batik, cooking, drumming and dancing, and head wrapping.",
+    "access": "Advance workshop booking required.",
+    "category": "Culture & everyday life",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "workshop-3",
+        "src": "assets/photos/global-mamas-cultural-workshops/workshop-3-1600.webp",
+        "srcset": "assets/photos/global-mamas-cultural-workshops/workshop-3-480.webp 480w, assets/photos/global-mamas-cultural-workshops/workshop-3-960.webp 960w, assets/photos/global-mamas-cultural-workshops/workshop-3-1600.webp 1600w",
+        "full": "assets/photos/global-mamas-cultural-workshops/workshop-3-8k.jpg",
+        "width": 1600,
+        "height": 1600,
+        "caption": "Participants preparing ingredients during a Global Mamas cooking workshop.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0631.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      },
+      {
+        "id": "workshop-1",
+        "src": "assets/photos/global-mamas-cultural-workshops/workshop-1-1600.webp",
+        "srcset": "assets/photos/global-mamas-cultural-workshops/workshop-1-480.webp 480w, assets/photos/global-mamas-cultural-workshops/workshop-1-960.webp 960w, assets/photos/global-mamas-cultural-workshops/workshop-1-1600.webp 1600w",
+        "full": "assets/photos/global-mamas-cultural-workshops/workshop-1-8k.jpg",
+        "width": 1600,
+        "height": 1600,
+        "caption": "Global Mamas fair trade shop and cultural workshops sign in Cape Coast.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0629.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      },
+      {
+        "id": "workshop-2",
+        "src": "assets/photos/global-mamas-cultural-workshops/workshop-2-1600.webp",
+        "srcset": "assets/photos/global-mamas-cultural-workshops/workshop-2-480.webp 480w, assets/photos/global-mamas-cultural-workshops/workshop-2-960.webp 960w, assets/photos/global-mamas-cultural-workshops/workshop-2-1600.webp 1600w",
+        "full": "assets/photos/global-mamas-cultural-workshops/workshop-2-8k.jpg",
+        "width": 1600,
+        "height": 1786,
+        "caption": "Ingredients and preparation table for a Global Mamas cooking workshop.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0630.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      }
+    ]
+  },
+  {
+    "id": "cape-coast-beachfront",
+    "slug": "cape-coast-beachfront",
+    "name": "Cape Coast beachfront",
+    "description": "Coastal scenery and fishing-community surroundings. Agree a specific beach or venue before planning a visit.",
+    "access": "Exact stop and access to confirm.",
+    "category": "Nature & coast",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "beach-1",
+        "src": "assets/photos/cape-coast-beachfront/beach-1-1600.webp",
+        "srcset": "assets/photos/cape-coast-beachfront/beach-1-480.webp 480w, assets/photos/cape-coast-beachfront/beach-1-960.webp 960w, assets/photos/cape-coast-beachfront/beach-1-1600.webp 1600w",
+        "full": "assets/photos/cape-coast-beachfront/beach-1-8k.jpg",
+        "width": 1600,
+        "height": 1067,
+        "caption": "Palm trees and beachside buildings along the Cape Coast beachfront.",
+        "credit": "Supplied by site owner; original photographer not verified",
+        "source": "IMG_0632.JPG",
+        "changes": "Color and brightness refined with built-in imagegen. Consistent natural finish. 7680-pixel long edge is upscaled, not native 8K detail. Original content and watermarks retained."
+      },
+      {
+        "id": "beach-2",
+        "src": "assets/photos/cape-coast-beachfront/beach-2-1600.webp",
+        "srcset": "assets/photos/cape-coast-beachfront/beach-2-480.webp 480w, assets/photos/cape-coast-beachfront/beach-2-960.webp 960w, assets/photos/cape-coast-beachfront/beach-2-1600.webp 1600w",
+        "full": "assets/photos/cape-coast-beachfront/beach-2-8k.jpg",
+        "width": 1600,
+        "height": 1065,
+        "caption": "Cape Coast beachside buildings and palm trees.",
+        "credit": "Supplied by site owner; original photographer not verified",
+        "source": "IMG_0633.JPG",
+        "changes": "Color and brightness refined with built-in imagegen. Consistent natural finish. 7680-pixel long edge is upscaled, not native 8K detail. Original content and watermarks retained."
+      },
+      {
+        "id": "beach-3",
+        "src": "assets/photos/cape-coast-beachfront/beach-3-1600.webp",
+        "srcset": "assets/photos/cape-coast-beachfront/beach-3-480.webp 480w, assets/photos/cape-coast-beachfront/beach-3-960.webp 960w, assets/photos/cape-coast-beachfront/beach-3-1600.webp 1600w",
+        "full": "assets/photos/cape-coast-beachfront/beach-3-8k.jpg",
+        "width": 1600,
+        "height": 2137,
+        "caption": "Ocean waves and sandy Cape Coast beachfront framed by palms.",
+        "credit": "Supplied by site owner; original photographer not verified",
+        "source": "IMG_0634.AVIF",
+        "changes": "Color and brightness refined with built-in imagegen. Consistent natural finish. 7680-pixel long edge is upscaled, not native 8K detail. Original content and watermarks retained."
+      },
+      {
+        "id": "beach-4",
+        "src": "assets/photos/cape-coast-beachfront/beach-4-clean-1600.webp",
+        "srcset": "assets/photos/cape-coast-beachfront/beach-4-clean-480.webp 480w, assets/photos/cape-coast-beachfront/beach-4-clean-960.webp 960w, assets/photos/cape-coast-beachfront/beach-4-clean-1600.webp 1600w",
+        "full": "assets/photos/cape-coast-beachfront/beach-4-clean-8k.jpg",
+        "width": 1600,
+        "height": 1065,
+        "caption": "Wide view of Cape Coast beach and fishing-community surroundings.",
+        "credit": "Supplied by the site owner; original source contains an Alamy watermark",
+        "source": "IMG_0636.jpg",
+        "changes": "Color and brightness refined with AI; all overlaid white writing removed at the site owner’s request. Download upscaled to a 7680-pixel long edge, not native 8K detail."
+      }
+    ]
+  },
+  {
+    "id": "chapel-square",
+    "slug": "chapel-square",
+    "name": "Wesley Methodist Church, popularly known as Chapel Square",
+    "description": "A historic urban landmark to consider as part of a Cape Coast heritage route.",
+    "access": "Public landmark; local route check needed.",
+    "category": "Heritage",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "church-3",
+        "src": "assets/photos/chapel-square/church-3-1600.webp",
+        "srcset": "assets/photos/chapel-square/church-3-480.webp 480w, assets/photos/chapel-square/church-3-960.webp 960w, assets/photos/chapel-square/church-3-1600.webp 1600w",
+        "full": "assets/photos/chapel-square/church-3-8k.jpg",
+        "width": 1600,
+        "height": 1890,
+        "caption": "Front view of Wesley Methodist Church, popularly known as Chapel Square.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0640.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      },
+      {
+        "id": "church-1",
+        "src": "assets/photos/chapel-square/church-1-1600.webp",
+        "srcset": "assets/photos/chapel-square/church-1-480.webp 480w, assets/photos/chapel-square/church-1-960.webp 960w, assets/photos/chapel-square/church-1-1600.webp 1600w",
+        "full": "assets/photos/chapel-square/church-1-8k.jpg",
+        "width": 1600,
+        "height": 1135,
+        "caption": "Angled view of Wesley Methodist Church and its clock tower.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0638.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      },
+      {
+        "id": "church-2",
+        "src": "assets/photos/chapel-square/church-2-1600.webp",
+        "srcset": "assets/photos/chapel-square/church-2-480.webp 480w, assets/photos/chapel-square/church-2-960.webp 960w, assets/photos/chapel-square/church-2-1600.webp 1600w",
+        "full": "assets/photos/chapel-square/church-2-8k.jpg",
+        "width": 1600,
+        "height": 1578,
+        "caption": "Wesley Methodist Church with its green roof and clock tower.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0639.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      }
+    ]
+  },
+  {
+    "id": "london-bridge",
+    "slug": "london-bridge",
+    "name": "London Bridge",
+    "description": "A local landmark listed in the Assembly’s tourism inventory. Best considered as one stop on a wider heritage route.",
+    "access": "Local inspection needed.",
+    "category": "Heritage",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "bridge-2",
+        "src": "assets/photos/london-bridge/bridge-2-1600.webp",
+        "srcset": "assets/photos/london-bridge/bridge-2-480.webp 480w, assets/photos/london-bridge/bridge-2-960.webp 960w, assets/photos/london-bridge/bridge-2-1600.webp 1600w",
+        "full": "assets/photos/london-bridge/bridge-2-8k.jpg",
+        "width": 1600,
+        "height": 2527,
+        "caption": "London Bridge arch and entrance in Cape Coast.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0643.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across both photographs."
+      },
+      {
+        "id": "bridge-1",
+        "src": "assets/photos/london-bridge/bridge-1-1600.webp",
+        "srcset": "assets/photos/london-bridge/bridge-1-480.webp 480w, assets/photos/london-bridge/bridge-1-960.webp 960w, assets/photos/london-bridge/bridge-1-1600.webp 1600w",
+        "full": "assets/photos/london-bridge/bridge-1-8k.jpg",
+        "width": 1600,
+        "height": 2843,
+        "caption": "Osabarimba statue and surrounding Cape Coast streets; a separate landmark view.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0642.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across both photographs."
+      }
+    ]
+  },
+  {
+    "id": "atta-mills-presidential-library",
+    "slug": "atta-mills-presidential-library",
+    "name": "John Evans Atta Mills Presidential Library",
+    "description": "A presidential library landmark included in the Assembly’s tourism inventory.",
+    "access": "Current opening status unverified.",
+    "category": "Heritage",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "library-2",
+        "src": "assets/photos/atta-mills-presidential-library/library-2-1600.webp",
+        "srcset": "assets/photos/atta-mills-presidential-library/library-2-480.webp 480w, assets/photos/atta-mills-presidential-library/library-2-960.webp 960w, assets/photos/atta-mills-presidential-library/library-2-1600.webp 1600w",
+        "full": "assets/photos/atta-mills-presidential-library/library-2-8k.jpg",
+        "width": 1600,
+        "height": 1496,
+        "caption": "Front entrance and full exterior of John Evans Atta Mills Presidential Library.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0644.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      },
+      {
+        "id": "library-1",
+        "src": "assets/photos/atta-mills-presidential-library/library-1-1600.webp",
+        "srcset": "assets/photos/atta-mills-presidential-library/library-1-480.webp 480w, assets/photos/atta-mills-presidential-library/library-1-960.webp 960w, assets/photos/atta-mills-presidential-library/library-1-1600.webp 1600w",
+        "full": "assets/photos/atta-mills-presidential-library/library-1-8k.jpg",
+        "width": 1600,
+        "height": 1531,
+        "caption": "John Evans Atta Mills Presidential Library building and landscaped planting.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0645.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      },
+      {
+        "id": "library-3",
+        "src": "assets/photos/atta-mills-presidential-library/library-3-1600.webp",
+        "srcset": "assets/photos/atta-mills-presidential-library/library-3-480.webp 480w, assets/photos/atta-mills-presidential-library/library-3-960.webp 960w, assets/photos/atta-mills-presidential-library/library-3-1600.webp 1600w",
+        "full": "assets/photos/atta-mills-presidential-library/library-3-8k.jpg",
+        "width": 1600,
+        "height": 2095,
+        "caption": "John Evans Atta Mills Presidential Library entrance sign.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0646.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      }
+    ]
+  },
+  {
+    "id": "christ-church-cathedral",
+    "slug": "christ-church-cathedral",
+    "name": "Christ Church Cathedral",
+    "description": "Cape Coast’s Anglican cathedral and a potential stop for visitors interested in religious heritage.",
+    "access": "Arrange visits around worship.",
+    "category": "Faith & architecture",
+    "nearby": false,
+    "photos": [
+      {
+        "id": "cathedral-1",
+        "src": "assets/photos/christ-church-cathedral/cathedral-1-1600.webp",
+        "srcset": "assets/photos/christ-church-cathedral/cathedral-1-480.webp 480w, assets/photos/christ-church-cathedral/cathedral-1-960.webp 960w, assets/photos/christ-church-cathedral/cathedral-1-1600.webp 1600w",
+        "full": "assets/photos/christ-church-cathedral/cathedral-1-8k.jpg",
+        "width": 1600,
+        "height": 1180,
+        "caption": "Christ Church Cathedral and surrounding Cape Coast streets.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0647.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      },
+      {
+        "id": "cathedral-2",
+        "src": "assets/photos/christ-church-cathedral/cathedral-2-1600.webp",
+        "srcset": "assets/photos/christ-church-cathedral/cathedral-2-480.webp 480w, assets/photos/christ-church-cathedral/cathedral-2-960.webp 960w, assets/photos/christ-church-cathedral/cathedral-2-1600.webp 1600w",
+        "full": "assets/photos/christ-church-cathedral/cathedral-2-8k.jpg",
+        "width": 1600,
+        "height": 1175,
+        "caption": "Angled view of Christ Church Cathedral facade and cross.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0648.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      },
+      {
+        "id": "cathedral-3",
+        "src": "assets/photos/christ-church-cathedral/cathedral-3-1600.webp",
+        "srcset": "assets/photos/christ-church-cathedral/cathedral-3-480.webp 480w, assets/photos/christ-church-cathedral/cathedral-3-960.webp 960w, assets/photos/christ-church-cathedral/cathedral-3-1600.webp 1600w",
+        "full": "assets/photos/christ-church-cathedral/cathedral-3-8k.jpg",
+        "width": 1600,
+        "height": 784,
+        "caption": "Front view of Christ Church Cathedral and entrance.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0649.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+      }
+    ]
+  },
+  {
+    "id": "wesley-methodist-cathedral",
+    "slug": "wesley-methodist-cathedral",
+    "name": "Wesley Methodist Cathedral",
+    "description": "A landmark associated with the history of Methodism in Cape Coast.",
+    "access": "Church permission and visiting times needed.",
+    "category": "Faith & architecture",
+    "nearby": false,
+    "photos": []
+  },
+  {
+    "id": "st-francis-de-sales-cathedral",
+    "slug": "st-francis-de-sales-cathedral",
+    "name": "St. Francis de Sales Cathedral",
+    "description": "A Catholic cathedral in Cape Coast with a prominent place in the city’s religious landscape.",
+    "access": "Church permission and visiting times needed.",
+    "category": "Faith & architecture",
+    "nearby": false,
+    "photos": []
+  },
+  {
+    "id": "victoria-park",
+    "slug": "victoria-park",
+    "name": "Victoria Park",
+    "description": "A public gathering space and landmark that can form part of a town heritage route.",
+    "access": "Check events and access.",
+    "category": "Nature & coast",
+    "nearby": false,
+    "photos": []
+  },
+  {
+    "id": "ato-austin-park",
+    "slug": "ato-austin-park",
+    "name": "Ato Austin Park",
+    "description": "A location identified in the Assembly’s tourism inventory. Facilities and suitability for visits need an on-site check.",
+    "access": "Local inspection needed.",
+    "category": "Nature & coast",
+    "nearby": false,
+    "photos": []
+  },
+  {
+    "id": "jacob-wilson-seys-tomb",
+    "slug": "jacob-wilson-seys-tomb",
+    "name": "Jacob Wilson Sey’s tomb",
+    "description": "A memorial location included in Cape Coast’s municipal tourism inventory.",
+    "access": "Confirm location and respectful access.",
+    "category": "Heritage",
+    "nearby": false,
+    "photos": []
+  },
+  {
+    "id": "historic-high-court-building",
+    "slug": "historic-high-court-building",
+    "name": "Historic High Court building",
+    "description": "The historic court landmark listed in the Assembly’s tourism inventory.",
+    "access": "Interior access not confirmed.",
+    "category": "Heritage",
+    "nearby": false,
+    "photos": []
+  },
+  {
+    "id": "colonial-military-cemetery",
+    "slug": "colonial-military-cemetery",
+    "name": "Colonial Military Cemetery",
+    "description": "A military heritage site listed in regional and municipal tourism records. Any associated museum access needs separate confirmation.",
+    "access": "Confirm access; museum status unverified.",
+    "category": "Heritage",
+    "nearby": false,
+    "photos": []
+  },
+  {
+    "id": "ucc-botanical-garden",
+    "slug": "ucc-botanical-garden",
+    "name": "UCC botanical garden",
+    "description": "University botanical grounds documented by UCC. Public tourism access has not been verified.",
+    "access": "University permission required.",
+    "category": "Nature & coast",
+    "nearby": false,
+    "photos": []
+  },
+  {
+    "id": "fort-frederiksborg-site-amanful",
+    "slug": "fort-frederiksborg-site-amanful",
+    "name": "Fort Frederiksborg site, Amanful",
+    "description": "A historic fortification site with traces of former structures, rather than an intact castle attraction.",
+    "access": "Specialist heritage stop; access unverified.",
+    "category": "Heritage",
+    "nearby": false,
+    "photos": []
+  },
+  {
+    "id": "hans-cottage-botel",
+    "slug": "hans-cottage-botel",
+    "name": "Hans Cottage Botel",
+    "description": "Jukwa Road / Cape Coast outskirts. A hospitality and nature destination known for its crocodile pond. Confirm available visitor activities directly.",
+    "access": "Separate arrangements required; confirm current access directly.",
+    "category": "Nature & coast",
+    "nearby": true,
+    "photos": []
+  },
+  {
+    "id": "kakum-national-park",
+    "slug": "kakum-national-park",
+    "name": "Kakum National Park",
+    "description": "Abrafo area. Forest and canopy-walk experiences outside Cape Coast city.",
+    "access": "Separate arrangements required; confirm current access directly.",
+    "category": "Nature & coast",
+    "nearby": true,
+    "photos": [
+      {
+        "id": "kakum-national-park",
+        "file": "kakum-national-park",
+        "caption": "Visitors on the canopy walkway at Kakum National Park.",
+        "credit": "Visit Ghana / Ghana Tourism Authority",
+        "source": "https://visitghana.com/kakum-national-park/",
+        "original": "https://visitghana.com/wp-content/uploads/2025/04/8849-kakum-national-park.jpg",
+        "license": null,
+        "rights": "Reference photograph from the official tourism portal. Reuse permission is not confirmed.",
+        "width": 800,
+        "height": 578,
+        "src": "assets/photos/kakum-national-park-800.webp",
+        "srcset": "assets/photos/kakum-national-park-480.webp 480w, assets/photos/kakum-national-park-800.webp 800w",
+        "changes": "Resized and converted to WebP; display may crop the image."
+      }
+    ]
+  },
+  {
+    "id": "international-stingless-bee-centre",
+    "slug": "international-stingless-bee-centre",
+    "name": "International Stingless Bee Centre",
+    "description": "Abrafo area. An educational nature destination focused on stingless bees.",
+    "access": "Separate arrangements required; confirm current access directly.",
+    "category": "Nature & coast",
+    "nearby": true,
+    "photos": []
+  },
+  {
+    "id": "elmina-castle",
+    "slug": "elmina-castle",
+    "name": "Elmina Castle",
+    "description": "Elmina. A major coastal heritage site and museum in the neighbouring town.",
+    "access": "Separate arrangements required; confirm current access directly.",
+    "category": "Heritage",
+    "nearby": true,
+    "photos": []
+  },
+  {
+    "id": "fort-st-jago-coenraadsburg",
+    "slug": "fort-st-jago-coenraadsburg",
+    "name": "Fort St. Jago / Coenraadsburg",
+    "description": "Elmina. A hilltop fort overlooking Elmina. These two names refer to the same site.",
+    "access": "Separate arrangements required; confirm current access directly.",
+    "category": "Heritage",
+    "nearby": true,
+    "photos": []
+  },
+  {
+    "id": "elmina-fishing-harbour-market",
+    "slug": "elmina-fishing-harbour-market",
+    "name": "Elmina fishing harbour & market",
+    "description": "Elmina. A working fishing community and market; agree respectful access and photography.",
+    "access": "Separate arrangements required; confirm current access directly.",
+    "category": "Culture & everyday life",
+    "nearby": true,
+    "photos": []
+  },
+  {
+    "id": "dutch-cemetery",
+    "slug": "dutch-cemetery",
+    "name": "Dutch Cemetery",
+    "description": "Elmina. A historic cemetery listed in the regional tourism directory.",
+    "access": "Separate arrangements required; confirm current access directly.",
+    "category": "Heritage",
+    "nearby": true,
+    "photos": []
+  },
+  {
+    "id": "brenu-beach",
+    "slug": "brenu-beach",
+    "name": "Brenu Beach",
+    "description": "Brenu Akyinim. A coastal destination outside Cape Coast; agree the exact venue and access.",
+    "access": "Separate arrangements required; confirm current access directly.",
+    "category": "Nature & coast",
+    "nearby": true,
+    "photos": []
+  },
+  {
+    "id": "assin-manso-ancestral-slave-river-site",
+    "slug": "assin-manso-ancestral-slave-river-site",
+    "name": "Assin Manso Ancestral Slave River site",
+    "description": "Assin Manso. A remembrance destination inland, requiring a separate trip plan.",
+    "access": "Separate arrangements required; confirm current access directly.",
+    "category": "Heritage",
+    "nearby": true,
+    "photos": []
+  },
+  {
+    "id": "ostrich-farm",
+    "slug": "ostrich-farm",
+    "name": "Ostrich Farm",
+    "description": "Efutu-Mampong. Listed in the regional tourism directory; current operation and access are unverified.",
+    "access": "Separate arrangements required; confirm current access directly.",
+    "category": "Nature & coast",
+    "nearby": true,
+    "photos": []
+  }
+]

@@ -1,0 +1,24 @@
+const fs=require('fs'),path=require('path'),sharp=require('/private/tmp/two-brothers-release-tools/node_modules/sharp');
+process.chdir(path.resolve(__dirname,'..'));
+const input=process.argv[2],dir='assets/photos/fort-william-lighthouse',name='lighthouse-2-clean';
+(async()=>{
+ const meta=await sharp(input).metadata();
+ await sharp(input).jpeg({quality:95}).toFile(`${dir}/${name}-refined.jpg`);
+ for(const width of [480,960,1600])await sharp(input).resize({width}).webp({quality:85}).toFile(`${dir}/${name}-${width}.webp`);
+ await sharp(input).resize(meta.width>=meta.height?{width:7680}:{height:7680}).jpeg({quality:80}).toFile(`${dir}/${name}-8k.jpg`);
+ const data=JSON.parse(fs.readFileSync('attractions.json'));
+ const photo=data.find(p=>p.id==='fort-william-lighthouse').photos[1];
+ photo.src=`${dir}/${name}-1600.webp`;
+ photo.srcset=[480,960,1600].map(w=>`${dir}/${name}-${w}.webp ${w}w`).join(', ');
+ photo.full=`${dir}/${name}-8k.jpg`;
+ photo.width=1600;photo.height=Math.round(meta.height*1600/meta.width);
+ photo.changes='Color and brightness refined with AI; white writing in the bottom-left removed at the site owner’s request. Download upscaled to a 7680-pixel long edge, not native 8K detail.';
+ fs.writeFileSync('attractions.json',JSON.stringify(data,null,2));
+ fs.writeFileSync('galleries.js','window.COMPASS_PLACES = '+JSON.stringify(data)+';');
+ const page='places/fort-william-lighthouse.html';
+ fs.writeFileSync(page,fs.readFileSync(page,'utf8').replaceAll('lighthouse-2-480.webp','lighthouse-2-clean-480.webp'));
+ const notes=JSON.parse(fs.readFileSync(`${dir}/edit-notes.json`));notes.photos[1]=photo;
+ notes.followup={tool:'Built-in imagegen',prompt:'Remove only the small white writing at bottom-left; fill with matching surrounding foliage. Preserve framing, color, brightness and all other content.'};
+ fs.writeFileSync(`${dir}/edit-notes.json`,JSON.stringify(notes,null,2));
+ console.log('Installed cleaned aerial image, thumbnail and 8K download. Original supplied photo preserved.');
+})();

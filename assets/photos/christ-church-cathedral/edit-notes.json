@@ -1,0 +1,42 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Conservative natural color and brightness adjustment only; lift shadows mildly and protect white walls. Preserve original composition, structure, objects, vegetation, surroundings and original signage.",
+  "photos": [
+    {
+      "id": "cathedral-1",
+      "src": "assets/photos/christ-church-cathedral/cathedral-1-1600.webp",
+      "srcset": "assets/photos/christ-church-cathedral/cathedral-1-480.webp 480w, assets/photos/christ-church-cathedral/cathedral-1-960.webp 960w, assets/photos/christ-church-cathedral/cathedral-1-1600.webp 1600w",
+      "full": "assets/photos/christ-church-cathedral/cathedral-1-8k.jpg",
+      "width": 1600,
+      "height": 1180,
+      "caption": "Christ Church Cathedral and surrounding Cape Coast streets.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0647.jpg",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+    },
+    {
+      "id": "cathedral-2",
+      "src": "assets/photos/christ-church-cathedral/cathedral-2-1600.webp",
+      "srcset": "assets/photos/christ-church-cathedral/cathedral-2-480.webp 480w, assets/photos/christ-church-cathedral/cathedral-2-960.webp 960w, assets/photos/christ-church-cathedral/cathedral-2-1600.webp 1600w",
+      "full": "assets/photos/christ-church-cathedral/cathedral-2-8k.jpg",
+      "width": 1600,
+      "height": 1175,
+      "caption": "Angled view of Christ Church Cathedral facade and cross.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0648.jpg",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+    },
+    {
+      "id": "cathedral-3",
+      "src": "assets/photos/christ-church-cathedral/cathedral-3-1600.webp",
+      "srcset": "assets/photos/christ-church-cathedral/cathedral-3-480.webp 480w, assets/photos/christ-church-cathedral/cathedral-3-960.webp 960w, assets/photos/christ-church-cathedral/cathedral-3-1600.webp 1600w",
+      "full": "assets/photos/christ-church-cathedral/cathedral-3-8k.jpg",
+      "width": 1600,
+      "height": 784,
+      "caption": "Front view of Christ Church Cathedral and entrance.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0649.jpg",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
+    }
+  ]
+}

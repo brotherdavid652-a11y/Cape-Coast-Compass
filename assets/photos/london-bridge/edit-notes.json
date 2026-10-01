@@ -1,0 +1,30 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Conservative natural color and brightness adjustment only; lift shadows mildly and protect white walls. Preserve original composition, structure, objects, vegetation, surroundings and original signage.",
+  "photos": [
+    {
+      "id": "bridge-2",
+      "src": "assets/photos/london-bridge/bridge-2-1600.webp",
+      "srcset": "assets/photos/london-bridge/bridge-2-480.webp 480w, assets/photos/london-bridge/bridge-2-960.webp 960w, assets/photos/london-bridge/bridge-2-1600.webp 1600w",
+      "full": "assets/photos/london-bridge/bridge-2-8k.jpg",
+      "width": 1600,
+      "height": 2527,
+      "caption": "London Bridge arch and entrance in Cape Coast.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0643.jpg",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across both photographs."
+    },
+    {
+      "id": "bridge-1",
+      "src": "assets/photos/london-bridge/bridge-1-1600.webp",
+      "srcset": "assets/photos/london-bridge/bridge-1-480.webp 480w, assets/photos/london-bridge/bridge-1-960.webp 960w, assets/photos/london-bridge/bridge-1-1600.webp 1600w",
+      "full": "assets/photos/london-bridge/bridge-1-8k.jpg",
+      "width": 1600,
+      "height": 2843,
+      "caption": "Osabarimba statue and surrounding Cape Coast streets; a separate landmark view.",
+      "credit": "Supplied by the site owner; original photographer not verified",
+      "source": "IMG_0642.jpg",
+      "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across both photographs."
+    }
+  ]
+}
