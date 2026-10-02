@@ -61,3 +61,43 @@ figure{margin:0}.hero-photograph{align-self:center}.hero-photograph img{display:
 
 /* Custom coastal compass identity */
 .brand .brand-mark{display:block;width:48px;height:48px;flex:0 0 48px}.brand>span:not(.brand-mark){font-family:Georgia,'Times New Roman',serif;font-size:21px;letter-spacing:-.035em;line-height:1.15}.brand strong{font-family:'Avenir Next',Avenir,'Segoe UI',sans-serif;font-size:11px;font-weight:600;letter-spacing:.22em;line-height:1.5;text-transform:uppercase;margin-top:4px}.brand{gap:12px}footer .brand{width:fit-content}@media(max-width:767px){.brand .brand-mark{width:42px;height:42px;flex-basis:42px}.brand>span:not(.brand-mark){font-size:19px}.brand strong{font-size:10px;letter-spacing:.2em}}
+
+/* Photographic destination homepage, inspired by the supplied travel reference. */
+.destination-home .site-header{position:absolute;inset:0 0 auto;z-index:3;color:white;height:100px;max-width:1320px;padding:0 48px}
+.destination-home .site-header nav a:hover,.destination-home .site-header nav a[aria-current]{color:#fff;text-decoration-color:var(--gold)}
+.destination-home .site-header a:focus-visible{outline-color:var(--gold)}
+.destination-home .hero{position:relative;isolation:isolate;display:flex;align-items:flex-end;justify-content:center;min-height:640px;max-width:none;margin:0;padding:180px 48px 66px;background:#10262d;color:white;overflow:hidden}
+.destination-home .hero-photograph{position:absolute;inset:0;z-index:-2;margin:0}
+.destination-home .hero-photograph img{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 46%;border:0;border-radius:0;filter:none}
+.destination-home .hero:after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(5,20,27,.55),transparent 32%,rgba(4,15,20,.25) 48%,#06151b 100%)}
+.destination-home .hero-copy{width:100%;max-width:1040px;text-align:center}
+.destination-home .hero .eyebrow{color:#fff0ce;margin-bottom:12px;letter-spacing:.24em}
+.destination-home .hero h1{font-family:'Avenir Next',Avenir,'Segoe UI',sans-serif;font-weight:750;font-size:clamp(40px,5vw,68px);letter-spacing:-.045em;line-height:1.12;text-wrap:balance}
+.destination-home .hero-copy>p:not(.eyebrow){max-width:none;margin:16px auto 30px;font-size:18px;color:#f4f5ef}
+.destination-shortcuts{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;font-size:13px}
+.destination-shortcuts a{display:flex;justify-content:center;align-items:center;gap:11px;padding:14px 12px;background:#fffdf7;color:var(--ink);border-radius:40px;font-weight:650;transition:background .2s,transform .2s}
+.destination-shortcuts a:hover{background:#f5dfb0;transform:translateY(-3px);text-decoration:none}
+.destination-shortcuts svg{flex-shrink:0;color:#45685f}
+.destination-home .hero-photograph figcaption{position:absolute;bottom:17px;left:20px;right:20px;text-align:center;color:#d2d9d7;font-size:10px;padding:0;margin:0}
+.destination-home .preview{background:#eeeee7;color:#454d47}
+.destination-home .destination-section{padding-top:44px;padding-bottom:42px}
+.destination-section-heading{display:flex;justify-content:space-between;align-items:center;gap:20px}
+.destination-section-heading h2{font-family:'Avenir Next',Avenir,'Segoe UI',sans-serif;font-size:36px;font-weight:700;letter-spacing:-.04em}
+.all-places{display:flex;align-items:center;gap:12px;font-size:13px;font-weight:600}
+.all-places span{display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:#285e51;color:#fff}
+.destination-lead{color:var(--muted);font-size:14px;margin:12px 0 24px}
+.destination-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px}
+.destination-card{position:relative;display:block;min-height:285px;border-radius:10px;overflow:hidden;background:#183b42;color:white;isolation:isolate}
+.destination-card:after{content:"";position:absolute;inset:35% 0 0;background:linear-gradient(transparent,rgba(4,19,24,.92));z-index:-1}
+.destination-card>img{position:absolute;width:100%;height:100%;object-fit:cover;z-index:-2;transition:transform .45s}
+.destination-card:hover>img{transform:scale(1.05)}
+.destination-card:focus-visible{outline-offset:3px}
+.destination-card-label{position:absolute;inset:auto 17px 19px;display:block;padding-right:12px}
+.destination-card-label>span:first-child{display:block;font-size:10px;text-transform:uppercase;letter-spacing:.08em;margin-bottom:8px;color:#f5e8cf}
+.destination-card-label strong{display:block;font-size:19px;line-height:1.25;font-weight:650}
+.destination-arrow{position:absolute;bottom:0;right:-3px;font-size:18px}
+.destination-photo-credit{font-size:10px;color:var(--muted);margin-top:12px}
+@media(max-width:1100px){.destination-shortcuts{gap:12px}.destination-card{min-height:260px}.destination-card-label{left:12px;right:12px}.destination-card-label strong{font-size:17px}}
+@media(max-width:767px){.destination-home .site-header{height:auto;padding:22px 20px;gap:16px}.destination-home .site-header nav{font-size:11px}.destination-home .hero{min-height:650px;padding:200px 20px 60px}.destination-home .hero-photograph img{object-position:43% 50%}.destination-home .hero h1{font-size:44px}.destination-home .hero-copy>p:not(.eyebrow){font-size:15px;margin:18px 0 26px}.destination-shortcuts{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;font-size:11px}.destination-shortcuts a{padding:13px 8px;gap:7px}.destination-home .destination-section{padding-top:32px}.destination-section-heading{align-items:flex-start;gap:10px}.destination-section-heading h2{font-size:30px}.all-places{font-size:11px;gap:6px;padding-top:5px}.all-places span{width:23px;height:23px}.destination-grid{grid-template-columns:none;grid-auto-flow:column;grid-auto-columns:72%;overflow-x:auto;scroll-snap-type:x proximity;padding:5px 4px 12px;margin:0 -4px;gap:12px}.destination-card{min-height:300px;scroll-snap-align:start}.destination-card-label strong{font-size:21px}.destination-photo-credit{font-size:9px}.destination-home .hero-photograph figcaption{font-size:9px}}
+@media(prefers-reduced-motion:reduce){.destination-shortcuts a,.destination-card>img{transition:none}.destination-shortcuts a:hover{transform:none}}
+.destination-home .hero-photograph{height:100%;align-self:stretch}
