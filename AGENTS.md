@@ -25,5 +25,5 @@ The files in `agent/` are optional task references. Read only the most relevant 
 ## General Working Rules
 
 - Inspect the existing files and behavior before editing; make focused changes and preserve unrelated user work.
-- Do not claim that proposed Cape Coast Compass services or integrations are operational unless the code and project context confirm it.
+- Do not claim that proposed Tourism Compass transport, booking, payment services or integrations are operational unless the code and project context confirm it. The current scope is Ghana-wide discovery and trip planning; Cape Coast is one destination.
 - Verify changes with the narrowest relevant check available and report checks that could not be run.
