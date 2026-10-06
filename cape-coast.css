@@ -16,7 +16,19 @@
 .cape-interest-controls{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
 .cape-interest-controls button{min-height:44px;padding:10px 18px;border:1px solid var(--ink);border-radius:var(--radius);background:transparent;color:var(--ink);font:inherit;font-size:14px}
 .cape-interest-controls button[aria-pressed=true]{background:var(--ink);color:var(--paper)}
+.cape-essential-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.cape-essential-item{min-width:0;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+.cape-essential-link{display:flex;align-items:center;gap:12px;padding:12px;color:var(--ink);font-weight:700;min-height:100px;text-decoration:none}
+.cape-essential-link img{width:80px;height:70px;object-fit:contain;flex-shrink:0;border-radius:6px}
+.cape-essential-link span{overflow-wrap:anywhere}
+.cape-essential-item .attraction-photo-credits{font-size:9px;padding:0 12px 10px}
+.cape-destination-active .region-tools{grid-template-columns:minmax(0,1fr) auto;margin-top:20px;align-items:end}
+.cape-destination-active .region-tools label[hidden],.cape-destination-active #region-reset[hidden]{display:none!important}
+.cape-destination-active .cape-interest-controls{margin:16px 0}
+.cape-destination-active .town-heading{display:none}
+.cape-destination-active{overflow-anchor:none}
 .cape-destination-active #region-browser{margin:0 0 24px;padding-top:32px;border-top:1px solid var(--line)}
 .cape-destination-active #region-browser-heading{font-size:clamp(30px,3.5vw,42px)}
 @media(max-width:767px){.cape-hero{grid-template-columns:1fr;gap:28px}.cape-subtitle{font-size:20px}.cape-actions{align-items:stretch}.cape-actions .button,.cape-actions .text-link{justify-content:center;width:100%}.cape-destination{margin-top:20px}.cape-essentials,.cape-interests{margin-top:36px}.cape-interest-controls button{flex:1 1 auto}.cape-destination-active #region-browser{padding-top:24px}}
 @media(prefers-reduced-motion:reduce){.cape-destination-active{scroll-behavior:auto}}
+@media(max-width:767px){.cape-essential-links{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.cape-essential-link{flex-direction:column;align-items:flex-start;padding:10px;gap:8px;font-size:14px;line-height:1.4}.cape-essential-link img{width:100%;height:70px}.cape-essential-item .attraction-photo-credits{padding:0 10px 8px}.cape-destination-active .region-tools{grid-template-columns:1fr}}
