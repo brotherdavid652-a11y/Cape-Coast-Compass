@@ -1,0 +1,16 @@
+.regional-directory .town-view-controls{display:flex;gap:8px;margin:18px 0}
+.regional-directory .town-view-controls[hidden],.regional-directory #town-map-panel[hidden],.regional-directory #town-map-canvas[hidden],.regional-directory #town-map-empty[hidden]{display:none}
+.regional-directory .town-view-controls button,.regional-directory #town-map-return{min-height:44px;padding:10px 20px;border:1px solid var(--ink);border-radius:var(--radius);font:inherit;font-size:14px;background:transparent;color:var(--ink);cursor:pointer}
+.regional-directory .town-view-controls button[aria-pressed=true]{background:var(--ink);color:#fffdf7}
+.regional-directory .town-view-controls button:focus-visible,.regional-directory #town-map-return:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+.regional-directory #town-map-panel{min-width:0}
+.regional-directory #town-map-summary{font-size:14px;color:var(--muted);margin:12px 0}
+.regional-directory #town-map-empty{padding:24px;border:1px solid var(--line);border-radius:var(--radius);background:#fffdf7}
+.regional-directory #town-map-empty p{margin:0 0 18px;line-height:1.6}
+.regional-directory #town-map-canvas{width:100%;height:520px;max-height:70vh;border:1px solid var(--line);border-radius:var(--radius);z-index:0}
+.town-map-pin span{display:block;width:26px;height:26px;border-radius:50% 50% 50% 0;transform:rotate(-45deg);background:#142e38;border:3px solid #efbf61;box-shadow:0 1px 4px #0006}
+.town-marker-popup{max-width:260px;overflow-wrap:anywhere;color:#142e38}
+.town-marker-popup h3{font-size:18px;line-height:1.3;margin:0 0 8px}
+.town-marker-popup p{font-size:13px;line-height:1.4;margin:6px 0}
+.town-marker-popup .button{display:inline-flex;min-height:44px;margin-top:8px;color:#142e38}
+@media(max-width:767px){.regional-directory #town-map-canvas{height:380px}.regional-directory .town-view-controls button{flex:1}.town-marker-popup{max-width:220px}.regional-directory #town-map-empty{padding:20px}}

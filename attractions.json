@@ -56,7 +56,16 @@
         "source": "IMG_0617.jpg",
         "changes": "Color and brightness refined with AI. Download upscaled to a 7680-pixel long edge, not native 8K detail."
       }
-    ]
+    ],
+    "location": {
+      "latitude": 5.103916666666667,
+      "longitude": -1.2410833333333333,
+      "source": "https://www.museuexea.org/en/fortificacoes/castelo-de-cape-coast",
+      "corroboration": "https://www.wikidata.org/wiki/Q1254826",
+      "verified": true,
+      "verificationMethod": "Published attraction coordinates checked against named attraction and town; not inferred from photographs or town centres.",
+      "checkedOn": "2026-10-06"
+    }
   },
   {
     "id": "fort-victoria",
@@ -571,7 +580,32 @@
     "access": "Church permission and visiting times needed.",
     "category": "Faith & architecture",
     "nearby": false,
-    "photos": []
+    "photos": [
+      {
+        "id": "cathedral-1",
+        "src": "assets/photos/st-francis-de-sales-cathedral/cathedral-1-1600.webp",
+        "srcset": "assets/photos/st-francis-de-sales-cathedral/cathedral-1-480.webp 480w, assets/photos/st-francis-de-sales-cathedral/cathedral-1-960.webp 960w, assets/photos/st-francis-de-sales-cathedral/cathedral-1-1600.webp 1600w",
+        "full": "assets/photos/st-francis-de-sales-cathedral/cathedral-1-8k.jpg",
+        "width": 1600,
+        "height": 2133,
+        "caption": "Front facade and steps of St. Francis de Sales Cathedral.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0657.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      },
+      {
+        "id": "cathedral-2",
+        "src": "assets/photos/st-francis-de-sales-cathedral/cathedral-2-1600.webp",
+        "srcset": "assets/photos/st-francis-de-sales-cathedral/cathedral-2-480.webp 480w, assets/photos/st-francis-de-sales-cathedral/cathedral-2-960.webp 960w, assets/photos/st-francis-de-sales-cathedral/cathedral-2-1600.webp 1600w",
+        "full": "assets/photos/st-francis-de-sales-cathedral/cathedral-2-8k.jpg",
+        "width": 1600,
+        "height": 1063,
+        "caption": "Aerial view of St. Francis de Sales Cathedral and Cape Coast coastline.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0658.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      }
+    ]
   },
   {
     "id": "victoria-park",
@@ -581,7 +615,32 @@
     "access": "Check events and access.",
     "category": "Nature & coast",
     "nearby": false,
-    "photos": []
+    "photos": [
+      {
+        "id": "park-1",
+        "src": "assets/photos/victoria-park/park-1-1600.webp",
+        "srcset": "assets/photos/victoria-park/park-1-480.webp 480w, assets/photos/victoria-park/park-1-960.webp 960w, assets/photos/victoria-park/park-1-1600.webp 1600w",
+        "full": "assets/photos/victoria-park/park-1-8k.jpg",
+        "width": 1600,
+        "height": 1108,
+        "caption": "Bust and pedestal at Victoria Park in Cape Coast.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0662.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      },
+      {
+        "id": "park-2",
+        "src": "assets/photos/victoria-park/park-2-1600.webp",
+        "srcset": "assets/photos/victoria-park/park-2-480.webp 480w, assets/photos/victoria-park/park-2-960.webp 960w, assets/photos/victoria-park/park-2-1600.webp 1600w",
+        "full": "assets/photos/victoria-park/park-2-8k.jpg",
+        "width": 1600,
+        "height": 1067,
+        "caption": "Victoria Park grandstand with red, yellow and green steps.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "3BFF5738-9D93-48A5-A400-447B5B455A47.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      }
+    ]
   },
   {
     "id": "ato-austin-park",
@@ -591,7 +650,44 @@
     "access": "Local inspection needed.",
     "category": "Nature & coast",
     "nearby": false,
-    "photos": []
+    "photos": [
+      {
+        "id": "park-1",
+        "src": "assets/photos/ato-austin-park/park-1-1600.webp",
+        "srcset": "assets/photos/ato-austin-park/park-1-480.webp 480w, assets/photos/ato-austin-park/park-1-960.webp 960w, assets/photos/ato-austin-park/park-1-1600.webp 1600w",
+        "full": "assets/photos/ato-austin-park/park-1-8k.jpg",
+        "width": 1600,
+        "height": 2848,
+        "caption": "Building and entrance steps at Ato Austin Park.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "4612B01C-EAEE-4F60-924E-37A5209F2725.PNG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      },
+      {
+        "id": "park-2",
+        "src": "assets/photos/ato-austin-park/park-2-1600.webp",
+        "srcset": "assets/photos/ato-austin-park/park-2-480.webp 480w, assets/photos/ato-austin-park/park-2-960.webp 960w, assets/photos/ato-austin-park/park-2-1600.webp 1600w",
+        "full": "assets/photos/ato-austin-park/park-2-8k.jpg",
+        "width": 1600,
+        "height": 3558,
+        "caption": "Gate and tree-lined entrance to Ato Austin Park.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0666.JPG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      },
+      {
+        "id": "park-3",
+        "src": "assets/photos/ato-austin-park/park-3-1600.webp",
+        "srcset": "assets/photos/ato-austin-park/park-3-480.webp 480w, assets/photos/ato-austin-park/park-3-960.webp 960w, assets/photos/ato-austin-park/park-3-1600.webp 1600w",
+        "full": "assets/photos/ato-austin-park/park-3-8k.jpg",
+        "width": 1600,
+        "height": 1197,
+        "caption": "Garden walkway and building at Ato Austin Park.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "IMG_0667.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      }
+    ]
   },
   {
     "id": "jacob-wilson-seys-tomb",
@@ -601,7 +697,32 @@
     "access": "Confirm location and respectful access.",
     "category": "Heritage",
     "nearby": false,
-    "photos": []
+    "photos": [
+      {
+        "id": "cathedral-1",
+        "src": "assets/photos/jacob-wilson-seys-tomb/cathedral-1-1600.webp",
+        "srcset": "assets/photos/jacob-wilson-seys-tomb/cathedral-1-480.webp 480w, assets/photos/jacob-wilson-seys-tomb/cathedral-1-960.webp 960w, assets/photos/jacob-wilson-seys-tomb/cathedral-1-1600.webp 1600w",
+        "full": "assets/photos/jacob-wilson-seys-tomb/cathedral-1-8k.jpg",
+        "width": 1600,
+        "height": 2130,
+        "caption": "Close-up of the memorial pedestal at Jacob Wilson Sey’s tomb; inscription is blurred in the supplied photo.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "Jacob Wilson Sey’s tomb/5AAF1571-FC61-44E6-8EA5-0C40A0DC6599.PNG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      },
+      {
+        "id": "cathedral-2",
+        "src": "assets/photos/jacob-wilson-seys-tomb/cathedral-2-1600.webp",
+        "srcset": "assets/photos/jacob-wilson-seys-tomb/cathedral-2-480.webp 480w, assets/photos/jacob-wilson-seys-tomb/cathedral-2-960.webp 960w, assets/photos/jacob-wilson-seys-tomb/cathedral-2-1600.webp 1600w",
+        "full": "assets/photos/jacob-wilson-seys-tomb/cathedral-2-8k.jpg",
+        "width": 1600,
+        "height": 2128,
+        "caption": "Full monument and surroundings at Jacob Wilson Sey’s tomb.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "Jacob Wilson Sey’s tomb/F3033F9A-1F9D-4C62-AA4E-DDB1F5EA1468.PNG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      }
+    ]
   },
   {
     "id": "historic-high-court-building",
@@ -611,7 +732,32 @@
     "access": "Interior access not confirmed.",
     "category": "Heritage",
     "nearby": false,
-    "photos": []
+    "photos": [
+      {
+        "id": "cathedral-1",
+        "src": "assets/photos/historic-high-court-building/cathedral-1-1600.webp",
+        "srcset": "assets/photos/historic-high-court-building/cathedral-1-480.webp 480w, assets/photos/historic-high-court-building/cathedral-1-960.webp 960w, assets/photos/historic-high-court-building/cathedral-1-1600.webp 1600w",
+        "full": "assets/photos/historic-high-court-building/cathedral-1-8k.jpg",
+        "width": 1600,
+        "height": 961,
+        "caption": "Side exterior of the Historic High Court building.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "Historic High Court building/232988AA-898C-47B1-8A70-277A01B75E30.jpg",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      },
+      {
+        "id": "cathedral-2",
+        "src": "assets/photos/historic-high-court-building/cathedral-2-1600.webp",
+        "srcset": "assets/photos/historic-high-court-building/cathedral-2-480.webp 480w, assets/photos/historic-high-court-building/cathedral-2-960.webp 960w, assets/photos/historic-high-court-building/cathedral-2-1600.webp 1600w",
+        "full": "assets/photos/historic-high-court-building/cathedral-2-8k.jpg",
+        "width": 1600,
+        "height": 961,
+        "caption": "Corner exterior of the Historic High Court building.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "Historic High Court building/191780E6-E678-4D5D-A4AC-39403D9D3717.PNG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      }
+    ]
   },
   {
     "id": "colonial-military-cemetery",
@@ -621,7 +767,20 @@
     "access": "Confirm access; museum status unverified.",
     "category": "Heritage",
     "nearby": false,
-    "photos": []
+    "photos": [
+      {
+        "id": "cathedral-1",
+        "src": "assets/photos/colonial-military-cemetery/cathedral-1-1600.webp",
+        "srcset": "assets/photos/colonial-military-cemetery/cathedral-1-480.webp 480w, assets/photos/colonial-military-cemetery/cathedral-1-960.webp 960w, assets/photos/colonial-military-cemetery/cathedral-1-1600.webp 1600w",
+        "full": "assets/photos/colonial-military-cemetery/cathedral-1-8k.jpg",
+        "width": 1600,
+        "height": 1067,
+        "caption": "Entrance to the Military War Memorial Cemetery and Museum in Cape Coast.",
+        "credit": "Supplied by the site owner; original photographer not verified",
+        "source": "Colonial Military Cemetery/17C6E307-6200-4CEB-87A9-9ABAD8BA3FC1.PNG",
+        "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
+      }
+    ]
   },
   {
     "id": "ucc-botanical-garden",
@@ -651,7 +810,32 @@
     "access": "Separate arrangements required; confirm current access directly.",
     "category": "Nature & coast",
     "nearby": true,
-    "photos": []
+    "photos": [
+      {
+        "placeId": "hans-cottage-botel",
+        "id": "hans-cottage-botel-view",
+        "src": "assets/photos/regions/hans-cottage-botel/view-1600.webp",
+        "srcset": "assets/photos/regions/hans-cottage-botel/view-480.webp 480w, assets/photos/regions/hans-cottage-botel/view-960.webp 960w, assets/photos/regions/hans-cottage-botel/view-1600.webp 1600w, assets/photos/regions/hans-cottage-botel/view-2400.webp 2400w",
+        "full": "assets/photos/regions/hans-cottage-botel/view-12k.jpg",
+        "width": 1600,
+        "height": 1066,
+        "sourceWidth": 1280,
+        "sourceHeight": 853,
+        "fullWidth": 12288,
+        "fullHeight": 8189,
+        "caption": "Hans Cottage Botel.",
+        "credit": "Adam Jones from Kelowna, BC, Canada",
+        "source": "https://commons.wikimedia.org/wiki/File:Scenery_at_Hans_Cottage_Botel_-_Near_Cape_Coast_-_Ghana_(4737835257).jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Scenery_at_Hans_Cottage_Botel_-_Near_Cape_Coast_-_Ghana_%284737835257%29.jpg",
+        "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
+        "adjustments": {
+          "brightness": 1.08,
+          "saturation": 1.025
+        }
+      }
+    ]
   },
   {
     "id": "kakum-national-park",
@@ -697,7 +881,41 @@
     "access": "Separate arrangements required; confirm current access directly.",
     "category": "Heritage",
     "nearby": true,
-    "photos": []
+    "photos": [
+      {
+        "placeId": "elmina-castle",
+        "id": "elmina-castle-view",
+        "src": "assets/photos/regions/elmina-castle/view-1600.webp",
+        "srcset": "assets/photos/regions/elmina-castle/view-480.webp 480w, assets/photos/regions/elmina-castle/view-960.webp 960w, assets/photos/regions/elmina-castle/view-1600.webp 1600w, assets/photos/regions/elmina-castle/view-2400.webp 2400w",
+        "full": "assets/photos/regions/elmina-castle/view-12k.jpg",
+        "width": 1600,
+        "height": 1066,
+        "sourceWidth": 1280,
+        "sourceHeight": 853,
+        "fullWidth": 12288,
+        "fullHeight": 8189,
+        "caption": "Exterior of Elmina Castle.",
+        "credit": "Damien Halleux Radermecker",
+        "source": "https://commons.wikimedia.org/wiki/File:Elmina_Castle_-_Ghana.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Elmina_Castle_-_Ghana.jpg",
+        "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
+        "adjustments": {
+          "brightness": 0.98,
+          "saturation": 1.025
+        }
+      }
+    ],
+    "location": {
+      "latitude": 5.08275,
+      "longitude": -1.3480699999999999,
+      "source": "https://www.wikidata.org/wiki/Q55264655",
+      "corroboration": "https://www.latlong.net/place/elmina-castle-elmina-ghana-11262.html",
+      "verified": true,
+      "verificationMethod": "Published attraction coordinates checked against named attraction and town; not inferred from photographs or town centres.",
+      "checkedOn": "2026-10-06"
+    }
   },
   {
     "id": "fort-st-jago-coenraadsburg",
@@ -707,7 +925,32 @@
     "access": "Separate arrangements required; confirm current access directly.",
     "category": "Heritage",
     "nearby": true,
-    "photos": []
+    "photos": [
+      {
+        "placeId": "fort-st-jago-coenraadsburg",
+        "id": "fort-st-jago-coenraadsburg-view",
+        "src": "assets/photos/regions/fort-st-jago-coenraadsburg/view-1600.webp",
+        "srcset": "assets/photos/regions/fort-st-jago-coenraadsburg/view-480.webp 480w, assets/photos/regions/fort-st-jago-coenraadsburg/view-960.webp 960w, assets/photos/regions/fort-st-jago-coenraadsburg/view-1600.webp 1600w, assets/photos/regions/fort-st-jago-coenraadsburg/view-2400.webp 2400w",
+        "full": "assets/photos/regions/fort-st-jago-coenraadsburg/view-12k.jpg",
+        "width": 1600,
+        "height": 821,
+        "sourceWidth": 1280,
+        "sourceHeight": 657,
+        "fullWidth": 12288,
+        "fullHeight": 6307,
+        "caption": "Fort St. Jago / Coenraadsburg, Elmina.",
+        "credit": "Owula kpakpo",
+        "source": "https://commons.wikimedia.org/wiki/File:Fort_St._Jago_(1_of_3).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/Fort_St._Jago_%281_of_3%29.jpg",
+        "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
+        "adjustments": {
+          "brightness": 0.98,
+          "saturation": 1.025
+        }
+      }
+    ]
   },
   {
     "id": "elmina-fishing-harbour-market",
@@ -717,7 +960,32 @@
     "access": "Separate arrangements required; confirm current access directly.",
     "category": "Culture & everyday life",
     "nearby": true,
-    "photos": []
+    "photos": [
+      {
+        "placeId": "elmina-fishing-harbour-market",
+        "id": "elmina-fishing-harbour-market-view",
+        "src": "assets/photos/regions/elmina-fishing-harbour-market/view-1600.webp",
+        "srcset": "assets/photos/regions/elmina-fishing-harbour-market/view-480.webp 480w, assets/photos/regions/elmina-fishing-harbour-market/view-960.webp 960w, assets/photos/regions/elmina-fishing-harbour-market/view-1600.webp 1600w, assets/photos/regions/elmina-fishing-harbour-market/view-2400.webp 2400w",
+        "full": "assets/photos/regions/elmina-fishing-harbour-market/view-12k.jpg",
+        "width": 1600,
+        "height": 1066,
+        "sourceWidth": 1280,
+        "sourceHeight": 853,
+        "fullWidth": 12288,
+        "fullHeight": 8189,
+        "caption": "Elmina fishing harbour & market.",
+        "credit": "Benggriff",
+        "source": "https://commons.wikimedia.org/wiki/File:Elmina_Port,_Ghana.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Elmina_Port%2C_Ghana.JPG",
+        "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
+        "adjustments": {
+          "brightness": 0.9951068174573988,
+          "saturation": 1.025
+        }
+      }
+    ]
   },
   {
     "id": "dutch-cemetery",
@@ -727,7 +995,32 @@
     "access": "Separate arrangements required; confirm current access directly.",
     "category": "Heritage",
     "nearby": true,
-    "photos": []
+    "photos": [
+      {
+        "placeId": "dutch-cemetery",
+        "id": "dutch-cemetery-view",
+        "src": "assets/photos/regions/dutch-cemetery/view-1600.webp",
+        "srcset": "assets/photos/regions/dutch-cemetery/view-480.webp 480w, assets/photos/regions/dutch-cemetery/view-960.webp 960w, assets/photos/regions/dutch-cemetery/view-1600.webp 1600w, assets/photos/regions/dutch-cemetery/view-2400.webp 2400w",
+        "full": "assets/photos/regions/dutch-cemetery/view-12k.jpg",
+        "width": 1600,
+        "height": 1200,
+        "sourceWidth": 1280,
+        "sourceHeight": 960,
+        "fullWidth": 12288,
+        "fullHeight": 9216,
+        "caption": "Dutch Cemetery.",
+        "credit": "Fentener van Vlissingen",
+        "source": "https://commons.wikimedia.org/wiki/File:Dutch_Cemetery,_Elmina.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dutch_Cemetery%2C_Elmina.JPG",
+        "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
+        "adjustments": {
+          "brightness": 1.0752571457790057,
+          "saturation": 1.025
+        }
+      }
+    ]
   },
   {
     "id": "brenu-beach",
@@ -737,7 +1030,32 @@
     "access": "Separate arrangements required; confirm current access directly.",
     "category": "Nature & coast",
     "nearby": true,
-    "photos": []
+    "photos": [
+      {
+        "placeId": "brenu-beach",
+        "id": "brenu-beach-view",
+        "src": "assets/photos/regions/brenu-beach/view-1600.webp",
+        "srcset": "assets/photos/regions/brenu-beach/view-480.webp 480w, assets/photos/regions/brenu-beach/view-960.webp 960w, assets/photos/regions/brenu-beach/view-1600.webp 1600w, assets/photos/regions/brenu-beach/view-2400.webp 2400w",
+        "full": "assets/photos/regions/brenu-beach/view-12k.jpg",
+        "width": 1600,
+        "height": 1067,
+        "sourceWidth": 1200,
+        "sourceHeight": 800,
+        "fullWidth": 12288,
+        "fullHeight": 8192,
+        "caption": "Brenu Beach.",
+        "credit": "Kobebigs",
+        "source": "https://commons.wikimedia.org/wiki/File:Brenu-Elmina_beachfront.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/52/Brenu-Elmina_beachfront.jpg",
+        "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
+        "adjustments": {
+          "brightness": 0.98,
+          "saturation": 1.025
+        }
+      }
+    ]
   },
   {
     "id": "assin-manso-ancestral-slave-river-site",
@@ -747,7 +1065,32 @@
     "access": "Separate arrangements required; confirm current access directly.",
     "category": "Heritage",
     "nearby": true,
-    "photos": []
+    "photos": [
+      {
+        "placeId": "assin-manso-ancestral-slave-river-site",
+        "id": "assin-manso-ancestral-slave-river-site-view",
+        "src": "assets/photos/regions/assin-manso-ancestral-slave-river-site/view-1600.webp",
+        "srcset": "assets/photos/regions/assin-manso-ancestral-slave-river-site/view-480.webp 480w, assets/photos/regions/assin-manso-ancestral-slave-river-site/view-960.webp 960w, assets/photos/regions/assin-manso-ancestral-slave-river-site/view-1600.webp 1600w, assets/photos/regions/assin-manso-ancestral-slave-river-site/view-2400.webp 2400w",
+        "full": "assets/photos/regions/assin-manso-ancestral-slave-river-site/view-12k.jpg",
+        "width": 1600,
+        "height": 2133,
+        "sourceWidth": 810,
+        "sourceHeight": 1080,
+        "fullWidth": 9216,
+        "fullHeight": 12288,
+        "caption": "Visitors at the Assin Manso Ancestral Slave River site.",
+        "credit": "Spendilove Incoom",
+        "source": "https://commons.wikimedia.org/wiki/File:An_Adventurous_Trip.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/An_Adventurous_Trip.jpg",
+        "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
+        "adjustments": {
+          "brightness": 0.98,
+          "saturation": 1.025
+        }
+      }
+    ]
   },
   {
     "id": "ostrich-farm",
