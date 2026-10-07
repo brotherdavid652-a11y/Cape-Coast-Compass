@@ -1,0 +1,2 @@
+// Retain explicit browsing filters when returning from an attraction to its results.
+(()=>{'use strict';const params=new URL(location.href).searchParams;if(!params.has('region')&&!params.has('q')&&!params.has('category'))return;for(const link of document.querySelectorAll('a[href]')){const url=new URL(link.href);if(url.origin!==location.origin||!/^\/attractions(?:\.html)?$/.test(url.pathname))continue;for(const key of ['region','town','q','category'])if(params.has(key))url.searchParams.set(key,params.get(key));url.hash='';link.href=url}})();

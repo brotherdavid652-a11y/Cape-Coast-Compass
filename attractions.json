@@ -570,7 +570,32 @@
     "access": "Church permission and visiting times needed.",
     "category": "Faith & architecture",
     "nearby": false,
-    "photos": []
+    "photos": [
+      {
+        "id": "wesley-commons-2013",
+        "placeId": "wesley-methodist-cathedral",
+        "src": "assets/photos/regions/wesley-methodist-cathedral/view-1600.webp",
+        "srcset": "assets/photos/regions/wesley-methodist-cathedral/view-480.webp 480w, assets/photos/regions/wesley-methodist-cathedral/view-960.webp 960w, assets/photos/regions/wesley-methodist-cathedral/view-1600.webp 1600w",
+        "width": 1600,
+        "height": 1200,
+        "caption": "Wesley Methodist Cathedral in Cape Coast, photographed in 2013.",
+        "credit": "Maarten van der Bent",
+        "source": "https://commons.wikimedia.org/wiki/File:Wesley_Methodist_Church_(Cape_Coast,_Ghana_2013).jpg",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/Wesley_Methodist_Church_%28Cape_Coast%2C_Ghana_2013%29.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "Resized and converted to WebP; no generative edits.",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "location": {
+      "latitude": 5.105697,
+      "longitude": -1.242456,
+      "source": "https://commons.wikimedia.org/wiki/Category:Wesley_Methodist_Cathedral,_Cape_Coast_(Ghana)",
+      "verified": true,
+      "verificationMethod": "Category object location explicitly identifies the Cape Coast church; not the photograph camera position.",
+      "checkedOn": "2026-10-07"
+    }
   },
   {
     "id": "st-francis-de-sales-cathedral",
@@ -950,7 +975,15 @@
           "saturation": 1.025
         }
       }
-    ]
+    ],
+    "location": {
+      "latitude": 5.08444,
+      "longitude": -1.35083,
+      "source": "https://en.wikipedia.org/wiki/Fort_Coenraadsburg",
+      "verified": true,
+      "verificationMethod": "Published site coordinates for Fort Coenraadsburg in Elmina, also known as Fort St. Jago.",
+      "checkedOn": "2026-10-07"
+    }
   },
   {
     "id": "elmina-fishing-harbour-market",
@@ -1020,7 +1053,16 @@
           "saturation": 1.025
         }
       }
-    ]
+    ],
+    "location": {
+      "latitude": 5.086,
+      "longitude": -1.353,
+      "source": "https://en.wikipedia.org/wiki/Dutch_Cemetery,_Elmina",
+      "verified": true,
+      "verificationMethod": "Named cemetery coordinates corroborated by Commons category object location.",
+      "checkedOn": "2026-10-07",
+      "corroboration": "https://commons.wikimedia.org/wiki/Category:Dutch_Cemetery,_Elmina"
+    }
   },
   {
     "id": "brenu-beach",

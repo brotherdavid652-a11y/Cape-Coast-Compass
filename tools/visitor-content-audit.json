@@ -1,0 +1,962 @@
+{
+  "checkedOn": "2026-10-07",
+  "records": [
+    {
+      "id": "cape-coast-castle-museum",
+      "name": "Cape Coast Castle & Museum",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": true,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "fort-victoria",
+      "name": "Fort Victoria",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "fort-william-lighthouse",
+      "name": "Fort William Lighthouse",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "fosu-lagoon",
+      "name": "Fosu Lagoon",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "kotokuraba-market",
+      "name": "Kotokuraba Market",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "emintsimadze-palace",
+      "name": "Emintsimadze Palace",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "osabarimba-asafo-art-gallery",
+      "name": "Osabarimba Asafo Art Gallery",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "global-mamas-cultural-workshops",
+      "name": "Global Mamas cultural workshops",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "cape-coast-beachfront",
+      "name": "Cape Coast beachfront",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "chapel-square",
+      "name": "Wesley Methodist Church, popularly known as Chapel Square",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "london-bridge",
+      "name": "London Bridge",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "atta-mills-presidential-library",
+      "name": "John Evans Atta Mills Presidential Library",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "christ-church-cathedral",
+      "name": "Christ Church Cathedral",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "wesley-methodist-cathedral",
+      "name": "Wesley Methodist Cathedral",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": true,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "st-francis-de-sales-cathedral",
+      "name": "St. Francis de Sales Cathedral",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "victoria-park",
+      "name": "Victoria Park",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "ato-austin-park",
+      "name": "Ato Austin Park",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "jacob-wilson-seys-tomb",
+      "name": "Jacob Wilson Sey’s tomb",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "historic-high-court-building",
+      "name": "Historic High Court building",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "colonial-military-cemetery",
+      "name": "Colonial Military Cemetery",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "ucc-botanical-garden",
+      "name": "UCC botanical garden",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "fort-frederiksborg-site-amanful",
+      "name": "Fort Frederiksborg site, Amanful",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "hans-cottage-botel",
+      "name": "Hans Cottage Botel",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "kakum-national-park",
+      "name": "Kakum National Park",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "international-stingless-bee-centre",
+      "name": "International Stingless Bee Centre",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "elmina-castle",
+      "name": "Elmina Castle",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": true,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "fort-st-jago-coenraadsburg",
+      "name": "Fort St. Jago / Coenraadsburg",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": true,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "elmina-fishing-harbour-market",
+      "name": "Elmina fishing harbour & market",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "dutch-cemetery",
+      "name": "Dutch Cemetery",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": true,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "brenu-beach",
+      "name": "Brenu Beach",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "assin-manso-ancestral-slave-river-site",
+      "name": "Assin Manso Ancestral Slave River site",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "ostrich-farm",
+      "name": "Ostrich Farm",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "cape-coast-cape-coast-historic-town",
+      "name": "Cape Coast historic town",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "cape-coast-asafo-shrines-and-traditional-heritage-sites",
+      "name": "Asafo shrines and traditional heritage sites",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "elmina-elmina-historic-township",
+      "name": "Elmina historic township",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "elmina-posuban-shrines",
+      "name": "Posuban shrines",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "assin-manso-slave-route-memorial-sites",
+      "name": "Slave route memorial sites",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "assin-manso-ancestral-burial-and-remembrance-grounds",
+      "name": "Ancestral burial and remembrance grounds",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "fort-william-anomabo",
+      "name": "Fort William",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "anomabo-historic-merchant-houses",
+      "name": "Historic merchant houses",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "anomabo-anomabo-traditional-heritage",
+      "name": "Anomabo traditional heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "abandze-fort-amsterdam",
+      "name": "Fort Amsterdam",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "abandze-historic-coastal-settlement",
+      "name": "Historic coastal settlement",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "apam-fort-patience",
+      "name": "Fort Patience",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "apam-traditional-coastal-heritage",
+      "name": "Traditional coastal heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "accra-independence-square",
+      "name": "Independence Square",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": true,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "accra-kwame-nkrumah-memorial-park",
+      "name": "Kwame Nkrumah Memorial Park",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "osu-castle",
+      "name": "Osu Castle / Christiansborg Castle",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "accra-national-museum-of-ghana",
+      "name": "National Museum of Ghana",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "jamestown-james-fort",
+      "name": "James Fort",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "jamestown-ussher-fort",
+      "name": "Ussher Fort",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "jamestown-jamestown-lighthouse",
+      "name": "Jamestown Lighthouse",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "jamestown-historic-colonial-buildings",
+      "name": "Historic colonial buildings",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "jamestown-ga-traditional-heritage",
+      "name": "Ga traditional heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "osu-historic-osu-township",
+      "name": "Historic Osu township",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "kumasi-manhyia-palace-museum",
+      "name": "Manhyia Palace Museum",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": true
+    },
+    {
+      "id": "kumasi-kumasi-fort-and-military-museum",
+      "name": "Kumasi Fort and Military Museum",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "kumasi-prempeh-ii-jubilee-museum",
+      "name": "Prempeh II Jubilee Museum",
+      "hasGenuineDescription": true,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": true
+    },
+    {
+      "id": "kumasi-komfo-anokye-sword-site",
+      "name": "Komfo Anokye Sword Site",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "kumasi-okomfo-anokye-historical-heritage",
+      "name": "Okomfo Anokye historical heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "ejisu-yaa-asantewaa-museum-and-heritage-sites",
+      "name": "Yaa Asantewaa Museum and heritage sites",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "ejisu-ejisu-traditional-palace-heritage",
+      "name": "Ejisu traditional palace heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "adanwomase-bonwire-kente-weaving-heritage",
+      "name": "Kente-weaving heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "ntonso-adinkra-cultural-heritage",
+      "name": "Adinkra cultural heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "akropong-akuapem-traditional-heritage",
+      "name": "Akuapem traditional heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "akropong-historic-basel-mission-sites",
+      "name": "Historic Basel Mission sites",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "aburi-historic-colonial-era-botanical-gardens",
+      "name": "Historic colonial-era botanical gardens",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "aburi-missionary-and-colonial-heritage",
+      "name": "Missionary and colonial heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "akosombo-area-volta-river-development-heritage",
+      "name": "Volta River development heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "keta-fort-prinzenstein",
+      "name": "Fort Prinzenstein",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "keta-german-colonial-heritage",
+      "name": "German colonial heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "keta-anlo-ewe-traditional-heritage",
+      "name": "Anlo-Ewe traditional heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "ho-ewe-cultural-and-traditional-heritage",
+      "name": "Ewe cultural and traditional heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "amedzofe-german-missionary-heritage",
+      "name": "German missionary heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "amedzofe-historic-mountain-settlement",
+      "name": "Historic mountain settlement",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "axim-fort-st-anthony",
+      "name": "Fort St. Anthony",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "axim-historic-axim-township",
+      "name": "Historic Axim township",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "dixcove-fort-metal-cross",
+      "name": "Fort Metal Cross",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "butre-fort-batenstein",
+      "name": "Fort Batenstein",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "princestown-fort-gross-friedrichsburg",
+      "name": "Fort Gross Friedrichsburg",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "princestown-brandenburg-prussian-colonial-heritage",
+      "name": "Brandenburg/Prussian colonial heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "shama-fort-st-sebastian",
+      "name": "Fort St. Sebastian",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "sekondi-fort-orange",
+      "name": "Fort Orange",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "sekondi-colonial-railway-and-harbour-heritage",
+      "name": "Colonial railway and harbour heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "tamale-dagbon-cultural-heritage",
+      "name": "Dagbon cultural heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "tamale-traditional-architecture-and-chiefly-institutions",
+      "name": "Traditional architecture and chiefly institutions",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "yendi-gbewaa-palace",
+      "name": "Gbewaa Palace",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "yendi-dagbon-royal-heritage",
+      "name": "Dagbon royal heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "larabanga-larabanga-mosque",
+      "name": "Larabanga Mosque",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "larabanga-mystic-stone",
+      "name": "Mystic Stone",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "larabanga-historic-sudanic-architectural-heritage",
+      "name": "Historic Sudanic architectural heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "salaga-historic-salaga-slave-market",
+      "name": "Historic Salaga Slave Market",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "salaga-trans-saharan-trade-heritage",
+      "name": "Trans-Saharan trade heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "salaga-slave-route-heritage",
+      "name": "Slave-route heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "wa-wa-naas-palace",
+      "name": "Wa Naa’s Palace",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "wa-wa-central-mosque",
+      "name": "Wa Central Mosque",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "wa-historic-sudanic-architecture",
+      "name": "Historic Sudanic architecture",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "gwollu-gwollu-defence-wall",
+      "name": "Gwollu Defence Wall",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "gwollu-anti-slavery-heritage-connected-with-naa-kuri",
+      "name": "Anti-slavery heritage connected with Naa Kuri",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "nakore-nakore-mosque",
+      "name": "Nakore Mosque",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "navrongo-navrongo-cathedral",
+      "name": "Navrongo Cathedral",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "navrongo-colonial-and-missionary-heritage",
+      "name": "Colonial and missionary heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "paga-paga-traditional-heritage",
+      "name": "Paga traditional heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "paga-pikworo-slave-camp",
+      "name": "Pikworo Slave Camp",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "tengzug-tongo-tengzug-shrine",
+      "name": "Tengzug Shrine",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "tengzug-tongo-talensi-traditional-heritage",
+      "name": "Talensi traditional heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "sirigu-traditional-painted-compounds",
+      "name": "Traditional painted compounds",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "sirigu-indigenous-architectural-heritage",
+      "name": "Indigenous architectural heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "bono-traditional-areas-bono-kingdom-heritage",
+      "name": "Bono kingdom heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "bono-traditional-areas-traditional-palaces",
+      "name": "Traditional palaces",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "bono-traditional-areas-sacred-and-royal-sites",
+      "name": "Sacred and royal sites",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "techiman-traditional-bono-takyiman-heritage",
+      "name": "Traditional Bono-Takyiman heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "techiman-historic-market-and-royal-traditions",
+      "name": "Historic market and royal traditions",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": false,
+      "hasContentSources": false
+    },
+    {
+      "id": "nalerigu-naa-jeringa-wall",
+      "name": "Naa Jeringa Wall",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "nalerigu-mamprugu-royal-heritage",
+      "name": "Mamprugu royal heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "gambaga-historic-gambaga-settlement",
+      "name": "Historic Gambaga settlement",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    },
+    {
+      "id": "gambaga-colonial-and-traditional-heritage",
+      "name": "Colonial and traditional heritage",
+      "hasGenuineDescription": false,
+      "hasVerifiedLocation": false,
+      "hasPhoto": true,
+      "hasContentSources": false
+    }
+  ],
+  "coordinateConflicts": [
+    {
+      "id": "fort-william-lighthouse",
+      "reason": "Wikipedia article and Wikidata coordinates differ; not added pending independent confirmation."
+    },
+    {
+      "id": "fort-victoria",
+      "reason": "Commons category identifies the lighthouse/Fort McCarthy while another source locates Fort Victoria elsewhere; not added."
+    }
+  ],
+  "photoGaps": [
+    {
+      "id": "ucc-botanical-garden",
+      "reason": "Images found lack verified reuse permission or depict plants/other gardens; retain placeholder."
+    },
+    {
+      "id": "kumasi-prempeh-ii-jubilee-museum",
+      "reason": "Smithsonian correctly identified image requires prior permission. Other images lack verified licensing; retain placeholder."
+    }
+  ],
+  "managerContact": "No verified owner-provided business destination or working submission service found; owner input requested."
+}

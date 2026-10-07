@@ -1588,7 +1588,29 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Explore Asante royal history in the former residence of Prempeh I, built in 1925 and opened as a museum in 1995. The museum preserves collections connected with Asante kingship and cultural life.",
+      "contentSources": [
+        {
+          "url": "https://manhyiapalacemuseum.org/",
+          "scope": "Museum building and collection history",
+          "checkedOn": "2026-10-07"
+        },
+        {
+          "url": "https://manhyiapalacemuseum.org/contact-us/",
+          "scope": "Published visitor FAQ; hours, general access and photography rules",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "source": "https://manhyiapalacemuseum.org/contact-us/",
+        "openingHours": "The museum publishes Monday–Sunday, 9 a.m.–5 p.m., including statutory holidays. Confirm the schedule before travelling.",
+        "access": "The museum FAQ welcomes general visitors and says an appointment is not required for a normal visit. Confirm group visits and any special arrangements directly.",
+        "admission": "Current admission fees have not been independently verified here. Check with the museum before your visit.",
+        "photography": "The museum permits photography on the grounds but prohibits it inside galleries. Ask staff about designated photography areas and their rules.",
+        "dress": "The museum asks visitors to dress casually but decently."
+      }
     },
     {
       "id": "kumasi-kumasi-fort-and-military-museum",
@@ -1631,7 +1653,15 @@
       "town": "Kumasi",
       "category": "Heritage",
       "photos": [],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "A museum at Kumasi’s Centre for National Culture, preserving Asante cultural objects and historical narratives. Published museum research documents its collections and interpretation of the eight Akan clan systems.",
+      "contentSources": [
+        {
+          "url": "https://so04.tci-thaijo.org/index.php/JUCR/article/download/273300/184758/1115294",
+          "scope": "2024 museum field research and location",
+          "checkedOn": "2026-10-07"
+        }
+      ]
     },
     {
       "id": "kumasi-komfo-anokye-sword-site",
