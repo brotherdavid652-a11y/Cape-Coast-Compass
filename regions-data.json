@@ -848,7 +848,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "cape-coast-asafo-shrines-and-traditional-heritage-sites",
@@ -882,7 +889,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "elmina-elmina-historic-township",
@@ -916,7 +930,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "elmina-posuban-shrines",
@@ -950,7 +971,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "assin-manso-slave-route-memorial-sites",
@@ -984,7 +1012,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "assin-manso-ancestral-burial-and-remembrance-grounds",
@@ -993,7 +1028,14 @@
       "town": "Assin Manso",
       "category": "Heritage",
       "photos": [],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "fort-william-anomabo",
@@ -1027,7 +1069,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "anomabo-historic-merchant-houses",
@@ -1036,7 +1093,14 @@
       "town": "Anomabo",
       "category": "Heritage",
       "photos": [],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "anomabo-anomabo-traditional-heritage",
@@ -1070,7 +1134,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "abandze-fort-amsterdam",
@@ -1104,7 +1175,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 5.192222,
+        "longitude": -1.093056,
+        "source": "https://en.wikipedia.org/wiki/Fort_Amsterdam%2C_Ghana",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "abandze-historic-coastal-settlement",
@@ -1138,7 +1232,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "apam-fort-patience",
@@ -1172,7 +1273,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "apam-traditional-coastal-heritage",
@@ -1206,7 +1322,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "accra-independence-square",
@@ -1248,6 +1371,21 @@
         "verified": true,
         "verificationMethod": "Published attraction coordinates checked against named attraction and town; not inferred from photographs or town centres.",
         "checkedOn": "2026-10-06"
+      },
+      "description": "A ceremonial square associated with Ghana’s independence and national celebrations.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/attractions/greater-accra-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       }
     },
     {
@@ -1282,7 +1420,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 5.54444444,
+        "longitude": -0.20277778,
+        "source": "https://en.wikipedia.org/wiki/Kwame_Nkrumah_Memorial_Park",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "A memorial dedicated to Kwame Nkrumah, Ghana’s first president.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/attractions/greater-accra-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "osu-castle",
@@ -1316,7 +1477,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 5.54694444,
+        "longitude": -0.1825,
+        "source": "https://en.wikipedia.org/wiki/Osu_Castle",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "accra-national-museum-of-ghana",
@@ -1350,7 +1534,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 5.56041667,
+        "longitude": -0.20641667,
+        "source": "https://en.wikipedia.org/wiki/National_Museum_of_Ghana",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "Collections introducing Ghana’s history and cultural heritage at the national museum on Barnes Road.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/attractions/greater-accra-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "jamestown-james-fort",
@@ -1384,7 +1591,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "jamestown-ussher-fort",
@@ -1418,7 +1640,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "jamestown-jamestown-lighthouse",
@@ -1452,7 +1689,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 5.5331,
+        "longitude": -0.2122,
+        "source": "https://en.wikipedia.org/wiki/Jamestown_Lighthouse",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "A coastal lighthouse in Jamestown’s historic quarter.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/attractions/greater-accra-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "jamestown-historic-colonial-buildings",
@@ -1486,7 +1746,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Historic buildings form part of Jamestown’s older coastal streetscape.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/attractions/greater-accra-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "jamestown-ga-traditional-heritage",
@@ -1520,7 +1795,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "osu-historic-osu-township",
@@ -1554,7 +1836,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "kumasi-manhyia-palace-museum",
@@ -1604,12 +1893,21 @@
       ],
       "visitorInformation": {
         "checkedOn": "2026-10-07",
-        "source": "https://manhyiapalacemuseum.org/contact-us/",
         "openingHours": "The museum publishes Monday–Sunday, 9 a.m.–5 p.m., including statutory holidays. Confirm the schedule before travelling.",
-        "access": "The museum FAQ welcomes general visitors and says an appointment is not required for a normal visit. Confirm group visits and any special arrangements directly.",
         "admission": "Current admission fees have not been independently verified here. Check with the museum before your visit.",
+        "access": "The museum FAQ welcomes general visitors and says an appointment is not required for a normal visit. Confirm group visits and any special arrangements directly.",
+        "permissions": "Group visits and any special permission requirements have not been verified. Confirm arrangements directly.",
+        "source": "https://manhyiapalacemuseum.org/contact-us/",
         "photography": "The museum permits photography on the grounds but prohibits it inside galleries. Ask staff about designated photography areas and their rules.",
         "dress": "The museum asks visitors to dress casually but decently."
+      },
+      "location": {
+        "latitude": 6.70416,
+        "longitude": -1.61591,
+        "source": "https://en.wikipedia.org/wiki/Manhyia_Palace_Museum",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
       }
     },
     {
@@ -1644,7 +1942,31 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 6.6913666667,
+        "longitude": -1.6248722222,
+        "source": "https://commons.wikimedia.org/wiki/Category:Ghana_Armed_Forces_Museum_(Fort_Kumasi)",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Explicit object location of the named building; not a camera coordinate or town-centre coordinate."
+      },
+      "description": "Military equipment, medals and photographs trace the Gold Coast Regiment and Ghana Armed Forces in Kumasi’s historic fort.",
+      "contentSources": [
+        {
+          "url": "https://gmmb.gov.gh/kumasi-fort-and-military-museum/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "GMMB publishes 8 a.m.–5 p.m. daily except Sundays and public holidays. Confirm current opening before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "GMMB describes a museum in Kumasi’s historic fort. Confirm current admission and any group arrangements.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian.",
+        "source": "https://gmmb.gov.gh/kumasi-fort-and-military-museum/"
+      }
     },
     {
       "id": "kumasi-prempeh-ii-jubilee-museum",
@@ -1661,7 +1983,22 @@
           "scope": "2024 museum field research and location",
           "checkedOn": "2026-10-07"
         }
-      ]
+      ],
+      "location": {
+        "latitude": 6.70147222,
+        "longitude": -1.63,
+        "source": "https://en.wikipedia.org/wiki/Prempeh_II_Jubilee_Museum",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "kumasi-komfo-anokye-sword-site",
@@ -1695,7 +2032,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "kumasi-okomfo-anokye-historical-heritage",
@@ -1729,7 +2073,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "ejisu-yaa-asantewaa-museum-and-heritage-sites",
@@ -1763,7 +2114,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "ejisu-ejisu-traditional-palace-heritage",
@@ -1772,7 +2130,14 @@
       "town": "Ejisu",
       "category": "Heritage",
       "photos": [],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "adanwomase-bonwire-kente-weaving-heritage",
@@ -1806,7 +2171,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Bonwire is associated with the weaving traditions of Asante kente cloth.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/ashanti-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "ntonso-adinkra-cultural-heritage",
@@ -1840,7 +2220,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "akropong-akuapem-traditional-heritage",
@@ -1874,7 +2261,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "akropong-historic-basel-mission-sites",
@@ -1908,7 +2302,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Akropong’s historic Presbyterian institutions reflect the area’s missionary heritage.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/eatern-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "aburi-historic-colonial-era-botanical-gardens",
@@ -1942,7 +2351,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 5.85361111,
+        "longitude": -0.17583333,
+        "source": "https://en.wikipedia.org/wiki/Aburi_Botanical_Gardens",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "Established botanical gardens in Aburi bring together tropical trees and plants.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/eatern-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "aburi-missionary-and-colonial-heritage",
@@ -1976,7 +2408,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "akosombo-area-volta-river-development-heritage",
@@ -2010,7 +2449,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "The Akosombo dam and Volta Lake are central to Ghana’s hydroelectric development history.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/eatern-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "keta-fort-prinzenstein",
@@ -2044,7 +2498,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 5.92166667,
+        "longitude": 0.99361111,
+        "source": "https://en.wikipedia.org/wiki/Fort_Prinzenstein",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "keta-german-colonial-heritage",
@@ -2053,7 +2530,14 @@
       "town": "Keta",
       "category": "Heritage",
       "photos": [],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "keta-anlo-ewe-traditional-heritage",
@@ -2087,7 +2571,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Anlo-Ewe traditions include the Hogbetsotso festival associated with the Anlo homeland.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/volta-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "ho-ewe-cultural-and-traditional-heritage",
@@ -2121,7 +2620,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Ho offers a regional setting for exploring Ewe cultural traditions.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/volta-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "amedzofe-german-missionary-heritage",
@@ -2155,7 +2669,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "amedzofe-historic-mountain-settlement",
@@ -2189,7 +2710,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Amedzofe is a mountain settlement in the Volta Region.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/volta-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "axim-fort-st-anthony",
@@ -2223,7 +2759,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "axim-historic-axim-township",
@@ -2257,7 +2808,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "dixcove-fort-metal-cross",
@@ -2291,7 +2849,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 4.79321,
+        "longitude": -1.94484,
+        "source": "https://en.wikipedia.org/wiki/Fort_Metal_Cross",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "butre-fort-batenstein",
@@ -2325,7 +2906,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "princestown-fort-gross-friedrichsburg",
@@ -2359,7 +2955,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "princestown-brandenburg-prussian-colonial-heritage",
@@ -2393,7 +3004,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "shama-fort-st-sebastian",
@@ -2427,7 +3045,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 5.010825,
+        "longitude": -1.629199,
+        "source": "https://en.wikipedia.org/wiki/Fort_S%C3%A3o_Sebasti%C3%A3o_de_Xama",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "sekondi-fort-orange",
@@ -2461,7 +3102,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 4.9357,
+        "longitude": -1.7073,
+        "source": "https://en.wikipedia.org/wiki/Fort_Orange%2C_Ghana",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "sekondi-colonial-railway-and-harbour-heritage",
@@ -2495,7 +3159,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "tamale-dagbon-cultural-heritage",
@@ -2529,7 +3200,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Dagbon’s cultural life includes traditional music, dance and the Damba festival.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/northern-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "tamale-traditional-architecture-and-chiefly-institutions",
@@ -2563,7 +3249,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Traditional building styles and chiefly institutions form part of northern Ghana’s cultural heritage.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/northern-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "yendi-gbewaa-palace",
@@ -2597,7 +3298,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 9.44292,
+        "longitude": -0.00143,
+        "source": "https://en.wikipedia.org/wiki/Gbewaa_Palace",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "Gbewaa Palace in Yendi is a seat of Dagbon’s royal authority.",
+      "contentSources": [
+        {
+          "url": "https://www.mint.gov.gh/ya-na-pledges-support-for-peace-and-security-in-the-north-2/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "yendi-dagbon-royal-heritage",
@@ -2631,7 +3355,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "larabanga-larabanga-mosque",
@@ -2665,7 +3396,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 9.2203,
+        "longitude": -1.8599,
+        "source": "https://en.wikipedia.org/wiki/Larabanga_Mosque",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "Larabanga’s historic mosque is a landmark of northern Ghana’s Islamic architectural heritage.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/savannah-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "larabanga-mystic-stone",
@@ -2699,7 +3453,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "A stone at Larabanga is associated with local spiritual traditions.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/savannah-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "larabanga-historic-sudanic-architectural-heritage",
@@ -2733,7 +3502,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "salaga-historic-salaga-slave-market",
@@ -2767,7 +3543,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Salaga’s historic market recalls the region’s trading history and the sale of enslaved people.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/savannah-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "salaga-trans-saharan-trade-heritage",
@@ -2801,7 +3592,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Salaga’s trading heritage connects northern Ghana with historic trans-Saharan exchange.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/savannah-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "salaga-slave-route-heritage",
@@ -2835,7 +3641,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Salaga’s historic slave-market sites are places for remembrance of enslaved people.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/savannah-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "wa-wa-naas-palace",
@@ -2869,7 +3690,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 10.0637,
+        "longitude": -2.5005,
+        "source": "https://en.wikipedia.org/wiki/Wa_Naa's_Palace",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "The Wa Naa’s palace is associated with Wala chiefly authority and Sudanic architectural traditions.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/upper-west-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "wa-wa-central-mosque",
@@ -2903,7 +3747,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "wa-historic-sudanic-architecture",
@@ -2937,7 +3788,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Wa’s palace and historic mosques illustrate the region’s earthen architectural heritage.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/upper-west-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "gwollu-gwollu-defence-wall",
@@ -2971,7 +3837,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Gwollu’s surviving defence wall recalls community resistance to slave raiding.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/upper-west-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "gwollu-anti-slavery-heritage-connected-with-naa-kuri",
@@ -3005,7 +3886,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "nakore-nakore-mosque",
@@ -3039,7 +3927,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 10.06027778,
+        "longitude": -2.51,
+        "source": "https://en.wikipedia.org/wiki/Nakore_Mosque",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "Nakore’s historic mosque is included among Ghana’s recognised northern monuments.",
+      "contentSources": [
+        {
+          "url": "https://gmmb.gov.gh/other-monuments/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "navrongo-navrongo-cathedral",
@@ -3073,7 +3984,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 10.8842,
+        "longitude": -1.0779,
+        "source": "https://en.wikipedia.org/wiki/Cathedral_Basilica_of_Our_Lady_of_Seven_Sorrows%2C_Navrongo",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "The old Catholic cathedral at Navrongo is recognised among Ghana’s historic monuments.",
+      "contentSources": [
+        {
+          "url": "https://gmmb.gov.gh/other-monuments/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "navrongo-colonial-and-missionary-heritage",
@@ -3107,7 +4041,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "paga-paga-traditional-heritage",
@@ -3141,7 +4082,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "paga-pikworo-slave-camp",
@@ -3175,7 +4123,30 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "location": {
+        "latitude": 10.96333333,
+        "longitude": -1.11666667,
+        "source": "https://en.wikipedia.org/wiki/Pikworo_Slave_camp",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "description": "At Paga Nania, Pikworo preserves sites of confinement and remembrance connected with the slave trade.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/pikworo-slave-camp-2/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "tengzug-tongo-tengzug-shrine",
@@ -3209,7 +4180,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "The Tongo-Tengzuk cultural landscape includes shrine traditions of the Talensi community.",
+      "contentSources": [
+        {
+          "url": "https://gmmb.gov.gh/other-monuments/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "tengzug-tongo-talensi-traditional-heritage",
@@ -3243,7 +4229,14 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "sirigu-traditional-painted-compounds",
@@ -3277,7 +4270,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Sirigu is associated with painted houses, pottery and local artistic traditions.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/upper-east-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "sirigu-indigenous-architectural-heritage",
@@ -3311,7 +4319,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Sirigu’s decorated buildings express local architectural and artistic traditions.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/upper-east-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "bono-traditional-areas-bono-kingdom-heritage",
@@ -3320,7 +4343,22 @@
       "town": "Bono traditional areas",
       "category": "Heritage",
       "photos": [],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Bono cultural heritage includes royal traditions and festivals across its traditional areas.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/bono-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "bono-traditional-areas-traditional-palaces",
@@ -3329,7 +4367,14 @@
       "town": "Bono traditional areas",
       "category": "Heritage",
       "photos": [],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "bono-traditional-areas-sacred-and-royal-sites",
@@ -3338,7 +4383,14 @@
       "town": "Bono traditional areas",
       "category": "Heritage",
       "photos": [],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "techiman-traditional-bono-takyiman-heritage",
@@ -3347,7 +4399,22 @@
       "town": "Techiman",
       "category": "Heritage",
       "photos": [],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Techiman’s traditional heritage includes the Apoo festival.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/bono-east-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "techiman-historic-market-and-royal-traditions",
@@ -3356,7 +4423,14 @@
       "town": "Techiman",
       "category": "Heritage",
       "photos": [],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "nalerigu-naa-jeringa-wall",
@@ -3390,7 +4464,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "The historic Nalerigu defence wall is recognised among Ghana’s national monuments.",
+      "contentSources": [
+        {
+          "url": "https://gmmb.gov.gh/other-monuments/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "nalerigu-mamprugu-royal-heritage",
@@ -3424,7 +4513,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Nalerigu is associated with Mamprugu’s royal institutions and traditional festivals.",
+      "contentSources": [
+        {
+          "url": "https://nercc.gov.gh/about/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "gambaga-historic-gambaga-settlement",
@@ -3458,7 +4562,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Gambaga is a historic settlement and former administrative centre of the Northern Territories.",
+      "contentSources": [
+        {
+          "url": "https://emma.gov.gh/index.php/contact-us/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     },
     {
       "id": "gambaga-colonial-and-traditional-heritage",
@@ -3492,7 +4611,22 @@
           }
         }
       ],
-      "status": "Details to be added"
+      "status": "Details to be added",
+      "description": "Gambaga’s heritage includes its former colonial administrative role and proximity to Mamprugu’s royal institutions.",
+      "contentSources": [
+        {
+          "url": "https://emma.gov.gh/index.php/contact-us/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
     }
   ]
 }

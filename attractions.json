@@ -65,6 +65,20 @@
       "verified": true,
       "verificationMethod": "Published attraction coordinates checked against named attraction and town; not inferred from photographs or town centres.",
       "checkedOn": "2026-10-06"
+    },
+    "contentSources": [
+      {
+        "url": "https://crcc.gov.gh/tourism/",
+        "scope": "Regional tourism inventory; current operations not confirmed",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
     }
   },
   {
@@ -91,7 +105,30 @@
         "srcset": "assets/photos/fort-victoria-480.webp 480w, assets/photos/fort-victoria-1200.webp 1200w",
         "changes": "Resized and converted to WebP; display may crop the image."
       }
-    ]
+    ],
+    "location": {
+      "latitude": 5.1068,
+      "longitude": -1.24906,
+      "source": "https://en.wikipedia.org/wiki/Fort_Victoria%2C_Cape_Coast",
+      "verified": true,
+      "checkedOn": "2026-10-07",
+      "verificationMethod": "Named Fort Victoria article corroborated by the mapped Fort Victoria site. The conflicting Commons category identifies Fort McCarthy/lighthouse and is not used.",
+      "corroboratingSource": "https://mapcarta.com/35966492"
+    },
+    "contentSources": [
+      {
+        "url": "https://whc.unesco.org/en/list/34",
+        "scope": "Identification in the coastal forts and castles World Heritage property",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "fort-william-lighthouse",
@@ -126,7 +163,30 @@
         "source": "IMG_0622.JPG",
         "changes": "Color and brightness refined with AI; white writing in the bottom-left removed at the site owner’s request. Download upscaled to a 7680-pixel long edge, not native 8K detail."
       }
-    ]
+    ],
+    "location": {
+      "latitude": 5.10797,
+      "longitude": -1.24428,
+      "source": "https://en.wikipedia.org/wiki/Fort_William_Lighthouse",
+      "verified": true,
+      "checkedOn": "2026-10-07",
+      "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded.",
+      "corroboratingSource": "https://commons.wikimedia.org/wiki/Category:Fort_William_(Lighthouse)"
+    },
+    "contentSources": [
+      {
+        "url": "https://whc.unesco.org/en/list/34",
+        "scope": "Identification in the coastal forts and castles World Heritage property",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "fosu-lagoon",
@@ -161,7 +221,22 @@
         "source": "IMG_0624.JPG",
         "changes": "Color and brightness matched to the first lagoon photo with AI; white writing in the center-left removed at the site owner’s request. Download upscaled to a 7680-pixel long edge, not native 8K detail."
       }
-    ]
+    ],
+    "location": {
+      "latitude": 5.108,
+      "longitude": -1.259,
+      "source": "https://en.wikipedia.org/wiki/Fosu_Lagoon",
+      "verified": true,
+      "checkedOn": "2026-10-07",
+      "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+    },
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "kotokuraba-market",
@@ -220,7 +295,14 @@
         "source": "IMG_0615.JPG",
         "changes": "Color and brightness refined using the built-in image generation tool. Full-size download is upscaled to a 7680-pixel long edge; not native 8K detail."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "emintsimadze-palace",
@@ -255,7 +337,14 @@
         "source": "IMG_0627.JPG",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across both photographs."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "osabarimba-asafo-art-gallery",
@@ -278,7 +367,14 @@
         "source": "IMG_0628.WEBP",
         "changes": "Color and brightness refined using built-in imagegen. Original montage layout and caption retained. Download upscaled to a 7680-pixel long edge, not native 8K detail."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "global-mamas-cultural-workshops",
@@ -325,7 +421,14 @@
         "source": "IMG_0630.JPG",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "cape-coast-beachfront",
@@ -384,7 +487,14 @@
         "source": "IMG_0636.jpg",
         "changes": "Color and brightness refined with AI; all overlaid white writing removed at the site owner’s request. Download upscaled to a 7680-pixel long edge, not native 8K detail."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "chapel-square",
@@ -431,7 +541,14 @@
         "source": "IMG_0639.JPG",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "london-bridge",
@@ -466,7 +583,14 @@
         "source": "IMG_0642.jpg",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across both photographs."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "atta-mills-presidential-library",
@@ -513,7 +637,14 @@
         "source": "IMG_0646.jpg",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "christ-church-cathedral",
@@ -560,7 +691,22 @@
         "source": "IMG_0649.jpg",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all three photographs."
       }
-    ]
+    ],
+    "location": {
+      "latitude": 5.1041,
+      "longitude": -1.2419,
+      "source": "https://commons.wikimedia.org/wiki/Category:Christ_Church_Cathedral_(Cape_Coast)",
+      "verified": true,
+      "checkedOn": "2026-10-07",
+      "verificationMethod": "Explicit object location of the named building; not a camera coordinate or town-centre coordinate."
+    },
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "wesley-methodist-cathedral",
@@ -595,6 +741,13 @@
       "verified": true,
       "verificationMethod": "Category object location explicitly identifies the Cape Coast church; not the photograph camera position.",
       "checkedOn": "2026-10-07"
+    },
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
     }
   },
   {
@@ -630,7 +783,14 @@
         "source": "IMG_0658.JPG",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "victoria-park",
@@ -665,7 +825,14 @@
         "source": "3BFF5738-9D93-48A5-A400-447B5B455A47.jpg",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "ato-austin-park",
@@ -712,7 +879,14 @@
         "source": "IMG_0667.jpg",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "jacob-wilson-seys-tomb",
@@ -747,7 +921,14 @@
         "source": "Jacob Wilson Sey’s tomb/F3033F9A-1F9D-4C62-AA4E-DDB1F5EA1468.PNG",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "historic-high-court-building",
@@ -782,7 +963,14 @@
         "source": "Historic High Court building/191780E6-E678-4D5D-A4AC-39403D9D3717.PNG",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "colonial-military-cemetery",
@@ -805,17 +993,45 @@
         "source": "Colonial Military Cemetery/17C6E307-6200-4CEB-87A9-9ABAD8BA3FC1.PNG",
         "changes": "Only color and brightness refinement requested through built-in imagegen. Download is upscaled to a 7680-pixel long edge; not native 8K detail. Consistent natural color and brightness finish across all two photographs."
       }
-    ]
+    ],
+    "contentSources": [
+      {
+        "url": "https://crcc.gov.gh/tourism/",
+        "scope": "Regional tourism inventory; current operations not confirmed",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "ucc-botanical-garden",
     "slug": "ucc-botanical-garden",
     "name": "UCC botanical garden",
     "description": "University botanical grounds documented by UCC. Public tourism access has not been verified.",
-    "access": "University permission required.",
+    "access": "Public access and university permission requirements are unverified.",
     "category": "Nature & coast",
     "nearby": false,
-    "photos": []
+    "photos": [],
+    "contentSources": [
+      {
+        "url": "https://ir.ucc.edu.gh/xmlui/bitstream/handle/123456789/2854/Edzeani%202014.pdf?isAllowed=y&sequence=1",
+        "scope": "UCC research identifies the botanical garden; does not establish public visiting rights",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public access and university permission requirements are unverified. Contact the university before visiting.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "fort-frederiksborg-site-amanful",
@@ -825,7 +1041,21 @@
     "access": "Specialist heritage stop; access unverified.",
     "category": "Heritage",
     "nearby": false,
-    "photos": []
+    "photos": [],
+    "contentSources": [
+      {
+        "url": "https://whc.unesco.org/en/list/34",
+        "scope": "Identification in the coastal forts and castles World Heritage property",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "hans-cottage-botel",
@@ -860,7 +1090,14 @@
           "saturation": 1.025
         }
       }
-    ]
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "kakum-national-park",
@@ -886,7 +1123,21 @@
         "srcset": "assets/photos/kakum-national-park-480.webp 480w, assets/photos/kakum-national-park-800.webp 800w",
         "changes": "Resized and converted to WebP; display may crop the image."
       }
-    ]
+    ],
+    "contentSources": [
+      {
+        "url": "https://crcc.gov.gh/tourism/",
+        "scope": "Regional tourism inventory; current operations not confirmed",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "international-stingless-bee-centre",
@@ -896,7 +1147,21 @@
     "access": "Separate arrangements required; confirm current access directly.",
     "category": "Nature & coast",
     "nearby": true,
-    "photos": []
+    "photos": [],
+    "contentSources": [
+      {
+        "url": "https://crcc.gov.gh/tourism/",
+        "scope": "Regional tourism inventory; current operations not confirmed",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "elmina-castle",
@@ -940,6 +1205,26 @@
       "verified": true,
       "verificationMethod": "Published attraction coordinates checked against named attraction and town; not inferred from photographs or town centres.",
       "checkedOn": "2026-10-06"
+    },
+    "contentSources": [
+      {
+        "url": "https://whc.unesco.org/en/list/34",
+        "scope": "Identification in the coastal forts and castles World Heritage property",
+        "checkedOn": "2026-10-07"
+      },
+      {
+        "url": "https://gmmb.gov.gh/st-georges-castle-elmina-castle-elmina-1482/",
+        "scope": "Published visitor hours; published fees were revised in 2023 and are not represented here as current",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "GMMB publishes daily visiting hours of 9 a.m.–4:30 p.m. Confirm current opening before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian.",
+      "source": "https://gmmb.gov.gh/st-georges-castle-elmina-castle-elmina-1482/"
     }
   },
   {
@@ -983,6 +1268,20 @@
       "verified": true,
       "verificationMethod": "Published site coordinates for Fort Coenraadsburg in Elmina, also known as Fort St. Jago.",
       "checkedOn": "2026-10-07"
+    },
+    "contentSources": [
+      {
+        "url": "https://whc.unesco.org/en/list/34",
+        "scope": "Identification in the coastal forts and castles World Heritage property",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
     }
   },
   {
@@ -1018,7 +1317,21 @@
           "saturation": 1.025
         }
       }
-    ]
+    ],
+    "contentSources": [
+      {
+        "url": "https://crcc.gov.gh/tourism/",
+        "scope": "Regional tourism inventory; current operations not confirmed",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "dutch-cemetery",
@@ -1062,6 +1375,20 @@
       "verificationMethod": "Named cemetery coordinates corroborated by Commons category object location.",
       "checkedOn": "2026-10-07",
       "corroboration": "https://commons.wikimedia.org/wiki/Category:Dutch_Cemetery,_Elmina"
+    },
+    "contentSources": [
+      {
+        "url": "https://crcc.gov.gh/tourism/",
+        "scope": "Regional tourism inventory; current operations not confirmed",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
     }
   },
   {
@@ -1097,7 +1424,21 @@
           "saturation": 1.025
         }
       }
-    ]
+    ],
+    "contentSources": [
+      {
+        "url": "https://crcc.gov.gh/tourism/",
+        "scope": "Regional tourism inventory; current operations not confirmed",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "assin-manso-ancestral-slave-river-site",
@@ -1132,7 +1473,21 @@
           "saturation": 1.025
         }
       }
-    ]
+    ],
+    "contentSources": [
+      {
+        "url": "https://crcc.gov.gh/tourism/",
+        "scope": "Regional tourism inventory; current operations not confirmed",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   },
   {
     "id": "ostrich-farm",
@@ -1142,6 +1497,20 @@
     "access": "Separate arrangements required; confirm current access directly.",
     "category": "Nature & coast",
     "nearby": true,
-    "photos": []
+    "photos": [],
+    "contentSources": [
+      {
+        "url": "https://crcc.gov.gh/tourism/",
+        "scope": "Regional tourism inventory; current operations not confirmed",
+        "checkedOn": "2026-10-07"
+      }
+    ],
+    "visitorInformation": {
+      "checkedOn": "2026-10-07",
+      "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+      "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    }
   }
 ]

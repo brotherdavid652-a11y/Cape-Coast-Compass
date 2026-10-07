@@ -1,951 +1,3578 @@
 {
   "checkedOn": "2026-10-07",
+  "scope": "All 117 unique catalogue records; structural and source review, not confirmation of current operations.",
   "records": [
     {
       "id": "cape-coast-castle-museum",
       "name": "Cape Coast Castle & Museum",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": true,
+      "contentSources": [
+        {
+          "url": "https://crcc.gov.gh/tourism/",
+          "scope": "Regional tourism inventory; current operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.103916666666667,
+        "longitude": -1.2410833333333333,
+        "source": "https://www.museuexea.org/en/fortificacoes/castelo-de-cape-coast",
+        "corroboration": "https://www.wikidata.org/wiki/Q1254826",
+        "verified": true,
+        "verificationMethod": "Published attraction coordinates checked against named attraction and town; not inferred from photographs or town centres.",
+        "checkedOn": "2026-10-06"
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/cape-coast-castle-museum.html"
     },
     {
       "id": "fort-victoria",
       "name": "Fort Victoria",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.1068,
+        "longitude": -1.24906,
+        "source": "https://en.wikipedia.org/wiki/Fort_Victoria%2C_Cape_Coast",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Named Fort Victoria article corroborated by the mapped Fort Victoria site. The conflicting Commons category identifies Fort McCarthy/lighthouse and is not used.",
+        "corroboratingSource": "https://mapcarta.com/35966492"
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/fort-victoria.html"
     },
     {
       "id": "fort-william-lighthouse",
       "name": "Fort William Lighthouse",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.10797,
+        "longitude": -1.24428,
+        "source": "https://en.wikipedia.org/wiki/Fort_William_Lighthouse",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded.",
+        "corroboratingSource": "https://commons.wikimedia.org/wiki/Category:Fort_William_(Lighthouse)"
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/fort-william-lighthouse.html"
     },
     {
       "id": "fosu-lagoon",
       "name": "Fosu Lagoon",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.108,
+        "longitude": -1.259,
+        "source": "https://en.wikipedia.org/wiki/Fosu_Lagoon",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/fosu-lagoon.html"
     },
     {
       "id": "kotokuraba-market",
       "name": "Kotokuraba Market",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/kotokuraba-market.html"
     },
     {
       "id": "emintsimadze-palace",
       "name": "Emintsimadze Palace",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/emintsimadze-palace.html"
     },
     {
       "id": "osabarimba-asafo-art-gallery",
       "name": "Osabarimba Asafo Art Gallery",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/osabarimba-asafo-art-gallery.html"
     },
     {
       "id": "global-mamas-cultural-workshops",
       "name": "Global Mamas cultural workshops",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/global-mamas-cultural-workshops.html"
     },
     {
       "id": "cape-coast-beachfront",
       "name": "Cape Coast beachfront",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/cape-coast-beachfront.html"
     },
     {
       "id": "chapel-square",
       "name": "Wesley Methodist Church, popularly known as Chapel Square",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/chapel-square.html"
     },
     {
       "id": "london-bridge",
       "name": "London Bridge",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/london-bridge.html"
     },
     {
       "id": "atta-mills-presidential-library",
       "name": "John Evans Atta Mills Presidential Library",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/atta-mills-presidential-library.html"
     },
     {
       "id": "christ-church-cathedral",
       "name": "Christ Church Cathedral",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.1041,
+        "longitude": -1.2419,
+        "source": "https://commons.wikimedia.org/wiki/Category:Christ_Church_Cathedral_(Cape_Coast)",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Explicit object location of the named building; not a camera coordinate or town-centre coordinate."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/christ-church-cathedral.html"
     },
     {
       "id": "wesley-methodist-cathedral",
       "name": "Wesley Methodist Cathedral",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": true,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.105697,
+        "longitude": -1.242456,
+        "source": "https://commons.wikimedia.org/wiki/Category:Wesley_Methodist_Cathedral,_Cape_Coast_(Ghana)",
+        "verified": true,
+        "verificationMethod": "Category object location explicitly identifies the Cape Coast church; not the photograph camera position.",
+        "checkedOn": "2026-10-07"
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/wesley-methodist-cathedral.html"
     },
     {
       "id": "st-francis-de-sales-cathedral",
       "name": "St. Francis de Sales Cathedral",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/st-francis-de-sales-cathedral.html"
     },
     {
       "id": "victoria-park",
       "name": "Victoria Park",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/victoria-park.html"
     },
     {
       "id": "ato-austin-park",
       "name": "Ato Austin Park",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/ato-austin-park.html"
     },
     {
       "id": "jacob-wilson-seys-tomb",
       "name": "Jacob Wilson Sey’s tomb",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/jacob-wilson-seys-tomb.html"
     },
     {
       "id": "historic-high-court-building",
       "name": "Historic High Court building",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/historic-high-court-building.html"
     },
     {
       "id": "colonial-military-cemetery",
       "name": "Colonial Military Cemetery",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://crcc.gov.gh/tourism/",
+          "scope": "Regional tourism inventory; current operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/colonial-military-cemetery.html"
     },
     {
       "id": "ucc-botanical-garden",
       "name": "UCC botanical garden",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://ir.ucc.edu.gh/xmlui/bitstream/handle/123456789/2854/Edzeani%202014.pdf?isAllowed=y&sequence=1",
+          "scope": "UCC research identifies the botanical garden; does not establish public visiting rights",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public access and university permission requirements are unverified. Contact the university before visiting.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/ucc-botanical-garden.html"
     },
     {
       "id": "fort-frederiksborg-site-amanful",
       "name": "Fort Frederiksborg site, Amanful",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/fort-frederiksborg-site-amanful.html"
     },
     {
       "id": "hans-cottage-botel",
       "name": "Hans Cottage Botel",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Jukwa",
+          "regionId": "central-region",
+          "townId": "jukwa"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/hans-cottage-botel.html"
     },
     {
       "id": "kakum-national-park",
       "name": "Kakum National Park",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Abrafo",
+          "regionId": "central-region",
+          "townId": "abrafo"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://crcc.gov.gh/tourism/",
+          "scope": "Regional tourism inventory; current operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/kakum-national-park.html"
     },
     {
       "id": "international-stingless-bee-centre",
       "name": "International Stingless Bee Centre",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Abrafo",
+          "regionId": "central-region",
+          "townId": "abrafo"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://crcc.gov.gh/tourism/",
+          "scope": "Regional tourism inventory; current operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/international-stingless-bee-centre.html"
     },
     {
       "id": "elmina-castle",
       "name": "Elmina Castle",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Elmina",
+          "regionId": "central-region",
+          "townId": "elmina"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        },
+        {
+          "url": "https://gmmb.gov.gh/st-georges-castle-elmina-castle-elmina-1482/",
+          "scope": "Published visitor hours; published fees were revised in 2023 and are not represented here as current",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "GMMB publishes daily visiting hours of 9 a.m.–4:30 p.m. Confirm current opening before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian.",
+        "source": "https://gmmb.gov.gh/st-georges-castle-elmina-castle-elmina-1482/"
+      },
+      "location": {
+        "latitude": 5.08275,
+        "longitude": -1.3480699999999999,
+        "source": "https://www.wikidata.org/wiki/Q55264655",
+        "corroboration": "https://www.latlong.net/place/elmina-castle-elmina-ghana-11262.html",
+        "verified": true,
+        "verificationMethod": "Published attraction coordinates checked against named attraction and town; not inferred from photographs or town centres.",
+        "checkedOn": "2026-10-06"
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/elmina-castle.html"
     },
     {
       "id": "fort-st-jago-coenraadsburg",
       "name": "Fort St. Jago / Coenraadsburg",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Elmina",
+          "regionId": "central-region",
+          "townId": "elmina"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.08444,
+        "longitude": -1.35083,
+        "source": "https://en.wikipedia.org/wiki/Fort_Coenraadsburg",
+        "verified": true,
+        "verificationMethod": "Published site coordinates for Fort Coenraadsburg in Elmina, also known as Fort St. Jago.",
+        "checkedOn": "2026-10-07"
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/fort-st-jago-coenraadsburg.html"
     },
     {
       "id": "elmina-fishing-harbour-market",
       "name": "Elmina fishing harbour & market",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Elmina",
+          "regionId": "central-region",
+          "townId": "elmina"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://crcc.gov.gh/tourism/",
+          "scope": "Regional tourism inventory; current operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/elmina-fishing-harbour-market.html"
     },
     {
       "id": "dutch-cemetery",
       "name": "Dutch Cemetery",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Elmina",
+          "regionId": "central-region",
+          "townId": "elmina"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": true,
+      "contentSources": [
+        {
+          "url": "https://crcc.gov.gh/tourism/",
+          "scope": "Regional tourism inventory; current operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.086,
+        "longitude": -1.353,
+        "source": "https://en.wikipedia.org/wiki/Dutch_Cemetery,_Elmina",
+        "verified": true,
+        "verificationMethod": "Named cemetery coordinates corroborated by Commons category object location.",
+        "checkedOn": "2026-10-07",
+        "corroboration": "https://commons.wikimedia.org/wiki/Category:Dutch_Cemetery,_Elmina"
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/dutch-cemetery.html"
     },
     {
       "id": "brenu-beach",
       "name": "Brenu Beach",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Brenu Akyinim",
+          "regionId": "central-region",
+          "townId": "brenu-akyinim"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://crcc.gov.gh/tourism/",
+          "scope": "Regional tourism inventory; current operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/brenu-beach.html"
     },
     {
       "id": "assin-manso-ancestral-slave-river-site",
       "name": "Assin Manso Ancestral Slave River site",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Assin Manso",
+          "regionId": "central-region",
+          "townId": "assin-manso"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://crcc.gov.gh/tourism/",
+          "scope": "Regional tourism inventory; current operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/assin-manso-ancestral-slave-river-site.html"
     },
     {
       "id": "ostrich-farm",
       "name": "Ostrich Farm",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Efutu-Mampong",
+          "regionId": "central-region",
+          "townId": "efutu-mampong"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://crcc.gov.gh/tourism/",
+          "scope": "Regional tourism inventory; current operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/ostrich-farm.html"
     },
     {
       "id": "cape-coast-cape-coast-historic-town",
       "name": "Cape Coast historic town",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/cape-coast-cape-coast-historic-town.html"
     },
     {
       "id": "cape-coast-asafo-shrines-and-traditional-heritage-sites",
       "name": "Asafo shrines and traditional heritage sites",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Cape Coast",
+          "regionId": "central-region",
+          "townId": "cape-coast"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/cape-coast-asafo-shrines-and-traditional-heritage-sites.html"
     },
     {
       "id": "elmina-elmina-historic-township",
       "name": "Elmina historic township",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Elmina",
+          "regionId": "central-region",
+          "townId": "elmina"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/elmina-elmina-historic-township.html"
     },
     {
       "id": "elmina-posuban-shrines",
       "name": "Posuban shrines",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Elmina",
+          "regionId": "central-region",
+          "townId": "elmina"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/elmina-posuban-shrines.html"
     },
     {
       "id": "assin-manso-slave-route-memorial-sites",
       "name": "Slave route memorial sites",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Assin Manso",
+          "regionId": "central-region",
+          "townId": "assin-manso"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/assin-manso-slave-route-memorial-sites.html"
     },
     {
       "id": "assin-manso-ancestral-burial-and-remembrance-grounds",
       "name": "Ancestral burial and remembrance grounds",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Assin Manso",
+          "regionId": "central-region",
+          "townId": "assin-manso"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/assin-manso-ancestral-burial-and-remembrance-grounds.html"
     },
     {
       "id": "fort-william-anomabo",
       "name": "Fort William",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Anomabo",
+          "regionId": "central-region",
+          "townId": "anomabo"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/fort-william-anomabo.html"
     },
     {
       "id": "anomabo-historic-merchant-houses",
       "name": "Historic merchant houses",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Anomabo",
+          "regionId": "central-region",
+          "townId": "anomabo"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/anomabo-historic-merchant-houses.html"
     },
     {
       "id": "anomabo-anomabo-traditional-heritage",
       "name": "Anomabo traditional heritage",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Anomabo",
+          "regionId": "central-region",
+          "townId": "anomabo"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/anomabo-anomabo-traditional-heritage.html"
     },
     {
       "id": "abandze-fort-amsterdam",
       "name": "Fort Amsterdam",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Abandze",
+          "regionId": "central-region",
+          "townId": "abandze"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.192222,
+        "longitude": -1.093056,
+        "source": "https://en.wikipedia.org/wiki/Fort_Amsterdam%2C_Ghana",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/abandze-fort-amsterdam.html"
     },
     {
       "id": "abandze-historic-coastal-settlement",
       "name": "Historic coastal settlement",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Abandze",
+          "regionId": "central-region",
+          "townId": "abandze"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/abandze-historic-coastal-settlement.html"
     },
     {
       "id": "apam-fort-patience",
       "name": "Fort Patience",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Apam",
+          "regionId": "central-region",
+          "townId": "apam"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/apam-fort-patience.html"
     },
     {
       "id": "apam-traditional-coastal-heritage",
       "name": "Traditional coastal heritage",
+      "contexts": [
+        {
+          "region": "Central Region",
+          "town": "Apam",
+          "regionId": "central-region",
+          "townId": "apam"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/apam-traditional-coastal-heritage.html"
     },
     {
       "id": "accra-independence-square",
       "name": "Independence Square",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": true,
+      "contexts": [
+        {
+          "region": "Greater Accra Region",
+          "town": "Accra",
+          "regionId": "greater-accra-region",
+          "townId": "accra"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/attractions/greater-accra-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.5476,
+        "longitude": -0.1926,
+        "source": "https://en.wikipedia.org/wiki/Black_Star_Square",
+        "verified": true,
+        "verificationMethod": "Published attraction coordinates checked against named attraction and town; not inferred from photographs or town centres.",
+        "checkedOn": "2026-10-06"
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/accra-independence-square.html"
     },
     {
       "id": "accra-kwame-nkrumah-memorial-park",
       "name": "Kwame Nkrumah Memorial Park",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Greater Accra Region",
+          "town": "Accra",
+          "regionId": "greater-accra-region",
+          "townId": "accra"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/attractions/greater-accra-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.54444444,
+        "longitude": -0.20277778,
+        "source": "https://en.wikipedia.org/wiki/Kwame_Nkrumah_Memorial_Park",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/accra-kwame-nkrumah-memorial-park.html"
     },
     {
       "id": "osu-castle",
       "name": "Osu Castle / Christiansborg Castle",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Greater Accra Region",
+          "town": "Accra",
+          "regionId": "greater-accra-region",
+          "townId": "accra"
+        },
+        {
+          "region": "Greater Accra Region",
+          "town": "Osu",
+          "regionId": "greater-accra-region",
+          "townId": "osu"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.54694444,
+        "longitude": -0.1825,
+        "source": "https://en.wikipedia.org/wiki/Osu_Castle",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/osu-castle.html"
     },
     {
       "id": "accra-national-museum-of-ghana",
       "name": "National Museum of Ghana",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Greater Accra Region",
+          "town": "Accra",
+          "regionId": "greater-accra-region",
+          "townId": "accra"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/attractions/greater-accra-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.56041667,
+        "longitude": -0.20641667,
+        "source": "https://en.wikipedia.org/wiki/National_Museum_of_Ghana",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/accra-national-museum-of-ghana.html"
     },
     {
       "id": "jamestown-james-fort",
       "name": "James Fort",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Greater Accra Region",
+          "town": "Jamestown",
+          "regionId": "greater-accra-region",
+          "townId": "jamestown"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/jamestown-james-fort.html"
     },
     {
       "id": "jamestown-ussher-fort",
       "name": "Ussher Fort",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Greater Accra Region",
+          "town": "Jamestown",
+          "regionId": "greater-accra-region",
+          "townId": "jamestown"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/jamestown-ussher-fort.html"
     },
     {
       "id": "jamestown-jamestown-lighthouse",
       "name": "Jamestown Lighthouse",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Greater Accra Region",
+          "town": "Jamestown",
+          "regionId": "greater-accra-region",
+          "townId": "jamestown"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/attractions/greater-accra-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.5331,
+        "longitude": -0.2122,
+        "source": "https://en.wikipedia.org/wiki/Jamestown_Lighthouse",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/jamestown-jamestown-lighthouse.html"
     },
     {
       "id": "jamestown-historic-colonial-buildings",
       "name": "Historic colonial buildings",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Greater Accra Region",
+          "town": "Jamestown",
+          "regionId": "greater-accra-region",
+          "townId": "jamestown"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/attractions/greater-accra-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/jamestown-historic-colonial-buildings.html"
     },
     {
       "id": "jamestown-ga-traditional-heritage",
       "name": "Ga traditional heritage",
+      "contexts": [
+        {
+          "region": "Greater Accra Region",
+          "town": "Jamestown",
+          "regionId": "greater-accra-region",
+          "townId": "jamestown"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/jamestown-ga-traditional-heritage.html"
     },
     {
       "id": "osu-historic-osu-township",
       "name": "Historic Osu township",
+      "contexts": [
+        {
+          "region": "Greater Accra Region",
+          "town": "Osu",
+          "regionId": "greater-accra-region",
+          "townId": "osu"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/osu-historic-osu-township.html"
     },
     {
       "id": "kumasi-manhyia-palace-museum",
       "name": "Manhyia Palace Museum",
+      "contexts": [
+        {
+          "region": "Ashanti Region",
+          "town": "Kumasi",
+          "regionId": "ashanti-region",
+          "townId": "kumasi"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://manhyiapalacemuseum.org/",
+          "scope": "Museum building and collection history",
+          "checkedOn": "2026-10-07"
+        },
+        {
+          "url": "https://manhyiapalacemuseum.org/contact-us/",
+          "scope": "Published visitor FAQ; hours, general access and photography rules",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "The museum publishes Monday–Sunday, 9 a.m.–5 p.m., including statutory holidays. Confirm the schedule before travelling.",
+        "admission": "Current admission fees have not been independently verified here. Check with the museum before your visit.",
+        "access": "The museum FAQ welcomes general visitors and says an appointment is not required for a normal visit. Confirm group visits and any special arrangements directly.",
+        "permissions": "Group visits and any special permission requirements have not been verified. Confirm arrangements directly.",
+        "source": "https://manhyiapalacemuseum.org/contact-us/",
+        "photography": "The museum permits photography on the grounds but prohibits it inside galleries. Ask staff about designated photography areas and their rules.",
+        "dress": "The museum asks visitors to dress casually but decently."
+      },
+      "location": {
+        "latitude": 6.70416,
+        "longitude": -1.61591,
+        "source": "https://en.wikipedia.org/wiki/Manhyia_Palace_Museum",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": true
+      "detailPage": "places/kumasi-manhyia-palace-museum.html"
     },
     {
       "id": "kumasi-kumasi-fort-and-military-museum",
       "name": "Kumasi Fort and Military Museum",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Ashanti Region",
+          "town": "Kumasi",
+          "regionId": "ashanti-region",
+          "townId": "kumasi"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://gmmb.gov.gh/kumasi-fort-and-military-museum/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "GMMB publishes 8 a.m.–5 p.m. daily except Sundays and public holidays. Confirm current opening before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "GMMB describes a museum in Kumasi’s historic fort. Confirm current admission and any group arrangements.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian.",
+        "source": "https://gmmb.gov.gh/kumasi-fort-and-military-museum/"
+      },
+      "location": {
+        "latitude": 6.6913666667,
+        "longitude": -1.6248722222,
+        "source": "https://commons.wikimedia.org/wiki/Category:Ghana_Armed_Forces_Museum_(Fort_Kumasi)",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Explicit object location of the named building; not a camera coordinate or town-centre coordinate."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/kumasi-kumasi-fort-and-military-museum.html"
     },
     {
       "id": "kumasi-prempeh-ii-jubilee-museum",
       "name": "Prempeh II Jubilee Museum",
+      "contexts": [
+        {
+          "region": "Ashanti Region",
+          "town": "Kumasi",
+          "regionId": "ashanti-region",
+          "townId": "kumasi"
+        }
+      ],
       "hasGenuineDescription": true,
-      "hasVerifiedLocation": false,
+      "contentSources": [
+        {
+          "url": "https://so04.tci-thaijo.org/index.php/JUCR/article/download/273300/184758/1115294",
+          "scope": "2024 museum field research and location",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 6.70147222,
+        "longitude": -1.63,
+        "source": "https://en.wikipedia.org/wiki/Prempeh_II_Jubilee_Museum",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": false,
-      "hasContentSources": true
+      "detailPage": "places/kumasi-prempeh-ii-jubilee-museum.html"
     },
     {
       "id": "kumasi-komfo-anokye-sword-site",
       "name": "Komfo Anokye Sword Site",
+      "contexts": [
+        {
+          "region": "Ashanti Region",
+          "town": "Kumasi",
+          "regionId": "ashanti-region",
+          "townId": "kumasi"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/kumasi-komfo-anokye-sword-site.html"
     },
     {
       "id": "kumasi-okomfo-anokye-historical-heritage",
       "name": "Okomfo Anokye historical heritage",
+      "contexts": [
+        {
+          "region": "Ashanti Region",
+          "town": "Kumasi",
+          "regionId": "ashanti-region",
+          "townId": "kumasi"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/kumasi-okomfo-anokye-historical-heritage.html"
     },
     {
       "id": "ejisu-yaa-asantewaa-museum-and-heritage-sites",
       "name": "Yaa Asantewaa Museum and heritage sites",
+      "contexts": [
+        {
+          "region": "Ashanti Region",
+          "town": "Ejisu",
+          "regionId": "ashanti-region",
+          "townId": "ejisu"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/ejisu-yaa-asantewaa-museum-and-heritage-sites.html"
     },
     {
       "id": "ejisu-ejisu-traditional-palace-heritage",
       "name": "Ejisu traditional palace heritage",
+      "contexts": [
+        {
+          "region": "Ashanti Region",
+          "town": "Ejisu",
+          "regionId": "ashanti-region",
+          "townId": "ejisu"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/ejisu-ejisu-traditional-palace-heritage.html"
     },
     {
       "id": "adanwomase-bonwire-kente-weaving-heritage",
       "name": "Kente-weaving heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Ashanti Region",
+          "town": "Adanwomase / Bonwire",
+          "regionId": "ashanti-region",
+          "townId": "adanwomase-bonwire"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/ashanti-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/adanwomase-bonwire-kente-weaving-heritage.html"
     },
     {
       "id": "ntonso-adinkra-cultural-heritage",
       "name": "Adinkra cultural heritage",
+      "contexts": [
+        {
+          "region": "Ashanti Region",
+          "town": "Ntonso",
+          "regionId": "ashanti-region",
+          "townId": "ntonso"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/ntonso-adinkra-cultural-heritage.html"
     },
     {
       "id": "akropong-akuapem-traditional-heritage",
       "name": "Akuapem traditional heritage",
+      "contexts": [
+        {
+          "region": "Eastern Region",
+          "town": "Akropong",
+          "regionId": "eastern-region",
+          "townId": "akropong"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/akropong-akuapem-traditional-heritage.html"
     },
     {
       "id": "akropong-historic-basel-mission-sites",
       "name": "Historic Basel Mission sites",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Eastern Region",
+          "town": "Akropong",
+          "regionId": "eastern-region",
+          "townId": "akropong"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/eatern-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/akropong-historic-basel-mission-sites.html"
     },
     {
       "id": "aburi-historic-colonial-era-botanical-gardens",
       "name": "Historic colonial-era botanical gardens",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Eastern Region",
+          "town": "Aburi",
+          "regionId": "eastern-region",
+          "townId": "aburi"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/eatern-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.85361111,
+        "longitude": -0.17583333,
+        "source": "https://en.wikipedia.org/wiki/Aburi_Botanical_Gardens",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/aburi-historic-colonial-era-botanical-gardens.html"
     },
     {
       "id": "aburi-missionary-and-colonial-heritage",
       "name": "Missionary and colonial heritage",
+      "contexts": [
+        {
+          "region": "Eastern Region",
+          "town": "Aburi",
+          "regionId": "eastern-region",
+          "townId": "aburi"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/aburi-missionary-and-colonial-heritage.html"
     },
     {
       "id": "akosombo-area-volta-river-development-heritage",
       "name": "Volta River development heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Eastern Region",
+          "town": "Akosombo Area",
+          "regionId": "eastern-region",
+          "townId": "akosombo-area"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/eatern-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/akosombo-area-volta-river-development-heritage.html"
     },
     {
       "id": "keta-fort-prinzenstein",
       "name": "Fort Prinzenstein",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Volta Region",
+          "town": "Keta",
+          "regionId": "volta-region",
+          "townId": "keta"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.92166667,
+        "longitude": 0.99361111,
+        "source": "https://en.wikipedia.org/wiki/Fort_Prinzenstein",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/keta-fort-prinzenstein.html"
     },
     {
       "id": "keta-german-colonial-heritage",
       "name": "German colonial heritage",
+      "contexts": [
+        {
+          "region": "Volta Region",
+          "town": "Keta",
+          "regionId": "volta-region",
+          "townId": "keta"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/keta-german-colonial-heritage.html"
     },
     {
       "id": "keta-anlo-ewe-traditional-heritage",
       "name": "Anlo-Ewe traditional heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Volta Region",
+          "town": "Keta",
+          "regionId": "volta-region",
+          "townId": "keta"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/volta-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/keta-anlo-ewe-traditional-heritage.html"
     },
     {
       "id": "ho-ewe-cultural-and-traditional-heritage",
       "name": "Ewe cultural and traditional heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Volta Region",
+          "town": "Ho",
+          "regionId": "volta-region",
+          "townId": "ho"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/volta-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/ho-ewe-cultural-and-traditional-heritage.html"
     },
     {
       "id": "amedzofe-german-missionary-heritage",
       "name": "German missionary heritage",
+      "contexts": [
+        {
+          "region": "Volta Region",
+          "town": "Amedzofe",
+          "regionId": "volta-region",
+          "townId": "amedzofe"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/amedzofe-german-missionary-heritage.html"
     },
     {
       "id": "amedzofe-historic-mountain-settlement",
       "name": "Historic mountain settlement",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Volta Region",
+          "town": "Amedzofe",
+          "regionId": "volta-region",
+          "townId": "amedzofe"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/volta-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/amedzofe-historic-mountain-settlement.html"
     },
     {
       "id": "axim-fort-st-anthony",
       "name": "Fort St. Anthony",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Western Region",
+          "town": "Axim",
+          "regionId": "western-region",
+          "townId": "axim"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/axim-fort-st-anthony.html"
     },
     {
       "id": "axim-historic-axim-township",
       "name": "Historic Axim township",
+      "contexts": [
+        {
+          "region": "Western Region",
+          "town": "Axim",
+          "regionId": "western-region",
+          "townId": "axim"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/axim-historic-axim-township.html"
     },
     {
       "id": "dixcove-fort-metal-cross",
       "name": "Fort Metal Cross",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Western Region",
+          "town": "Dixcove",
+          "regionId": "western-region",
+          "townId": "dixcove"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 4.79321,
+        "longitude": -1.94484,
+        "source": "https://en.wikipedia.org/wiki/Fort_Metal_Cross",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/dixcove-fort-metal-cross.html"
     },
     {
       "id": "butre-fort-batenstein",
       "name": "Fort Batenstein",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Western Region",
+          "town": "Butre",
+          "regionId": "western-region",
+          "townId": "butre"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/butre-fort-batenstein.html"
     },
     {
       "id": "princestown-fort-gross-friedrichsburg",
       "name": "Fort Gross Friedrichsburg",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Western Region",
+          "town": "Princestown",
+          "regionId": "western-region",
+          "townId": "princestown"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/princestown-fort-gross-friedrichsburg.html"
     },
     {
       "id": "princestown-brandenburg-prussian-colonial-heritage",
       "name": "Brandenburg/Prussian colonial heritage",
+      "contexts": [
+        {
+          "region": "Western Region",
+          "town": "Princestown",
+          "regionId": "western-region",
+          "townId": "princestown"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/princestown-brandenburg-prussian-colonial-heritage.html"
     },
     {
       "id": "shama-fort-st-sebastian",
       "name": "Fort St. Sebastian",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Western Region",
+          "town": "Shama",
+          "regionId": "western-region",
+          "townId": "shama"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 5.010825,
+        "longitude": -1.629199,
+        "source": "https://en.wikipedia.org/wiki/Fort_S%C3%A3o_Sebasti%C3%A3o_de_Xama",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/shama-fort-st-sebastian.html"
     },
     {
       "id": "sekondi-fort-orange",
       "name": "Fort Orange",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Western Region",
+          "town": "Sekondi",
+          "regionId": "western-region",
+          "townId": "sekondi"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/list/34",
+          "scope": "Identification in the coastal forts and castles World Heritage property",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 4.9357,
+        "longitude": -1.7073,
+        "source": "https://en.wikipedia.org/wiki/Fort_Orange%2C_Ghana",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/sekondi-fort-orange.html"
     },
     {
       "id": "sekondi-colonial-railway-and-harbour-heritage",
       "name": "Colonial railway and harbour heritage",
+      "contexts": [
+        {
+          "region": "Western Region",
+          "town": "Sekondi",
+          "regionId": "western-region",
+          "townId": "sekondi"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/sekondi-colonial-railway-and-harbour-heritage.html"
     },
     {
       "id": "tamale-dagbon-cultural-heritage",
       "name": "Dagbon cultural heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Northern Region",
+          "town": "Tamale",
+          "regionId": "northern-region",
+          "townId": "tamale"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/northern-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/tamale-dagbon-cultural-heritage.html"
     },
     {
       "id": "tamale-traditional-architecture-and-chiefly-institutions",
       "name": "Traditional architecture and chiefly institutions",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Northern Region",
+          "town": "Tamale",
+          "regionId": "northern-region",
+          "townId": "tamale"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/northern-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/tamale-traditional-architecture-and-chiefly-institutions.html"
     },
     {
       "id": "yendi-gbewaa-palace",
       "name": "Gbewaa Palace",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Northern Region",
+          "town": "Yendi",
+          "regionId": "northern-region",
+          "townId": "yendi"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://www.mint.gov.gh/ya-na-pledges-support-for-peace-and-security-in-the-north-2/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 9.44292,
+        "longitude": -0.00143,
+        "source": "https://en.wikipedia.org/wiki/Gbewaa_Palace",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/yendi-gbewaa-palace.html"
     },
     {
       "id": "yendi-dagbon-royal-heritage",
       "name": "Dagbon royal heritage",
+      "contexts": [
+        {
+          "region": "Northern Region",
+          "town": "Yendi",
+          "regionId": "northern-region",
+          "townId": "yendi"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/yendi-dagbon-royal-heritage.html"
     },
     {
       "id": "larabanga-larabanga-mosque",
       "name": "Larabanga Mosque",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Savannah Region",
+          "town": "Larabanga",
+          "regionId": "savannah-region",
+          "townId": "larabanga"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/savannah-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 9.2203,
+        "longitude": -1.8599,
+        "source": "https://en.wikipedia.org/wiki/Larabanga_Mosque",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/larabanga-larabanga-mosque.html"
     },
     {
       "id": "larabanga-mystic-stone",
       "name": "Mystic Stone",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Savannah Region",
+          "town": "Larabanga",
+          "regionId": "savannah-region",
+          "townId": "larabanga"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/savannah-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/larabanga-mystic-stone.html"
     },
     {
       "id": "larabanga-historic-sudanic-architectural-heritage",
       "name": "Historic Sudanic architectural heritage",
+      "contexts": [
+        {
+          "region": "Savannah Region",
+          "town": "Larabanga",
+          "regionId": "savannah-region",
+          "townId": "larabanga"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/larabanga-historic-sudanic-architectural-heritage.html"
     },
     {
       "id": "salaga-historic-salaga-slave-market",
       "name": "Historic Salaga Slave Market",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Savannah Region",
+          "town": "Salaga",
+          "regionId": "savannah-region",
+          "townId": "salaga"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/savannah-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/salaga-historic-salaga-slave-market.html"
     },
     {
       "id": "salaga-trans-saharan-trade-heritage",
       "name": "Trans-Saharan trade heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Savannah Region",
+          "town": "Salaga",
+          "regionId": "savannah-region",
+          "townId": "salaga"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/savannah-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/salaga-trans-saharan-trade-heritage.html"
     },
     {
       "id": "salaga-slave-route-heritage",
       "name": "Slave-route heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Savannah Region",
+          "town": "Salaga",
+          "regionId": "savannah-region",
+          "townId": "salaga"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/savannah-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/salaga-slave-route-heritage.html"
     },
     {
       "id": "wa-wa-naas-palace",
       "name": "Wa Naa’s Palace",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Upper West Region",
+          "town": "Wa",
+          "regionId": "upper-west-region",
+          "townId": "wa"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/upper-west-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 10.0637,
+        "longitude": -2.5005,
+        "source": "https://en.wikipedia.org/wiki/Wa_Naa's_Palace",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/wa-wa-naas-palace.html"
     },
     {
       "id": "wa-wa-central-mosque",
       "name": "Wa Central Mosque",
+      "contexts": [
+        {
+          "region": "Upper West Region",
+          "town": "Wa",
+          "regionId": "upper-west-region",
+          "townId": "wa"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/wa-wa-central-mosque.html"
     },
     {
       "id": "wa-historic-sudanic-architecture",
       "name": "Historic Sudanic architecture",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Upper West Region",
+          "town": "Wa",
+          "regionId": "upper-west-region",
+          "townId": "wa"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/upper-west-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/wa-historic-sudanic-architecture.html"
     },
     {
       "id": "gwollu-gwollu-defence-wall",
       "name": "Gwollu Defence Wall",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Upper West Region",
+          "town": "Gwollu",
+          "regionId": "upper-west-region",
+          "townId": "gwollu"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/upper-west-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/gwollu-gwollu-defence-wall.html"
     },
     {
       "id": "gwollu-anti-slavery-heritage-connected-with-naa-kuri",
       "name": "Anti-slavery heritage connected with Naa Kuri",
+      "contexts": [
+        {
+          "region": "Upper West Region",
+          "town": "Gwollu",
+          "regionId": "upper-west-region",
+          "townId": "gwollu"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/gwollu-anti-slavery-heritage-connected-with-naa-kuri.html"
     },
     {
       "id": "nakore-nakore-mosque",
       "name": "Nakore Mosque",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Upper West Region",
+          "town": "Nakore",
+          "regionId": "upper-west-region",
+          "townId": "nakore"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://gmmb.gov.gh/other-monuments/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 10.06027778,
+        "longitude": -2.51,
+        "source": "https://en.wikipedia.org/wiki/Nakore_Mosque",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/nakore-nakore-mosque.html"
     },
     {
       "id": "navrongo-navrongo-cathedral",
       "name": "Navrongo Cathedral",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Upper East Region",
+          "town": "Navrongo",
+          "regionId": "upper-east-region",
+          "townId": "navrongo"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://gmmb.gov.gh/other-monuments/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 10.8842,
+        "longitude": -1.0779,
+        "source": "https://en.wikipedia.org/wiki/Cathedral_Basilica_of_Our_Lady_of_Seven_Sorrows%2C_Navrongo",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/navrongo-navrongo-cathedral.html"
     },
     {
       "id": "navrongo-colonial-and-missionary-heritage",
       "name": "Colonial and missionary heritage",
+      "contexts": [
+        {
+          "region": "Upper East Region",
+          "town": "Navrongo",
+          "regionId": "upper-east-region",
+          "townId": "navrongo"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/navrongo-colonial-and-missionary-heritage.html"
     },
     {
       "id": "paga-paga-traditional-heritage",
       "name": "Paga traditional heritage",
+      "contexts": [
+        {
+          "region": "Upper East Region",
+          "town": "Paga",
+          "regionId": "upper-east-region",
+          "townId": "paga"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/paga-paga-traditional-heritage.html"
     },
     {
       "id": "paga-pikworo-slave-camp",
       "name": "Pikworo Slave Camp",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Upper East Region",
+          "town": "Paga",
+          "regionId": "upper-east-region",
+          "townId": "paga"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/pikworo-slave-camp-2/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 10.96333333,
+        "longitude": -1.11666667,
+        "source": "https://en.wikipedia.org/wiki/Pikworo_Slave_camp",
+        "verified": true,
+        "checkedOn": "2026-10-07",
+        "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/paga-pikworo-slave-camp.html"
     },
     {
       "id": "tengzug-tongo-tengzug-shrine",
       "name": "Tengzug Shrine",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Upper East Region",
+          "town": "Tengzug/Tongo",
+          "regionId": "upper-east-region",
+          "townId": "tengzug-tongo"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://gmmb.gov.gh/other-monuments/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/tengzug-tongo-tengzug-shrine.html"
     },
     {
       "id": "tengzug-tongo-talensi-traditional-heritage",
       "name": "Talensi traditional heritage",
+      "contexts": [
+        {
+          "region": "Upper East Region",
+          "town": "Tengzug/Tongo",
+          "regionId": "upper-east-region",
+          "townId": "tengzug-tongo"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/tengzug-tongo-talensi-traditional-heritage.html"
     },
     {
       "id": "sirigu-traditional-painted-compounds",
       "name": "Traditional painted compounds",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Upper East Region",
+          "town": "Sirigu",
+          "regionId": "upper-east-region",
+          "townId": "sirigu"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/upper-east-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/sirigu-traditional-painted-compounds.html"
     },
     {
       "id": "sirigu-indigenous-architectural-heritage",
       "name": "Indigenous architectural heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Upper East Region",
+          "town": "Sirigu",
+          "regionId": "upper-east-region",
+          "townId": "sirigu"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/upper-east-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/sirigu-indigenous-architectural-heritage.html"
     },
     {
       "id": "bono-traditional-areas-bono-kingdom-heritage",
       "name": "Bono kingdom heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Bono Region",
+          "town": "Bono traditional areas",
+          "regionId": "bono-region",
+          "townId": "bono-traditional-areas"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/bono-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/bono-traditional-areas-bono-kingdom-heritage.html"
     },
     {
       "id": "bono-traditional-areas-traditional-palaces",
       "name": "Traditional palaces",
+      "contexts": [
+        {
+          "region": "Bono Region",
+          "town": "Bono traditional areas",
+          "regionId": "bono-region",
+          "townId": "bono-traditional-areas"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/bono-traditional-areas-traditional-palaces.html"
     },
     {
       "id": "bono-traditional-areas-sacred-and-royal-sites",
       "name": "Sacred and royal sites",
+      "contexts": [
+        {
+          "region": "Bono Region",
+          "town": "Bono traditional areas",
+          "regionId": "bono-region",
+          "townId": "bono-traditional-areas"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/bono-traditional-areas-sacred-and-royal-sites.html"
     },
     {
       "id": "techiman-traditional-bono-takyiman-heritage",
       "name": "Traditional Bono-Takyiman heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "Bono East Region",
+          "town": "Techiman",
+          "regionId": "bono-east-region",
+          "townId": "techiman"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/bono-east-region/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/techiman-traditional-bono-takyiman-heritage.html"
     },
     {
       "id": "techiman-historic-market-and-royal-traditions",
       "name": "Historic market and royal traditions",
+      "contexts": [
+        {
+          "region": "Bono East Region",
+          "town": "Techiman",
+          "regionId": "bono-east-region",
+          "townId": "techiman"
+        }
+      ],
       "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contentSources": [],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": false,
-      "hasContentSources": false
+      "detailPage": "places/techiman-historic-market-and-royal-traditions.html"
     },
     {
       "id": "nalerigu-naa-jeringa-wall",
       "name": "Naa Jeringa Wall",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "North East Region",
+          "town": "Nalerigu",
+          "regionId": "north-east-region",
+          "townId": "nalerigu"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://gmmb.gov.gh/other-monuments/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/nalerigu-naa-jeringa-wall.html"
     },
     {
       "id": "nalerigu-mamprugu-royal-heritage",
       "name": "Mamprugu royal heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "North East Region",
+          "town": "Nalerigu",
+          "regionId": "north-east-region",
+          "townId": "nalerigu"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://nercc.gov.gh/about/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/nalerigu-mamprugu-royal-heritage.html"
     },
     {
       "id": "gambaga-historic-gambaga-settlement",
       "name": "Historic Gambaga settlement",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "North East Region",
+          "town": "Gambaga",
+          "regionId": "north-east-region",
+          "townId": "gambaga"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://emma.gov.gh/index.php/contact-us/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/gambaga-historic-gambaga-settlement.html"
     },
     {
       "id": "gambaga-colonial-and-traditional-heritage",
       "name": "Colonial and traditional heritage",
-      "hasGenuineDescription": false,
-      "hasVerifiedLocation": false,
+      "contexts": [
+        {
+          "region": "North East Region",
+          "town": "Gambaga",
+          "regionId": "north-east-region",
+          "townId": "gambaga"
+        }
+      ],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://emma.gov.gh/index.php/contact-us/",
+          "scope": "Published heritage context; current visitor operations not confirmed",
+          "checkedOn": "2026-10-07"
+        }
+      ],
+      "operationalInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": null,
+      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
       "hasPhoto": true,
-      "hasContentSources": false
+      "detailPage": "places/gambaga-colonial-and-traditional-heritage.html"
     }
   ],
   "coordinateConflicts": [
     {
-      "id": "fort-william-lighthouse",
-      "reason": "Wikipedia article and Wikidata coordinates differ; not added pending independent confirmation."
+      "id": "st-francis-de-sales-cathedral",
+      "reason": "Commons object coordinate is inconsistent with the known city-centre subject; not added."
     },
     {
       "id": "fort-victoria",
-      "reason": "Commons category identifies the lighthouse/Fort McCarthy while another source locates Fort Victoria elsewhere; not added."
+      "reason": "Conflicting Commons category conflates Fort Victoria with lighthouse; rejected that coordinate. Named Fort Victoria article and mapped fort site agree and were used."
+    },
+    {
+      "id": "kumasi-kumasi-fort-and-military-museum",
+      "reason": "Wikipedia town-centre redirect rejected. Explicit Commons museum object location used."
+    },
+    {
+      "id": "jamestown-james-fort",
+      "reason": "Wikipedia redirect refers to an Irish fort. Rejected; attraction remains unmapped."
+    },
+    {
+      "id": "ucc-botanical-garden",
+      "reason": "Research supplies coarse minute-resolution coordinates, insufficient for a precise visitor marker."
     }
   ],
   "photoGaps": [
@@ -958,5 +3585,10 @@
       "reason": "Smithsonian correctly identified image requires prior permission. Other images lack verified licensing; retain placeholder."
     }
   ],
-  "managerContact": "No verified owner-provided business destination or working submission service found; owner input requested."
+  "managerContact": "No verified owner-provided business destination or working submission service found; owner input requested.",
+  "accountTests": {
+    "mocked": "Registration validation, callback errors, recovery, login/logout, TOTP and profile ownership tests passed with synthetic SDK/network fixtures.",
+    "realEmailFlows": "Untested: requires designated authorized test email/inbox and approved test account.",
+    "security": "Own-row permissive policy AND restrictive aal2 policy verified. Leaked-password protection disabled warning; owner plan/settings decision required."
+  }
 }
