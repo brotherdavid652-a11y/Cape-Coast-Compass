@@ -231,12 +231,19 @@
       "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
     },
     "visitorInformation": {
-      "checkedOn": "2026-10-07",
+      "checkedOn": "2026-10-08",
       "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
       "admission": "Current admission fees have not been verified. Do not assume entry is free.",
       "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
       "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-    }
+    },
+    "contentSources": [
+      {
+        "url": "https://oak.go.kr/central/journallist/journaldetail.do?article_seq=11832",
+        "scope": "Named attraction context; current operations not confirmed",
+        "checkedOn": "2026-10-08"
+      }
+    ]
   },
   {
     "id": "kotokuraba-market",
@@ -297,12 +304,19 @@
       }
     ],
     "visitorInformation": {
-      "checkedOn": "2026-10-07",
+      "checkedOn": "2026-10-08",
       "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
       "admission": "Current admission fees have not been verified. Do not assume entry is free.",
       "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
       "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-    }
+    },
+    "contentSources": [
+      {
+        "url": "https://ccma.gov.gh/heritage_tour.php",
+        "scope": "Named attraction context; current operations not confirmed",
+        "checkedOn": "2026-10-08"
+      }
+    ]
   },
   {
     "id": "emintsimadze-palace",
@@ -423,12 +437,19 @@
       }
     ],
     "visitorInformation": {
-      "checkedOn": "2026-10-07",
+      "checkedOn": "2026-10-08",
       "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
       "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-      "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+      "access": "The operator’s published workshop leaflet identifies Cape Coast activities. Reconfirm current workshop availability directly with Global Mamas; adding this stop does not reserve a workshop.",
       "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-    }
+    },
+    "contentSources": [
+      {
+        "url": "https://globalmamas.org/wp-content/uploads/2021/04/Global_Mamas_Cultural_Workshops-web.pdf",
+        "scope": "Named attraction context; current operations not confirmed",
+        "checkedOn": "2026-10-08"
+      }
+    ]
   },
   {
     "id": "cape-coast-beachfront",
@@ -827,11 +848,27 @@
       }
     ],
     "visitorInformation": {
-      "checkedOn": "2026-10-07",
+      "checkedOn": "2026-10-08",
       "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
       "admission": "Current admission fees have not been verified. Do not assume entry is free.",
       "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
       "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+    },
+    "contentSources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Category:Victoria_Park_(Cape_Coast)",
+        "scope": "Named attraction context; current operations not confirmed",
+        "checkedOn": "2026-10-08"
+      }
+    ],
+    "location": {
+      "latitude": 5.1044,
+      "longitude": -1.243694,
+      "source": "https://commons.wikimedia.org/wiki/Category:Victoria_Park_(Cape_Coast)",
+      "verified": true,
+      "checkedOn": "2026-10-08",
+      "verificationMethod": "Explicit object location for the named park entrance, not photograph camera GPS; corroborated by the mapped Queen Victoria monument.",
+      "corroboration": "https://www.openstreetmap.org/node/8294420814"
     }
   },
   {
@@ -1013,23 +1050,23 @@
     "id": "ucc-botanical-garden",
     "slug": "ucc-botanical-garden",
     "name": "UCC botanical garden",
-    "description": "University botanical grounds documented by UCC. Public tourism access has not been verified.",
+    "description": "The University of Cape Coast Botanic Garden supports plant conservation and teaching. BGCI documents a project completed in 2023 that added plant collections, labels and garden beds and improved the layout for learning. This evidence identifies the garden, but does not establish current tourist opening hours or permission requirements.",
     "access": "Public access and university permission requirements are unverified.",
     "category": "Nature & coast",
     "nearby": false,
     "photos": [],
     "contentSources": [
       {
-        "url": "https://ir.ucc.edu.gh/xmlui/bitstream/handle/123456789/2854/Edzeani%202014.pdf?isAllowed=y&sequence=1",
-        "scope": "UCC research identifies the botanical garden; does not establish public visiting rights",
-        "checkedOn": "2026-10-07"
+        "url": "https://www.bgci.org/our-work/projects-and-case-studies/improving-the-plant-collection-at-university-of-cape-coast-botanic-garden-ghana/",
+        "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+        "checkedOn": "2026-10-08"
       }
     ],
     "visitorInformation": {
-      "checkedOn": "2026-10-07",
+      "checkedOn": "2026-10-08",
       "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
       "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-      "access": "Public access and university permission requirements are unverified. Contact the university before visiting.",
+      "access": "The source documents conservation and educational use. Current public visitor access and university permission requirements have not been verified; check with the university before visiting.",
       "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
     }
   },
@@ -1037,12 +1074,17 @@
     "id": "fort-frederiksborg-site-amanful",
     "slug": "fort-frederiksborg-site-amanful",
     "name": "Fort Frederiksborg site, Amanful",
-    "description": "A historic fortification site with traces of former structures, rather than an intact castle attraction.",
+    "description": "Fort Frederiksborg at Amanful is a historic fort site in Cape Coast, distinct from Fort Gross Friedrichsburg at Princestown. Ghana Museums and Monuments Board includes the Amanful fort in its inventory. The exact visible remains and a suitable visitor access point have not been verified; this is not presented as an intact castle.",
     "access": "Specialist heritage stop; access unverified.",
     "category": "Heritage",
     "nearby": false,
     "photos": [],
     "contentSources": [
+      {
+        "url": "https://gmmb.gov.gh/forts-and-castles/",
+        "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+        "checkedOn": "2026-10-08"
+      },
       {
         "url": "https://whc.unesco.org/en/list/34",
         "scope": "Identification in the coastal forts and castles World Heritage property",
@@ -1050,7 +1092,7 @@
       }
     ],
     "visitorInformation": {
-      "checkedOn": "2026-10-07",
+      "checkedOn": "2026-10-08",
       "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
       "admission": "Current admission fees have not been verified. Do not assume entry is free.",
       "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
@@ -1444,7 +1486,7 @@
     "id": "assin-manso-ancestral-slave-river-site",
     "slug": "assin-manso-ancestral-slave-river-site",
     "name": "Assin Manso Ancestral Slave River site",
-    "description": "Assin Manso. A remembrance destination inland, requiring a separate trip plan.",
+    "description": "The Assin Manso Ancestral Slave River Park commemorates people forced along the transatlantic slave-trade route. Assin South District Assembly identifies the Last Bath river site, the Memorial Wall of Return and the Ancestral Graveyard within this same park. The memorial and burial grounds are included in this listing rather than counted as separate trip stops.",
     "access": "Separate arrangements required; confirm current access directly.",
     "category": "Heritage",
     "nearby": true,
@@ -1476,13 +1518,18 @@
     ],
     "contentSources": [
       {
+        "url": "https://theassda.gov.gh/tourist-sites/",
+        "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+        "checkedOn": "2026-10-08"
+      },
+      {
         "url": "https://crcc.gov.gh/tourism/",
         "scope": "Regional tourism inventory; current operations not confirmed",
         "checkedOn": "2026-10-07"
       }
     ],
     "visitorInformation": {
-      "checkedOn": "2026-10-07",
+      "checkedOn": "2026-10-08",
       "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
       "admission": "Current admission fees have not been verified. Do not assume entry is free.",
       "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",

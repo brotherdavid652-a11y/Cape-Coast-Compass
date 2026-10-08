@@ -1,0 +1,243 @@
+{
+  "checkedOn": "2026-10-08",
+  "decisions": [
+    {
+      "from": "larabanga-historic-sudanic-architectural-heritage",
+      "to": "larabanga-larabanga-mosque",
+      "source": "https://whc.unesco.org/en/tentativelists/1395/",
+      "reason": "The architectural label describes a style exemplified by Larabanga Mosque; no distinct place is identified by the listing.",
+      "checkedOn": "2026-10-08"
+    },
+    {
+      "from": "assin-manso-slave-route-memorial-sites",
+      "to": "assin-manso-ancestral-slave-river-site",
+      "source": "https://theassda.gov.gh/tourist-sites/",
+      "reason": "The Assembly identifies the Memorial Wall of Return within the Ancestral Slave River Park.",
+      "checkedOn": "2026-10-08"
+    },
+    {
+      "from": "assin-manso-ancestral-burial-and-remembrance-grounds",
+      "to": "assin-manso-ancestral-slave-river-site",
+      "source": "https://theassda.gov.gh/tourist-sites/",
+      "reason": "The Assembly identifies the Ancestral Graveyard as part of the same River Park.",
+      "checkedOn": "2026-10-08"
+    }
+  ],
+  "otherBroadListings": [
+    {
+      "id": "cape-coast-cape-coast-historic-town",
+      "name": "Cape Coast historic town",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "cape-coast-asafo-shrines-and-traditional-heritage-sites",
+      "name": "Asafo shrines and traditional heritage sites",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "elmina-elmina-historic-township",
+      "name": "Elmina historic township",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "elmina-posuban-shrines",
+      "name": "Posuban shrines",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "anomabo-historic-merchant-houses",
+      "name": "Historic merchant houses",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "anomabo-anomabo-traditional-heritage",
+      "name": "Anomabo traditional heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "abandze-historic-coastal-settlement",
+      "name": "Historic coastal settlement",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "apam-traditional-coastal-heritage",
+      "name": "Traditional coastal heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "jamestown-ga-traditional-heritage",
+      "name": "Ga traditional heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "osu-historic-osu-township",
+      "name": "Historic Osu township",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "kumasi-okomfo-anokye-historical-heritage",
+      "name": "Okomfo Anokye historical heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "ejisu-yaa-asantewaa-museum-and-heritage-sites",
+      "name": "Yaa Asantewaa Museum and heritage sites",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "ejisu-ejisu-traditional-palace-heritage",
+      "name": "Ejisu traditional palace heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "adanwomase-bonwire-kente-weaving-heritage",
+      "name": "Kente-weaving heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "ntonso-adinkra-cultural-heritage",
+      "name": "Adinkra cultural heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "akropong-akuapem-traditional-heritage",
+      "name": "Akuapem traditional heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "aburi-missionary-and-colonial-heritage",
+      "name": "Missionary and colonial heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "akosombo-area-volta-river-development-heritage",
+      "name": "Volta River development heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "keta-german-colonial-heritage",
+      "name": "German colonial heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "keta-anlo-ewe-traditional-heritage",
+      "name": "Anlo-Ewe traditional heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "ho-ewe-cultural-and-traditional-heritage",
+      "name": "Ewe cultural and traditional heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "amedzofe-german-missionary-heritage",
+      "name": "German missionary heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "amedzofe-historic-mountain-settlement",
+      "name": "Historic mountain settlement",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "axim-historic-axim-township",
+      "name": "Historic Axim township",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "princestown-brandenburg-prussian-colonial-heritage",
+      "name": "Brandenburg/Prussian colonial heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "sekondi-colonial-railway-and-harbour-heritage",
+      "name": "Colonial railway and harbour heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "tamale-dagbon-cultural-heritage",
+      "name": "Dagbon cultural heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "yendi-dagbon-royal-heritage",
+      "name": "Dagbon royal heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "salaga-trans-saharan-trade-heritage",
+      "name": "Trans-Saharan trade heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "salaga-slave-route-heritage",
+      "name": "Slave-route heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "gwollu-anti-slavery-heritage-connected-with-naa-kuri",
+      "name": "Anti-slavery heritage connected with Naa Kuri",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "navrongo-colonial-and-missionary-heritage",
+      "name": "Colonial and missionary heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "paga-paga-traditional-heritage",
+      "name": "Paga traditional heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "tengzug-tongo-talensi-traditional-heritage",
+      "name": "Talensi traditional heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "sirigu-indigenous-architectural-heritage",
+      "name": "Indigenous architectural heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "bono-traditional-areas-bono-kingdom-heritage",
+      "name": "Bono kingdom heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "bono-traditional-areas-traditional-palaces",
+      "name": "Traditional palaces",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "bono-traditional-areas-sacred-and-royal-sites",
+      "name": "Sacred and royal sites",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "techiman-traditional-bono-takyiman-heritage",
+      "name": "Traditional Bono-Takyiman heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "techiman-historic-market-and-royal-traditions",
+      "name": "Historic market and royal traditions",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "nalerigu-mamprugu-royal-heritage",
+      "name": "Mamprugu royal heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "gambaga-historic-gambaga-settlement",
+      "name": "Historic Gambaga settlement",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    },
+    {
+      "id": "gambaga-colonial-and-traditional-heritage",
+      "name": "Colonial and traditional heritage",
+      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
+    }
+  ]
+}

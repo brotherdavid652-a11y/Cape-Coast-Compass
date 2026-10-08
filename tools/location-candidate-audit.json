@@ -1,0 +1,212 @@
+{
+  "checkedOn": "2026-10-08",
+  "results": [
+    {
+      "place": "kotokuraba-market",
+      "name": "Kotokuraba Market",
+      "hits": [
+        {
+          "id": "Q111084782",
+          "label": "Kotokuraba Market",
+          "description": "market in Cape Coast, Ghana"
+        }
+      ]
+    },
+    {
+      "place": "emintsimadze-palace",
+      "name": "Emintsimadze Palace",
+      "hits": []
+    },
+    {
+      "place": "osabarimba-asafo-art-gallery",
+      "name": "Osabarimba Asafo Art Gallery",
+      "hits": []
+    },
+    {
+      "place": "cape-coast-beachfront",
+      "name": "Cape Coast beachfront",
+      "hits": []
+    },
+    {
+      "place": "chapel-square",
+      "name": "Wesley Methodist Church, popularly known as Chapel Square",
+      "hits": []
+    },
+    {
+      "place": "london-bridge",
+      "name": "London Bridge",
+      "hits": []
+    },
+    {
+      "place": "atta-mills-presidential-library",
+      "name": "John Evans Atta Mills Presidential Library",
+      "hits": [
+        {
+          "id": "Q116854612",
+          "label": "John Evans Atta Mills Presidential Library",
+          "description": "public library in Cape Coast (Ghana)"
+        }
+      ]
+    },
+    {
+      "place": "st-francis-de-sales-cathedral",
+      "name": "St. Francis de Sales Cathedral",
+      "hits": [
+        {
+          "id": "Q114437327",
+          "label": "St. Francis de Sales Cathedral",
+          "description": "cathedral in Cape Coast, Ghana",
+          "coordinates": [
+            {
+              "latitude": 5.103611,
+              "longitude": -1.282222,
+              "altitude": null,
+              "precision": 0.000001,
+              "globe": "http://www.wikidata.org/entity/Q2"
+            }
+          ],
+          "images": [
+            "Saint Francis Cathedral Cape Coast.jpg"
+          ],
+          "references": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "place": "victoria-park",
+      "name": "Victoria Park",
+      "hits": []
+    },
+    {
+      "place": "ato-austin-park",
+      "name": "Ato Austin Park",
+      "hits": []
+    },
+    {
+      "place": "jacob-wilson-seys-tomb",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "historic-high-court-building",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "colonial-military-cemetery",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "ucc-botanical-garden",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "fort-frederiksborg-site-amanful",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "hans-cottage-botel",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "kakum-national-park",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "international-stingless-bee-centre",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "elmina-fishing-harbour-market",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "brenu-beach",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "assin-manso-ancestral-slave-river-site",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "ostrich-farm",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "fort-william-anomabo",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "apam-fort-patience",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "jamestown-james-fort",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "jamestown-ussher-fort",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "kumasi-komfo-anokye-sword-site",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "akropong-historic-basel-mission-sites",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "amedzofe-historic-mountain-settlement",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "axim-fort-st-anthony",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "butre-fort-batenstein",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "princestown-fort-gross-friedrichsburg",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "larabanga-mystic-stone",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "salaga-historic-salaga-slave-market",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "wa-wa-central-mosque",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "wa-historic-sudanic-architecture",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "gwollu-gwollu-defence-wall",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "tengzug-tongo-tengzug-shrine",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "sirigu-traditional-painted-compounds",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "nalerigu-naa-jeringa-wall",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    },
+    {
+      "place": "gambaga-historic-gambaga-settlement",
+      "error": "Unexpected token 'Y', \"You are ma\"... is not valid JSON"
+    }
+  ]
+}

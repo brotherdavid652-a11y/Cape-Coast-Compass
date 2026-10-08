@@ -1,0 +1,162 @@
+{
+  "checkedAt": "2026-10-08T01:00:45.615Z",
+  "results": [
+    {
+      "url": "https://whc.unesco.org/en/list/34",
+      "status": 403,
+      "finalUrl": "https://whc.unesco.org/en/list/34",
+      "bytes": 5456,
+      "checkedAt": "2026-10-08T01:00:33.134Z"
+    },
+    {
+      "url": "https://ir.ucc.edu.gh/xmlui/bitstream/handle/123456789/2854/Edzeani%202014.pdf?isAllowed=y&sequence=1",
+      "status": 404,
+      "finalUrl": "https://ir.ucc.edu.gh/xmlui/bitstream/handle/123456789/2854/Edzeani%202014.pdf?isAllowed=y&sequence=1",
+      "bytes": 455683,
+      "checkedAt": "2026-10-08T01:00:34.537Z"
+    },
+    {
+      "url": "https://crcc.gov.gh/tourism/",
+      "status": 200,
+      "finalUrl": "https://crcc.gov.gh/tourism/",
+      "bytes": 144534,
+      "checkedAt": "2026-10-08T01:00:34.869Z"
+    },
+    {
+      "url": "https://gmmb.gov.gh/st-georges-castle-elmina-castle-elmina-1482/",
+      "status": 200,
+      "finalUrl": "https://gmmb.gov.gh/st-georges-castle-elmina-castle-elmina-1482/",
+      "bytes": 93822,
+      "checkedAt": "2026-10-08T01:00:34.964Z"
+    },
+    {
+      "url": "https://manhyiapalacemuseum.org/",
+      "status": 500,
+      "finalUrl": "https://manhyiapalacemuseum.org/",
+      "bytes": 2811,
+      "checkedAt": "2026-10-08T01:00:36.383Z"
+    },
+    {
+      "url": "https://manhyiapalacemuseum.org/contact-us/",
+      "status": 500,
+      "finalUrl": "https://manhyiapalacemuseum.org/contact-us/",
+      "bytes": 2811,
+      "checkedAt": "2026-10-08T01:00:36.881Z"
+    },
+    {
+      "url": "https://gmmb.gov.gh/kumasi-fort-and-military-museum/",
+      "status": 200,
+      "finalUrl": "https://gmmb.gov.gh/kumasi-fort-and-military-museum/",
+      "bytes": 91427,
+      "checkedAt": "2026-10-08T01:00:37.656Z"
+    },
+    {
+      "url": "https://visitghana.com/attractions/greater-accra-region/",
+      "status": 200,
+      "finalUrl": "https://visitghana.com/greater-accra-region/",
+      "bytes": 278052,
+      "checkedAt": "2026-10-08T01:00:38.474Z"
+    },
+    {
+      "url": "https://visitghana.com/ashanti-region/",
+      "status": 200,
+      "finalUrl": "https://visitghana.com/ashanti-region/",
+      "bytes": 280477,
+      "checkedAt": "2026-10-08T01:00:39.182Z"
+    },
+    {
+      "url": "https://visitghana.com/eatern-region/",
+      "status": 200,
+      "finalUrl": "https://visitghana.com/eatern-region/",
+      "bytes": 276495,
+      "checkedAt": "2026-10-08T01:00:39.866Z"
+    },
+    {
+      "url": "https://visitghana.com/volta-region/",
+      "status": 200,
+      "finalUrl": "https://visitghana.com/volta-region/",
+      "bytes": 277869,
+      "checkedAt": "2026-10-08T01:00:40.540Z"
+    },
+    {
+      "url": "https://so04.tci-thaijo.org/index.php/JUCR/article/download/273300/184758/1115294",
+      "status": 200,
+      "finalUrl": "https://so04.tci-thaijo.org/index.php/JUCR/article/download/273300/184758/1115294",
+      "bytes": 3114684,
+      "checkedAt": "2026-10-08T01:00:41.093Z"
+    },
+    {
+      "url": "https://visitghana.com/northern-region/",
+      "status": 200,
+      "finalUrl": "https://visitghana.com/northern-region/",
+      "bytes": 276957,
+      "checkedAt": "2026-10-08T01:00:41.136Z"
+    },
+    {
+      "url": "https://www.mint.gov.gh/ya-na-pledges-support-for-peace-and-security-in-the-north-2/",
+      "status": 404,
+      "finalUrl": "https://mint.gov.gh/public/ya-na-pledges-support-for-peace-and-security-in-the-north-2",
+      "bytes": 55369,
+      "checkedAt": "2026-10-08T01:00:41.437Z"
+    },
+    {
+      "url": "https://visitghana.com/upper-west-region/",
+      "status": 200,
+      "finalUrl": "https://visitghana.com/upper-west-region/",
+      "bytes": 276925,
+      "checkedAt": "2026-10-08T01:00:42.664Z"
+    },
+    {
+      "url": "https://gmmb.gov.gh/other-monuments/",
+      "status": 200,
+      "finalUrl": "https://gmmb.gov.gh/other-monuments/",
+      "bytes": 90421,
+      "checkedAt": "2026-10-08T01:00:42.753Z"
+    },
+    {
+      "url": "https://visitghana.com/savannah-region/",
+      "status": 200,
+      "finalUrl": "https://visitghana.com/savannah-region/",
+      "bytes": 276118,
+      "checkedAt": "2026-10-08T01:00:42.806Z"
+    },
+    {
+      "url": "https://visitghana.com/pikworo-slave-camp-2/",
+      "status": 200,
+      "finalUrl": "https://visitghana.com/pikworo-slave-camp-2/",
+      "bytes": 279053,
+      "checkedAt": "2026-10-08T01:00:44.222Z"
+    },
+    {
+      "url": "https://visitghana.com/bono-region/",
+      "status": 200,
+      "finalUrl": "https://visitghana.com/bono-region/",
+      "bytes": 276290,
+      "checkedAt": "2026-10-08T01:00:44.741Z"
+    },
+    {
+      "url": "https://nercc.gov.gh/about/",
+      "error": "fetch failed",
+      "checkedAt": "2026-10-08T01:00:44.991Z"
+    },
+    {
+      "url": "https://visitghana.com/upper-east-region/",
+      "status": 200,
+      "finalUrl": "https://visitghana.com/upper-east-region/",
+      "bytes": 276721,
+      "checkedAt": "2026-10-08T01:00:45.062Z"
+    },
+    {
+      "url": "https://emma.gov.gh/index.php/contact-us/",
+      "error": "fetch failed",
+      "checkedAt": "2026-10-08T01:00:45.190Z"
+    },
+    {
+      "url": "https://visitghana.com/bono-east-region/",
+      "status": 200,
+      "finalUrl": "https://visitghana.com/bono-east-region/",
+      "bytes": 276927,
+      "checkedAt": "2026-10-08T01:00:45.614Z"
+    }
+  ]
+}

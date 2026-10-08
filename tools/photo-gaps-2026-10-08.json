@@ -1,0 +1,23 @@
+{
+  "checkedOn": "2026-10-08",
+  "decisions": [
+    {
+      "id": "ucc-botanical-garden",
+      "source": "https://www.bgci.org/our-work/projects-and-case-studies/improving-the-plant-collection-at-university-of-cape-coast-botanic-garden-ghana/",
+      "status": "Placeholder retained",
+      "reason": "Images identify the garden, but no reusable licence or permission is stated."
+    },
+    {
+      "id": "kumasi-prempeh-ii-jubilee-museum",
+      "source": "https://africa.si.edu/archives/object/sova-eepa-1973-001-ref35488",
+      "status": "Placeholder retained",
+      "reason": "Accurately identified museum photograph; Smithsonian archive requires permission, not an established open licence."
+    },
+    {
+      "id": "fort-frederiksborg-site-amanful",
+      "source": "https://commons.wikimedia.org/wiki/Category:Fort_Frederiksborg",
+      "status": "Placeholder retained",
+      "reason": "Historic engravings are not a verified contemporary documentary photograph; similarly named Princestown fort is a different location."
+    }
+  ]
+}

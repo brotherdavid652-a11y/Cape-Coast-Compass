@@ -1,6 +1,6 @@
 {
-  "checkedOn": "2026-10-07",
-  "scope": "All 117 unique catalogue records; structural and source review, not confirmation of current operations.",
+  "checkedOn": "2026-10-08",
+  "scope": "All current catalogue records structurally audited. Only source reviews explicitly dated 2026-10-08 were newly researched in this batch; no confirmation of current operations is implied.",
   "records": [
     {
       "id": "cape-coast-castle-museum",
@@ -39,7 +39,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/cape-coast-castle-museum.html"
+      "detailPage": "places/cape-coast-castle-museum.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "fort-victoria",
@@ -78,7 +79,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/fort-victoria.html"
+      "detailPage": "places/fort-victoria.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "fort-william-lighthouse",
@@ -117,7 +119,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/fort-william-lighthouse.html"
+      "detailPage": "places/fort-william-lighthouse.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "fosu-lagoon",
@@ -131,9 +134,15 @@
         }
       ],
       "hasGenuineDescription": true,
-      "contentSources": [],
+      "contentSources": [
+        {
+          "url": "https://oak.go.kr/central/journallist/journaldetail.do?article_seq=11832",
+          "scope": "Named attraction context; current operations not confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
@@ -149,7 +158,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/fosu-lagoon.html"
+      "detailPage": "places/fosu-lagoon.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "kotokuraba-market",
@@ -163,18 +173,25 @@
         }
       ],
       "hasGenuineDescription": true,
-      "contentSources": [],
+      "contentSources": [
+        {
+          "url": "https://ccma.gov.gh/heritage_tour.php",
+          "scope": "Named attraction context; current operations not confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/kotokuraba-market.html"
+      "detailPage": "places/kotokuraba-market.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "emintsimadze-palace",
@@ -197,9 +214,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/emintsimadze-palace.html"
+      "detailPage": "places/emintsimadze-palace.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "osabarimba-asafo-art-gallery",
@@ -222,9 +240,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/osabarimba-asafo-art-gallery.html"
+      "detailPage": "places/osabarimba-asafo-art-gallery.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "global-mamas-cultural-workshops",
@@ -238,18 +257,25 @@
         }
       ],
       "hasGenuineDescription": true,
-      "contentSources": [],
+      "contentSources": [
+        {
+          "url": "https://globalmamas.org/wp-content/uploads/2021/04/Global_Mamas_Cultural_Workshops-web.pdf",
+          "scope": "Named attraction context; current operations not confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "The operator’s published workshop leaflet identifies Cape Coast activities. Reconfirm current workshop availability directly with Global Mamas; adding this stop does not reserve a workshop.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/global-mamas-cultural-workshops.html"
+      "detailPage": "places/global-mamas-cultural-workshops.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "cape-coast-beachfront",
@@ -272,9 +298,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/cape-coast-beachfront.html"
+      "detailPage": "places/cape-coast-beachfront.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "chapel-square",
@@ -297,9 +324,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/chapel-square.html"
+      "detailPage": "places/chapel-square.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "london-bridge",
@@ -322,9 +350,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/london-bridge.html"
+      "detailPage": "places/london-bridge.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "atta-mills-presidential-library",
@@ -347,9 +376,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/atta-mills-presidential-library.html"
+      "detailPage": "places/atta-mills-presidential-library.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "christ-church-cathedral",
@@ -381,7 +411,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/christ-church-cathedral.html"
+      "detailPage": "places/christ-church-cathedral.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "wesley-methodist-cathedral",
@@ -413,7 +444,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/wesley-methodist-cathedral.html"
+      "detailPage": "places/wesley-methodist-cathedral.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "st-francis-de-sales-cathedral",
@@ -436,9 +468,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/st-francis-de-sales-cathedral.html"
+      "detailPage": "places/st-francis-de-sales-cathedral.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "victoria-park",
@@ -452,18 +485,33 @@
         }
       ],
       "hasGenuineDescription": true,
-      "contentSources": [],
+      "contentSources": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Category:Victoria_Park_(Cape_Coast)",
+          "scope": "Named attraction context; current operations not confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
-      "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "location": {
+        "latitude": 5.1044,
+        "longitude": -1.243694,
+        "source": "https://commons.wikimedia.org/wiki/Category:Victoria_Park_(Cape_Coast)",
+        "verified": true,
+        "checkedOn": "2026-10-08",
+        "verificationMethod": "Explicit object location for the named park entrance, not photograph camera GPS; corroborated by the mapped Queen Victoria monument.",
+        "corroboration": "https://www.openstreetmap.org/node/8294420814"
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/victoria-park.html"
+      "detailPage": "places/victoria-park.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "ato-austin-park",
@@ -486,9 +534,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/ato-austin-park.html"
+      "detailPage": "places/ato-austin-park.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "jacob-wilson-seys-tomb",
@@ -511,9 +560,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/jacob-wilson-seys-tomb.html"
+      "detailPage": "places/jacob-wilson-seys-tomb.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "historic-high-court-building",
@@ -536,9 +586,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/historic-high-court-building.html"
+      "detailPage": "places/historic-high-court-building.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "colonial-military-cemetery",
@@ -567,9 +618,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/colonial-military-cemetery.html"
+      "detailPage": "places/colonial-military-cemetery.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "ucc-botanical-garden",
@@ -585,22 +637,23 @@
       "hasGenuineDescription": true,
       "contentSources": [
         {
-          "url": "https://ir.ucc.edu.gh/xmlui/bitstream/handle/123456789/2854/Edzeani%202014.pdf?isAllowed=y&sequence=1",
-          "scope": "UCC research identifies the botanical garden; does not establish public visiting rights",
-          "checkedOn": "2026-10-07"
+          "url": "https://www.bgci.org/our-work/projects-and-case-studies/improving-the-plant-collection-at-university-of-cape-coast-botanic-garden-ghana/",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
         }
       ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public access and university permission requirements are unverified. Contact the university before visiting.",
+        "access": "The source documents conservation and educational use. Current public visitor access and university permission requirements have not been verified; check with the university before visiting.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/ucc-botanical-garden.html"
+      "detailPage": "places/ucc-botanical-garden.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "fort-frederiksborg-site-amanful",
@@ -616,22 +669,28 @@
       "hasGenuineDescription": true,
       "contentSources": [
         {
+          "url": "https://gmmb.gov.gh/forts-and-castles/",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
+        },
+        {
           "url": "https://whc.unesco.org/en/list/34",
           "scope": "Identification in the coastal forts and castles World Heritage property",
           "checkedOn": "2026-10-07"
         }
       ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/fort-frederiksborg-site-amanful.html"
+      "detailPage": "places/fort-frederiksborg-site-amanful.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "hans-cottage-botel",
@@ -654,9 +713,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/hans-cottage-botel.html"
+      "detailPage": "places/hans-cottage-botel.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "kakum-national-park",
@@ -685,9 +745,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/kakum-national-park.html"
+      "detailPage": "places/kakum-national-park.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "international-stingless-bee-centre",
@@ -716,9 +777,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/international-stingless-bee-centre.html"
+      "detailPage": "places/international-stingless-bee-centre.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "elmina-castle",
@@ -763,7 +825,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/elmina-castle.html"
+      "detailPage": "places/elmina-castle.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "fort-st-jago-coenraadsburg",
@@ -801,7 +864,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/fort-st-jago-coenraadsburg.html"
+      "detailPage": "places/fort-st-jago-coenraadsburg.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "elmina-fishing-harbour-market",
@@ -830,9 +894,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/elmina-fishing-harbour-market.html"
+      "detailPage": "places/elmina-fishing-harbour-market.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "dutch-cemetery",
@@ -871,7 +936,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/dutch-cemetery.html"
+      "detailPage": "places/dutch-cemetery.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "brenu-beach",
@@ -900,9 +966,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/brenu-beach.html"
+      "detailPage": "places/brenu-beach.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "assin-manso-ancestral-slave-river-site",
@@ -918,22 +985,28 @@
       "hasGenuineDescription": true,
       "contentSources": [
         {
+          "url": "https://theassda.gov.gh/tourist-sites/",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
+        },
+        {
           "url": "https://crcc.gov.gh/tourism/",
           "scope": "Regional tourism inventory; current operations not confirmed",
           "checkedOn": "2026-10-07"
         }
       ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/assin-manso-ancestral-slave-river-site.html"
+      "detailPage": "places/assin-manso-ancestral-slave-river-site.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "ostrich-farm",
@@ -962,9 +1035,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/ostrich-farm.html"
+      "detailPage": "places/ostrich-farm.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "cape-coast-cape-coast-historic-town",
@@ -977,19 +1051,26 @@
           "townId": "cape-coast"
         }
       ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://ccma.gov.gh/heritage_tour.php",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/cape-coast-cape-coast-historic-town.html"
+      "detailPage": "places/cape-coast-cape-coast-historic-town.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "cape-coast-asafo-shrines-and-traditional-heritage-sites",
@@ -1002,19 +1083,26 @@
           "townId": "cape-coast"
         }
       ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://www.bradtguides.com/posubans/",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/cape-coast-asafo-shrines-and-traditional-heritage-sites.html"
+      "detailPage": "places/cape-coast-asafo-shrines-and-traditional-heritage-sites.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "elmina-elmina-historic-township",
@@ -1037,9 +1125,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/elmina-elmina-historic-township.html"
+      "detailPage": "places/elmina-elmina-historic-township.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "elmina-posuban-shrines",
@@ -1052,69 +1141,35 @@
           "townId": "elmina"
         }
       ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
-      "operationalInformation": {
-        "checkedOn": "2026-10-07",
-        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
-        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
-        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      },
-      "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
-      "hasPhoto": true,
-      "detailPage": "places/elmina-posuban-shrines.html"
-    },
-    {
-      "id": "assin-manso-slave-route-memorial-sites",
-      "name": "Slave route memorial sites",
-      "contexts": [
+      "hasGenuineDescription": true,
+      "contentSources": [
         {
-          "region": "Central Region",
-          "town": "Assin Manso",
-          "regionId": "central-region",
-          "townId": "assin-manso"
+          "url": "https://www.bradtguides.com/posubans/",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
         }
       ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
-      "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "location": {
+        "latitude": 5.0861122,
+        "longitude": -1.3513131,
+        "source": "https://www.openstreetmap.org/node/1193972838",
+        "label": "Posuban Shrine 1",
+        "verified": true,
+        "checkedOn": "2026-10-08",
+        "verificationMethod": "Published named shrine point; collective listing explicitly states which shrine this marker identifies.",
+        "corroboration": "https://commons.wikimedia.org/wiki/File:Asafo_No._1_Posuban-Shrine_(Elmina,_Ghana_2013).jpg"
+      },
+      "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/assin-manso-slave-route-memorial-sites.html"
-    },
-    {
-      "id": "assin-manso-ancestral-burial-and-remembrance-grounds",
-      "name": "Ancestral burial and remembrance grounds",
-      "contexts": [
-        {
-          "region": "Central Region",
-          "town": "Assin Manso",
-          "regionId": "central-region",
-          "townId": "assin-manso"
-        }
-      ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
-      "operationalInformation": {
-        "checkedOn": "2026-10-07",
-        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
-        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
-        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      },
-      "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
-      "hasPhoto": false,
-      "detailPage": "places/assin-manso-ancestral-burial-and-remembrance-grounds.html"
+      "detailPage": "places/elmina-posuban-shrines.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "fort-william-anomabo",
@@ -1143,9 +1198,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/fort-william-anomabo.html"
+      "detailPage": "places/fort-william-anomabo.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "anomabo-historic-merchant-houses",
@@ -1168,9 +1224,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/anomabo-historic-merchant-houses.html"
+      "detailPage": "places/anomabo-historic-merchant-houses.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "anomabo-anomabo-traditional-heritage",
@@ -1193,9 +1250,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/anomabo-anomabo-traditional-heritage.html"
+      "detailPage": "places/anomabo-anomabo-traditional-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "abandze-fort-amsterdam",
@@ -1233,7 +1291,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/abandze-fort-amsterdam.html"
+      "detailPage": "places/abandze-fort-amsterdam.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "abandze-historic-coastal-settlement",
@@ -1256,9 +1315,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/abandze-historic-coastal-settlement.html"
+      "detailPage": "places/abandze-historic-coastal-settlement.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "apam-fort-patience",
@@ -1287,9 +1347,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/apam-fort-patience.html"
+      "detailPage": "places/apam-fort-patience.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "apam-traditional-coastal-heritage",
@@ -1312,9 +1373,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/apam-traditional-coastal-heritage.html"
+      "detailPage": "places/apam-traditional-coastal-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "accra-independence-square",
@@ -1352,7 +1414,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/accra-independence-square.html"
+      "detailPage": "places/accra-independence-square.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "accra-kwame-nkrumah-memorial-park",
@@ -1390,7 +1453,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/accra-kwame-nkrumah-memorial-park.html"
+      "detailPage": "places/accra-kwame-nkrumah-memorial-park.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "osu-castle",
@@ -1434,7 +1498,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/osu-castle.html"
+      "detailPage": "places/osu-castle.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "accra-national-museum-of-ghana",
@@ -1472,7 +1537,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/accra-national-museum-of-ghana.html"
+      "detailPage": "places/accra-national-museum-of-ghana.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "jamestown-james-fort",
@@ -1501,9 +1567,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/jamestown-james-fort.html"
+      "detailPage": "places/jamestown-james-fort.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "jamestown-ussher-fort",
@@ -1532,9 +1599,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/jamestown-ussher-fort.html"
+      "detailPage": "places/jamestown-ussher-fort.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "jamestown-jamestown-lighthouse",
@@ -1572,7 +1640,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/jamestown-jamestown-lighthouse.html"
+      "detailPage": "places/jamestown-jamestown-lighthouse.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "jamestown-historic-colonial-buildings",
@@ -1601,9 +1670,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/jamestown-historic-colonial-buildings.html"
+      "detailPage": "places/jamestown-historic-colonial-buildings.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "jamestown-ga-traditional-heritage",
@@ -1626,9 +1696,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/jamestown-ga-traditional-heritage.html"
+      "detailPage": "places/jamestown-ga-traditional-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "osu-historic-osu-township",
@@ -1651,9 +1722,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/osu-historic-osu-township.html"
+      "detailPage": "places/osu-historic-osu-township.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "kumasi-manhyia-palace-museum",
@@ -1699,7 +1771,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/kumasi-manhyia-palace-museum.html"
+      "detailPage": "places/kumasi-manhyia-palace-museum.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "kumasi-kumasi-fort-and-military-museum",
@@ -1738,7 +1811,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/kumasi-kumasi-fort-and-military-museum.html"
+      "detailPage": "places/kumasi-kumasi-fort-and-military-museum.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "kumasi-prempeh-ii-jubilee-museum",
@@ -1776,7 +1850,8 @@
       },
       "locationGap": "",
       "hasPhoto": false,
-      "detailPage": "places/kumasi-prempeh-ii-jubilee-museum.html"
+      "detailPage": "places/kumasi-prempeh-ii-jubilee-museum.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "kumasi-komfo-anokye-sword-site",
@@ -1789,19 +1864,26 @@
           "townId": "kumasi"
         }
       ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/komfo-anokye-sword-site-2/",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "The sword site is within hospital grounds. The tourism authority identifies the heritage site, but current visitor entry arrangements have not been verified.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/kumasi-komfo-anokye-sword-site.html"
+      "detailPage": "places/kumasi-komfo-anokye-sword-site.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "kumasi-okomfo-anokye-historical-heritage",
@@ -1824,9 +1906,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/kumasi-okomfo-anokye-historical-heritage.html"
+      "detailPage": "places/kumasi-okomfo-anokye-historical-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "ejisu-yaa-asantewaa-museum-and-heritage-sites",
@@ -1849,9 +1932,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/ejisu-yaa-asantewaa-museum-and-heritage-sites.html"
+      "detailPage": "places/ejisu-yaa-asantewaa-museum-and-heritage-sites.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "ejisu-ejisu-traditional-palace-heritage",
@@ -1874,9 +1958,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/ejisu-ejisu-traditional-palace-heritage.html"
+      "detailPage": "places/ejisu-ejisu-traditional-palace-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "adanwomase-bonwire-kente-weaving-heritage",
@@ -1905,9 +1990,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/adanwomase-bonwire-kente-weaving-heritage.html"
+      "detailPage": "places/adanwomase-bonwire-kente-weaving-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "ntonso-adinkra-cultural-heritage",
@@ -1930,9 +2016,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/ntonso-adinkra-cultural-heritage.html"
+      "detailPage": "places/ntonso-adinkra-cultural-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "akropong-akuapem-traditional-heritage",
@@ -1955,9 +2042,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/akropong-akuapem-traditional-heritage.html"
+      "detailPage": "places/akropong-akuapem-traditional-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "akropong-historic-basel-mission-sites",
@@ -1986,9 +2074,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/akropong-historic-basel-mission-sites.html"
+      "detailPage": "places/akropong-historic-basel-mission-sites.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "aburi-historic-colonial-era-botanical-gardens",
@@ -2026,7 +2115,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/aburi-historic-colonial-era-botanical-gardens.html"
+      "detailPage": "places/aburi-historic-colonial-era-botanical-gardens.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "aburi-missionary-and-colonial-heritage",
@@ -2049,9 +2139,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/aburi-missionary-and-colonial-heritage.html"
+      "detailPage": "places/aburi-missionary-and-colonial-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "akosombo-area-volta-river-development-heritage",
@@ -2080,9 +2171,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/akosombo-area-volta-river-development-heritage.html"
+      "detailPage": "places/akosombo-area-volta-river-development-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "keta-fort-prinzenstein",
@@ -2120,7 +2212,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/keta-fort-prinzenstein.html"
+      "detailPage": "places/keta-fort-prinzenstein.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "keta-german-colonial-heritage",
@@ -2143,9 +2236,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/keta-german-colonial-heritage.html"
+      "detailPage": "places/keta-german-colonial-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "keta-anlo-ewe-traditional-heritage",
@@ -2174,9 +2268,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/keta-anlo-ewe-traditional-heritage.html"
+      "detailPage": "places/keta-anlo-ewe-traditional-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "ho-ewe-cultural-and-traditional-heritage",
@@ -2205,9 +2300,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/ho-ewe-cultural-and-traditional-heritage.html"
+      "detailPage": "places/ho-ewe-cultural-and-traditional-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "amedzofe-german-missionary-heritage",
@@ -2230,9 +2326,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/amedzofe-german-missionary-heritage.html"
+      "detailPage": "places/amedzofe-german-missionary-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "amedzofe-historic-mountain-settlement",
@@ -2261,9 +2358,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/amedzofe-historic-mountain-settlement.html"
+      "detailPage": "places/amedzofe-historic-mountain-settlement.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "axim-fort-st-anthony",
@@ -2292,9 +2390,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/axim-fort-st-anthony.html"
+      "detailPage": "places/axim-fort-st-anthony.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "axim-historic-axim-township",
@@ -2317,9 +2416,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/axim-historic-axim-township.html"
+      "detailPage": "places/axim-historic-axim-township.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "dixcove-fort-metal-cross",
@@ -2357,7 +2457,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/dixcove-fort-metal-cross.html"
+      "detailPage": "places/dixcove-fort-metal-cross.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "butre-fort-batenstein",
@@ -2386,9 +2487,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/butre-fort-batenstein.html"
+      "detailPage": "places/butre-fort-batenstein.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "princestown-fort-gross-friedrichsburg",
@@ -2417,9 +2519,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/princestown-fort-gross-friedrichsburg.html"
+      "detailPage": "places/princestown-fort-gross-friedrichsburg.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "princestown-brandenburg-prussian-colonial-heritage",
@@ -2442,9 +2545,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/princestown-brandenburg-prussian-colonial-heritage.html"
+      "detailPage": "places/princestown-brandenburg-prussian-colonial-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "shama-fort-st-sebastian",
@@ -2482,7 +2586,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/shama-fort-st-sebastian.html"
+      "detailPage": "places/shama-fort-st-sebastian.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "sekondi-fort-orange",
@@ -2520,7 +2625,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/sekondi-fort-orange.html"
+      "detailPage": "places/sekondi-fort-orange.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "sekondi-colonial-railway-and-harbour-heritage",
@@ -2543,9 +2649,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/sekondi-colonial-railway-and-harbour-heritage.html"
+      "detailPage": "places/sekondi-colonial-railway-and-harbour-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "tamale-dagbon-cultural-heritage",
@@ -2574,9 +2681,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/tamale-dagbon-cultural-heritage.html"
+      "detailPage": "places/tamale-dagbon-cultural-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "tamale-traditional-architecture-and-chiefly-institutions",
@@ -2605,9 +2713,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/tamale-traditional-architecture-and-chiefly-institutions.html"
+      "detailPage": "places/tamale-traditional-architecture-and-chiefly-institutions.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "yendi-gbewaa-palace",
@@ -2645,7 +2754,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/yendi-gbewaa-palace.html"
+      "detailPage": "places/yendi-gbewaa-palace.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "yendi-dagbon-royal-heritage",
@@ -2668,9 +2778,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/yendi-dagbon-royal-heritage.html"
+      "detailPage": "places/yendi-dagbon-royal-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "larabanga-larabanga-mosque",
@@ -2686,16 +2797,21 @@
       "hasGenuineDescription": true,
       "contentSources": [
         {
+          "url": "https://whc.unesco.org/en/tentativelists/1395/",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
+        },
+        {
           "url": "https://visitghana.com/savannah-region/",
           "scope": "Published heritage context; current visitor operations not confirmed",
           "checkedOn": "2026-10-07"
         }
       ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "This is a religious site. Current visitor access to the grounds and interior has not been verified; ask the local custodians before entering.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": {
@@ -2708,7 +2824,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/larabanga-larabanga-mosque.html"
+      "detailPage": "places/larabanga-larabanga-mosque.html",
+      "newResearchThisBatch": true
     },
     {
       "id": "larabanga-mystic-stone",
@@ -2737,34 +2854,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/larabanga-mystic-stone.html"
-    },
-    {
-      "id": "larabanga-historic-sudanic-architectural-heritage",
-      "name": "Historic Sudanic architectural heritage",
-      "contexts": [
-        {
-          "region": "Savannah Region",
-          "town": "Larabanga",
-          "regionId": "savannah-region",
-          "townId": "larabanga"
-        }
-      ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
-      "operationalInformation": {
-        "checkedOn": "2026-10-07",
-        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
-        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
-        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      },
-      "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
-      "hasPhoto": true,
-      "detailPage": "places/larabanga-historic-sudanic-architectural-heritage.html"
+      "detailPage": "places/larabanga-mystic-stone.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "salaga-historic-salaga-slave-market",
@@ -2793,9 +2886,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/salaga-historic-salaga-slave-market.html"
+      "detailPage": "places/salaga-historic-salaga-slave-market.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "salaga-trans-saharan-trade-heritage",
@@ -2824,9 +2918,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/salaga-trans-saharan-trade-heritage.html"
+      "detailPage": "places/salaga-trans-saharan-trade-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "salaga-slave-route-heritage",
@@ -2855,9 +2950,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/salaga-slave-route-heritage.html"
+      "detailPage": "places/salaga-slave-route-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "wa-wa-naas-palace",
@@ -2895,7 +2991,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/wa-wa-naas-palace.html"
+      "detailPage": "places/wa-wa-naas-palace.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "wa-wa-central-mosque",
@@ -2918,9 +3015,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/wa-wa-central-mosque.html"
+      "detailPage": "places/wa-wa-central-mosque.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "wa-historic-sudanic-architecture",
@@ -2949,9 +3047,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/wa-historic-sudanic-architecture.html"
+      "detailPage": "places/wa-historic-sudanic-architecture.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "gwollu-gwollu-defence-wall",
@@ -2980,9 +3079,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/gwollu-gwollu-defence-wall.html"
+      "detailPage": "places/gwollu-gwollu-defence-wall.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "gwollu-anti-slavery-heritage-connected-with-naa-kuri",
@@ -3005,9 +3105,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/gwollu-anti-slavery-heritage-connected-with-naa-kuri.html"
+      "detailPage": "places/gwollu-anti-slavery-heritage-connected-with-naa-kuri.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "nakore-nakore-mosque",
@@ -3045,7 +3146,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/nakore-nakore-mosque.html"
+      "detailPage": "places/nakore-nakore-mosque.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "navrongo-navrongo-cathedral",
@@ -3083,7 +3185,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/navrongo-navrongo-cathedral.html"
+      "detailPage": "places/navrongo-navrongo-cathedral.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "navrongo-colonial-and-missionary-heritage",
@@ -3106,9 +3209,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/navrongo-colonial-and-missionary-heritage.html"
+      "detailPage": "places/navrongo-colonial-and-missionary-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "paga-paga-traditional-heritage",
@@ -3131,9 +3235,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/paga-paga-traditional-heritage.html"
+      "detailPage": "places/paga-paga-traditional-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "paga-pikworo-slave-camp",
@@ -3171,7 +3276,8 @@
       },
       "locationGap": "",
       "hasPhoto": true,
-      "detailPage": "places/paga-pikworo-slave-camp.html"
+      "detailPage": "places/paga-pikworo-slave-camp.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "tengzug-tongo-tengzug-shrine",
@@ -3200,9 +3306,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/tengzug-tongo-tengzug-shrine.html"
+      "detailPage": "places/tengzug-tongo-tengzug-shrine.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "tengzug-tongo-talensi-traditional-heritage",
@@ -3225,9 +3332,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/tengzug-tongo-talensi-traditional-heritage.html"
+      "detailPage": "places/tengzug-tongo-talensi-traditional-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "sirigu-traditional-painted-compounds",
@@ -3256,9 +3364,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/sirigu-traditional-painted-compounds.html"
+      "detailPage": "places/sirigu-traditional-painted-compounds.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "sirigu-indigenous-architectural-heritage",
@@ -3287,9 +3396,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/sirigu-indigenous-architectural-heritage.html"
+      "detailPage": "places/sirigu-indigenous-architectural-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "bono-traditional-areas-bono-kingdom-heritage",
@@ -3318,9 +3428,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/bono-traditional-areas-bono-kingdom-heritage.html"
+      "detailPage": "places/bono-traditional-areas-bono-kingdom-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "bono-traditional-areas-traditional-palaces",
@@ -3343,9 +3454,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/bono-traditional-areas-traditional-palaces.html"
+      "detailPage": "places/bono-traditional-areas-traditional-palaces.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "bono-traditional-areas-sacred-and-royal-sites",
@@ -3368,9 +3480,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/bono-traditional-areas-sacred-and-royal-sites.html"
+      "detailPage": "places/bono-traditional-areas-sacred-and-royal-sites.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "techiman-traditional-bono-takyiman-heritage",
@@ -3399,9 +3512,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/techiman-traditional-bono-takyiman-heritage.html"
+      "detailPage": "places/techiman-traditional-bono-takyiman-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "techiman-historic-market-and-royal-traditions",
@@ -3424,9 +3538,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
-      "detailPage": "places/techiman-historic-market-and-royal-traditions.html"
+      "detailPage": "places/techiman-historic-market-and-royal-traditions.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "nalerigu-naa-jeringa-wall",
@@ -3455,9 +3570,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "No sufficiently reliable precise attraction location verified in this audit.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/nalerigu-naa-jeringa-wall.html"
+      "detailPage": "places/nalerigu-naa-jeringa-wall.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "nalerigu-mamprugu-royal-heritage",
@@ -3486,9 +3602,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/nalerigu-mamprugu-royal-heritage.html"
+      "detailPage": "places/nalerigu-mamprugu-royal-heritage.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "gambaga-historic-gambaga-settlement",
@@ -3517,9 +3634,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/gambaga-historic-gambaga-settlement.html"
+      "detailPage": "places/gambaga-historic-gambaga-settlement.html",
+      "newResearchThisBatch": false
     },
     {
       "id": "gambaga-colonial-and-traditional-heritage",
@@ -3548,47 +3666,10 @@
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
-      "locationGap": "Broad theme or multiple sites; no single independently verified attraction point.",
+      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
-      "detailPage": "places/gambaga-colonial-and-traditional-heritage.html"
+      "detailPage": "places/gambaga-colonial-and-traditional-heritage.html",
+      "newResearchThisBatch": false
     }
-  ],
-  "coordinateConflicts": [
-    {
-      "id": "st-francis-de-sales-cathedral",
-      "reason": "Commons object coordinate is inconsistent with the known city-centre subject; not added."
-    },
-    {
-      "id": "fort-victoria",
-      "reason": "Conflicting Commons category conflates Fort Victoria with lighthouse; rejected that coordinate. Named Fort Victoria article and mapped fort site agree and were used."
-    },
-    {
-      "id": "kumasi-kumasi-fort-and-military-museum",
-      "reason": "Wikipedia town-centre redirect rejected. Explicit Commons museum object location used."
-    },
-    {
-      "id": "jamestown-james-fort",
-      "reason": "Wikipedia redirect refers to an Irish fort. Rejected; attraction remains unmapped."
-    },
-    {
-      "id": "ucc-botanical-garden",
-      "reason": "Research supplies coarse minute-resolution coordinates, insufficient for a precise visitor marker."
-    }
-  ],
-  "photoGaps": [
-    {
-      "id": "ucc-botanical-garden",
-      "reason": "Images found lack verified reuse permission or depict plants/other gardens; retain placeholder."
-    },
-    {
-      "id": "kumasi-prempeh-ii-jubilee-museum",
-      "reason": "Smithsonian correctly identified image requires prior permission. Other images lack verified licensing; retain placeholder."
-    }
-  ],
-  "managerContact": "No verified owner-provided business destination or working submission service found; owner input requested.",
-  "accountTests": {
-    "mocked": "Registration validation, callback errors, recovery, login/logout, TOTP and profile ownership tests passed with synthetic SDK/network fixtures.",
-    "realEmailFlows": "Untested: requires designated authorized test email/inbox and approved test account.",
-    "security": "Own-row permissive policy AND restrictive aal2 policy verified. Leaked-password protection disabled warning; owner plan/settings decision required."
-  }
+  ]
 }

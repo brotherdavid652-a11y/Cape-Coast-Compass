@@ -143,14 +143,6 @@
             {
               "id": "assin-manso-ancestral-slave-river-site",
               "label": "Assin Manso Ancestral Slave River"
-            },
-            {
-              "id": "assin-manso-slave-route-memorial-sites",
-              "label": "Slave route memorial sites"
-            },
-            {
-              "id": "assin-manso-ancestral-burial-and-remembrance-grounds",
-              "label": "Ancestral burial and remembrance grounds"
             }
           ]
         },
@@ -599,10 +591,6 @@
             {
               "id": "larabanga-mystic-stone",
               "label": "Mystic Stone"
-            },
-            {
-              "id": "larabanga-historic-sudanic-architectural-heritage",
-              "label": "Historic Sudanic architectural heritage"
             }
           ]
         },
@@ -850,12 +838,20 @@
       ],
       "status": "Details to be added",
       "visitorInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
+      },
+      "description": "Cape Coast is an historic Oguaa city in Ghana’s Central Region. Its castle, market and traditional cultural life provide different perspectives on the city’s history. The Metropolitan Assembly presents these as parts of the wider town experience, rather than one gated attraction.",
+      "contentSources": [
+        {
+          "url": "https://ccma.gov.gh/heritage_tour.php",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ]
     },
     {
       "id": "cape-coast-asafo-shrines-and-traditional-heritage-sites",
@@ -891,12 +887,20 @@
       ],
       "status": "Details to be added",
       "visitorInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
+      },
+      "description": "Asafo heritage forms part of Fante community life. Decorated posuban shrines are associated with individual companies across the central coast. This Cape Coast listing is a collective heritage theme; it does not identify one confirmed visitor entrance or a single mapped site.",
+      "contentSources": [
+        {
+          "url": "https://www.bradtguides.com/posubans/",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ]
     },
     {
       "id": "elmina-elmina-historic-township",
@@ -973,68 +977,29 @@
       ],
       "status": "Details to be added",
       "visitorInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
-    },
-    {
-      "id": "assin-manso-slave-route-memorial-sites",
-      "name": "Slave route memorial sites",
-      "region": "Central Region",
-      "town": "Assin Manso",
-      "category": "Heritage",
-      "photos": [
+      },
+      "description": "Posuban shrines are associated with Fante Asafo companies and are found at several locations in Elmina. This collective listing is not a single enclosed attraction. The map identifies Posuban Shrine 1; it does not represent every shrine. Ask the relevant custodians about access and photography.",
+      "contentSources": [
         {
-          "placeId": "assin-manso-slave-route-memorial-sites",
-          "id": "assin-manso-slave-route-memorial-sites-view",
-          "src": "assets/photos/regions/assin-manso-slave-route-memorial-sites/view-1600.webp",
-          "srcset": "assets/photos/regions/assin-manso-slave-route-memorial-sites/view-480.webp 480w, assets/photos/regions/assin-manso-slave-route-memorial-sites/view-960.webp 960w, assets/photos/regions/assin-manso-slave-route-memorial-sites/view-1600.webp 1600w, assets/photos/regions/assin-manso-slave-route-memorial-sites/view-2400.webp 2400w",
-          "full": "assets/photos/regions/assin-manso-slave-route-memorial-sites/view-12k.jpg",
-          "width": 1600,
-          "height": 900,
-          "sourceWidth": 1280,
-          "sourceHeight": 720,
-          "fullWidth": 12288,
-          "fullHeight": 6912,
-          "caption": "The Last Bath entrance at the Assin Manso Slave River remembrance site.",
-          "credit": "Caupolicaningles",
-          "source": "https://commons.wikimedia.org/wiki/File:Memorial_to_the_captives_marched_to_the_coast_at_Assim_Manso,_Ghana.jpg",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Memorial_to_the_captives_marched_to_the_coast_at_Assim_Manso%2C_Ghana.jpg",
-          "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
-          "adjustments": {
-            "brightness": 1.08,
-            "saturation": 1.025
-          }
+          "url": "https://www.bradtguides.com/posubans/",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
         }
       ],
-      "status": "Details to be added",
-      "visitorInformation": {
-        "checkedOn": "2026-10-07",
-        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
-        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
-        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
-    },
-    {
-      "id": "assin-manso-ancestral-burial-and-remembrance-grounds",
-      "name": "Ancestral burial and remembrance grounds",
-      "region": "Central Region",
-      "town": "Assin Manso",
-      "category": "Heritage",
-      "photos": [],
-      "status": "Details to be added",
-      "visitorInformation": {
-        "checkedOn": "2026-10-07",
-        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
-        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
-        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      "location": {
+        "latitude": 5.0861122,
+        "longitude": -1.3513131,
+        "source": "https://www.openstreetmap.org/node/1193972838",
+        "label": "Posuban Shrine 1",
+        "verified": true,
+        "checkedOn": "2026-10-08",
+        "verificationMethod": "Published named shrine point; collective listing explicitly states which shrine this marker identifies.",
+        "corroboration": "https://commons.wikimedia.org/wiki/File:Asafo_No._1_Posuban-Shrine_(Elmina,_Ghana_2013).jpg"
       }
     },
     {
@@ -2034,12 +1999,20 @@
       ],
       "status": "Details to be added",
       "visitorInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "The sword site is within hospital grounds. The tourism authority identifies the heritage site, but current visitor entry arrangements have not been verified.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
+      },
+      "description": "The Komfo Anokye Sword Site stands on the grounds of Komfo Anokye Teaching Hospital in Kumasi. Ghana Tourism Authority presents the sword and its associated traditions as part of Asante history. Accounts of the sword’s immovability are traditional beliefs, not claims independently verified by Tourism Compass.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/komfo-anokye-sword-site-2/",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ]
     },
     {
       "id": "kumasi-okomfo-anokye-historical-heritage",
@@ -3405,8 +3378,13 @@
         "checkedOn": "2026-10-07",
         "verificationMethod": "Published primary geographic coordinate of the specifically named attraction; town redirects, broad themes and photo camera positions excluded."
       },
-      "description": "Larabanga’s historic mosque is a landmark of northern Ghana’s Islamic architectural heritage.",
+      "description": "Larabanga Mosque is an earthen religious building in the Sudanic architectural tradition. Its buttresses, projecting timber and towers illustrate the mosque architecture described by Ghana’s heritage authorities. “Historic Sudanic architectural heritage” is covered here as architectural context, not a separate trip stop.",
       "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/1395/",
+          "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
+          "checkedOn": "2026-10-08"
+        },
         {
           "url": "https://visitghana.com/savannah-region/",
           "scope": "Published heritage context; current visitor operations not confirmed",
@@ -3414,10 +3392,10 @@
         }
       ],
       "visitorInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "This is a religious site. Current visitor access to the grounds and interior has not been verified; ask the local custodians before entering.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       }
     },
@@ -3462,47 +3440,6 @@
           "checkedOn": "2026-10-07"
         }
       ],
-      "visitorInformation": {
-        "checkedOn": "2026-10-07",
-        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
-        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
-        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
-    },
-    {
-      "id": "larabanga-historic-sudanic-architectural-heritage",
-      "name": "Historic Sudanic architectural heritage",
-      "region": "Savannah Region",
-      "town": "Larabanga",
-      "category": "Heritage",
-      "photos": [
-        {
-          "placeId": "larabanga-historic-sudanic-architectural-heritage",
-          "id": "larabanga-historic-sudanic-architectural-heritage-view",
-          "src": "assets/photos/regions/larabanga-larabanga-mosque/view-1600.webp",
-          "srcset": "assets/photos/regions/larabanga-larabanga-mosque/view-480.webp 480w, assets/photos/regions/larabanga-larabanga-mosque/view-960.webp 960w, assets/photos/regions/larabanga-larabanga-mosque/view-1600.webp 1600w, assets/photos/regions/larabanga-larabanga-mosque/view-2400.webp 2400w",
-          "full": "assets/photos/regions/larabanga-larabanga-mosque/view-12k.jpg",
-          "width": 1600,
-          "height": 1063,
-          "sourceWidth": 1280,
-          "sourceHeight": 850,
-          "fullWidth": 12288,
-          "fullHeight": 8160,
-          "caption": "Larabanga Mosque, Savannah Region.",
-          "credit": "Sathyan Velumani",
-          "source": "https://commons.wikimedia.org/wiki/File:Larabanga_Mosque_Ghana.jpg",
-          "license": "CC BY-SA 3.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Larabanga_Mosque_Ghana.jpg",
-          "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
-          "adjustments": {
-            "brightness": 0.98,
-            "saturation": 1.025
-          }
-        }
-      ],
-      "status": "Details to be added",
       "visitorInformation": {
         "checkedOn": "2026-10-07",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
@@ -4626,6 +4563,129 @@
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
         "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      }
+    }
+  ],
+  "tripAliases": {
+    "larabanga-historic-sudanic-architectural-heritage": "larabanga-larabanga-mosque",
+    "assin-manso-slave-route-memorial-sites": "assin-manso-ancestral-slave-river-site",
+    "assin-manso-ancestral-burial-and-remembrance-grounds": "assin-manso-ancestral-slave-river-site"
+  },
+  "mergedSites": [
+    {
+      "id": "larabanga-historic-sudanic-architectural-heritage",
+      "name": "Historic Sudanic architectural heritage",
+      "region": "Savannah Region",
+      "town": "Larabanga",
+      "category": "Heritage",
+      "photos": [
+        {
+          "placeId": "larabanga-historic-sudanic-architectural-heritage",
+          "id": "larabanga-historic-sudanic-architectural-heritage-view",
+          "src": "assets/photos/regions/larabanga-larabanga-mosque/view-1600.webp",
+          "srcset": "assets/photos/regions/larabanga-larabanga-mosque/view-480.webp 480w, assets/photos/regions/larabanga-larabanga-mosque/view-960.webp 960w, assets/photos/regions/larabanga-larabanga-mosque/view-1600.webp 1600w, assets/photos/regions/larabanga-larabanga-mosque/view-2400.webp 2400w",
+          "full": "assets/photos/regions/larabanga-larabanga-mosque/view-12k.jpg",
+          "width": 1600,
+          "height": 1063,
+          "sourceWidth": 1280,
+          "sourceHeight": 850,
+          "fullWidth": 12288,
+          "fullHeight": 8160,
+          "caption": "Larabanga Mosque, Savannah Region.",
+          "credit": "Sathyan Velumani",
+          "source": "https://commons.wikimedia.org/wiki/File:Larabanga_Mosque_Ghana.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Larabanga_Mosque_Ghana.jpg",
+          "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
+          "adjustments": {
+            "brightness": 0.98,
+            "saturation": 1.025
+          }
+        }
+      ],
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "mergedInto": "larabanga-larabanga-mosque",
+      "mergeEvidence": {
+        "source": "https://whc.unesco.org/en/tentativelists/1395/",
+        "reason": "The architectural label describes a style exemplified by Larabanga Mosque; no distinct place is identified by the listing.",
+        "checkedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "assin-manso-slave-route-memorial-sites",
+      "name": "Slave route memorial sites",
+      "region": "Central Region",
+      "town": "Assin Manso",
+      "category": "Heritage",
+      "photos": [
+        {
+          "placeId": "assin-manso-slave-route-memorial-sites",
+          "id": "assin-manso-slave-route-memorial-sites-view",
+          "src": "assets/photos/regions/assin-manso-slave-route-memorial-sites/view-1600.webp",
+          "srcset": "assets/photos/regions/assin-manso-slave-route-memorial-sites/view-480.webp 480w, assets/photos/regions/assin-manso-slave-route-memorial-sites/view-960.webp 960w, assets/photos/regions/assin-manso-slave-route-memorial-sites/view-1600.webp 1600w, assets/photos/regions/assin-manso-slave-route-memorial-sites/view-2400.webp 2400w",
+          "full": "assets/photos/regions/assin-manso-slave-route-memorial-sites/view-12k.jpg",
+          "width": 1600,
+          "height": 900,
+          "sourceWidth": 1280,
+          "sourceHeight": 720,
+          "fullWidth": 12288,
+          "fullHeight": 6912,
+          "caption": "The Last Bath entrance at the Assin Manso Slave River remembrance site.",
+          "credit": "Caupolicaningles",
+          "source": "https://commons.wikimedia.org/wiki/File:Memorial_to_the_captives_marched_to_the_coast_at_Assim_Manso,_Ghana.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Memorial_to_the_captives_marched_to_the_coast_at_Assim_Manso%2C_Ghana.jpg",
+          "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
+          "adjustments": {
+            "brightness": 1.08,
+            "saturation": 1.025
+          }
+        }
+      ],
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "mergedInto": "assin-manso-ancestral-slave-river-site",
+      "mergeEvidence": {
+        "source": "https://theassda.gov.gh/tourist-sites/",
+        "reason": "The Assembly identifies the Memorial Wall of Return within the Ancestral Slave River Park.",
+        "checkedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "assin-manso-ancestral-burial-and-remembrance-grounds",
+      "name": "Ancestral burial and remembrance grounds",
+      "region": "Central Region",
+      "town": "Assin Manso",
+      "category": "Heritage",
+      "photos": [],
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "mergedInto": "assin-manso-ancestral-slave-river-site",
+      "mergeEvidence": {
+        "source": "https://theassda.gov.gh/tourist-sites/",
+        "reason": "The Assembly identifies the Ancestral Graveyard as part of the same River Park.",
+        "checkedOn": "2026-10-08"
       }
     }
   ]
