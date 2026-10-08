@@ -4,7 +4,7 @@
 .ghana-destinations{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin-top:24px}
 .ghana-destination{min-width:0;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
 .ghana-destination-link{display:block;color:var(--ink);text-decoration:none}
-.ghana-destination img{display:block;width:100%;height:220px;object-fit:contain;background:#eeeae2}
+.ghana-destination img{display:block;width:100%;height:220px;object-fit:cover;background:#eeeae2}
 .ghana-destination-link p,.ghana-destination-link h3{margin:14px 18px}.ghana-destination h3{font-size:26px}
 .ghana-photo-credit{font-size:11px;color:var(--muted);padding:0 18px 18px;overflow-wrap:anywhere}.ghana-photo-credit span{display:block;margin-top:4px}
 #home-catalogue-count{margin:16px 0;color:var(--muted)}

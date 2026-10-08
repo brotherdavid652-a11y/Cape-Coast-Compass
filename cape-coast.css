@@ -19,7 +19,7 @@
 .cape-essential-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
 .cape-essential-item{min-width:0;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
 .cape-essential-link{display:flex;align-items:center;gap:12px;padding:12px;color:var(--ink);font-weight:700;min-height:100px;text-decoration:none}
-.cape-essential-link img{width:80px;height:70px;object-fit:contain;flex-shrink:0;border-radius:6px}
+.cape-essential-link img{width:80px;height:70px;object-fit:cover;flex-shrink:0;border-radius:6px}
 .cape-essential-link span{overflow-wrap:anywhere}
 .cape-essential-item .attraction-photo-credits{font-size:9px;padding:0 12px 10px}
 .cape-destination-active .region-tools{grid-template-columns:minmax(0,1fr) auto;margin-top:20px;align-items:end}
