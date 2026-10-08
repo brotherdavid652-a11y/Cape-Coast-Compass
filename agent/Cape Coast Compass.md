@@ -16,7 +16,7 @@ Hosting: existing Cloudflare Pages project `cape-coast-compass`.
 
 ## Working experience to preserve
 
-- Homepage: Ghana-wide introduction, catalogue-derived region choices, selected destinations from several regions and the existing planner.
+- Homepage: Ghana-wide introduction, selected destinations from several regions and links to the complete Attractions directory and dedicated `/my-trip` planner.
 - Attractions: progressive region → town → attraction rendering; direct URLs, breadcrumbs, browser Back, search, interests and accurate counts.
 - Cape Coast: destination hero, six compact essential links and one browser with all its catalogue entries.
 - View place never changes the trip. Add to trip reuses the existing session state, adds exactly the chosen attraction, preserves other stops, prevents duplicates and synchronizes Added feedback with the planner.
@@ -46,4 +46,4 @@ Validate locally, commit and deploy, then test the exact public URL in an isolat
 
 The owner must supply verified operator/legal identity, business/contact address and privacy/account-deletion contact. Future transport coverage, partnerships, booking operations, payment and cancellation arrangements must be established before making operational claims. Do not invent these details.
 
-Content gaps remain where sourced descriptions, usable licensed photographs or verified coordinates are absent. Later batches may address standalone My Trip presentation, heritage routes, booking and payments when explicitly authorized.
+Content gaps remain where sourced descriptions, usable licensed photographs or verified coordinates are absent. The existing planner lives at `/my-trip`; legacy homepage `#planner` links forward there without changing stored trip details. Later batches may address heritage routes, booking and payments when explicitly authorized.

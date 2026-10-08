@@ -1,0 +1,7 @@
+.my-trip-page .trip-empty{margin-top:28px;max-width:630px}
+.my-trip-page .trip-empty h2{font-size:28px}
+.my-trip-page .trip-empty .button{margin-top:18px;white-space:normal}
+.my-trip-page .planner-section{min-width:0}
+.my-trip-page .trip-form,.my-trip-page .planner-intro{min-width:0}
+.my-trip-page .stop-options label{overflow-wrap:anywhere}
+@media(max-width:400px){.my-trip-page .form-row{grid-template-columns:1fr}.my-trip-page .trip-form{padding:18px}}
