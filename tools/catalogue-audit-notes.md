@@ -8,6 +8,7 @@ Scope: all 117 unique catalogue records and 44 town views. This is a structural/
 - Source-backed summaries added where the publisher identifies the subject. Existing genuine descriptions retained. 83 records have descriptions; 66 have recorded content sources. The remaining 34 descriptions and 51 source gaps require further identifiable evidence or custodian confirmation.
 - All detail pages distinguish unverified opening hours, admission, public access and permissions. Published GMMB/museum arrangements are labelled as published information to reconfirm, not guaranteed operations. Current fees are not inferred from dated fee tables.
 - Source dates are the actual review date. Sources and unresolved/rejected coordinates are retained in `visitor-content-audit.json`.
+- Remaining inline planner captions use the existing Ghana-wide wording rather than Cape Coast-only language.
 - New public visitor text translated into French, Spanish and German using the existing system.
 - UCC public permission is described as unverified rather than asserting an unsupported mandatory permission rule.
 
