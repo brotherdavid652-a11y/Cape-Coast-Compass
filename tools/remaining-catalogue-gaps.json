@@ -385,12 +385,9 @@
       "id": "elmina-elmina-historic-township",
       "name": "Elmina historic township",
       "issues": [
-        "No source-supported public description",
-        "No specific content source recorded",
         "No accepted attraction coordinates",
         "Current openingHours unconfirmed",
         "Current admission unconfirmed",
-        "Current access unconfirmed",
         "Current permissions unconfirmed"
       ]
     },
@@ -632,20 +629,6 @@
         "No accepted attraction coordinates",
         "Current openingHours unconfirmed",
         "Current admission unconfirmed",
-        "Current access unconfirmed",
-        "Current permissions unconfirmed"
-      ]
-    },
-    {
-      "id": "kumasi-okomfo-anokye-historical-heritage",
-      "name": "Okomfo Anokye historical heritage",
-      "issues": [
-        "No source-supported public description",
-        "No specific content source recorded",
-        "No accepted attraction coordinates",
-        "Current openingHours unconfirmed",
-        "Current admission unconfirmed",
-        "Current access unconfirmed",
         "Current permissions unconfirmed"
       ]
     },
@@ -691,12 +674,9 @@
       "id": "ntonso-adinkra-cultural-heritage",
       "name": "Adinkra cultural heritage",
       "issues": [
-        "No source-supported public description",
-        "No specific content source recorded",
         "No accepted attraction coordinates",
         "Current openingHours unconfirmed",
         "Current admission unconfirmed",
-        "Current access unconfirmed",
         "Current permissions unconfirmed"
       ]
     },
@@ -704,12 +684,9 @@
       "id": "akropong-akuapem-traditional-heritage",
       "name": "Akuapem traditional heritage",
       "issues": [
-        "No source-supported public description",
-        "No specific content source recorded",
         "No accepted attraction coordinates",
         "Current openingHours unconfirmed",
         "Current admission unconfirmed",
-        "Current access unconfirmed",
         "Current permissions unconfirmed"
       ]
     },
@@ -877,23 +854,8 @@
       "id": "princestown-fort-gross-friedrichsburg",
       "name": "Fort Gross Friedrichsburg",
       "issues": [
-        "No accepted attraction coordinates",
         "Current openingHours unconfirmed",
         "Current admission unconfirmed",
-        "Current access unconfirmed",
-        "Current permissions unconfirmed"
-      ]
-    },
-    {
-      "id": "princestown-brandenburg-prussian-colonial-heritage",
-      "name": "Brandenburg/Prussian colonial heritage",
-      "issues": [
-        "No source-supported public description",
-        "No specific content source recorded",
-        "No accepted attraction coordinates",
-        "Current openingHours unconfirmed",
-        "Current admission unconfirmed",
-        "Current access unconfirmed",
         "Current permissions unconfirmed"
       ]
     },
@@ -1124,12 +1086,9 @@
       "id": "paga-paga-traditional-heritage",
       "name": "Paga traditional heritage",
       "issues": [
-        "No source-supported public description",
-        "No specific content source recorded",
         "No accepted attraction coordinates",
         "Current openingHours unconfirmed",
         "Current admission unconfirmed",
-        "Current access unconfirmed",
         "Current permissions unconfirmed"
       ]
     },
@@ -1158,12 +1117,9 @@
       "id": "tengzug-tongo-talensi-traditional-heritage",
       "name": "Talensi traditional heritage",
       "issues": [
-        "No source-supported public description",
-        "No specific content source recorded",
         "No accepted attraction coordinates",
         "Current openingHours unconfirmed",
         "Current admission unconfirmed",
-        "Current access unconfirmed",
         "Current permissions unconfirmed"
       ]
     },

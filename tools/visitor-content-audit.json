@@ -159,7 +159,7 @@
       "locationGap": "",
       "hasPhoto": true,
       "detailPage": "places/fosu-lagoon.html",
-      "newResearchThisBatch": true
+      "newResearchThisBatch": false
     },
     {
       "id": "kotokuraba-market",
@@ -191,7 +191,7 @@
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
       "detailPage": "places/kotokuraba-market.html",
-      "newResearchThisBatch": true
+      "newResearchThisBatch": false
     },
     {
       "id": "emintsimadze-palace",
@@ -275,7 +275,7 @@
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
       "detailPage": "places/global-mamas-cultural-workshops.html",
-      "newResearchThisBatch": true
+      "newResearchThisBatch": false
     },
     {
       "id": "cape-coast-beachfront",
@@ -511,7 +511,7 @@
       "locationGap": "",
       "hasPhoto": true,
       "detailPage": "places/victoria-park.html",
-      "newResearchThisBatch": true
+      "newResearchThisBatch": false
     },
     {
       "id": "ato-austin-park",
@@ -653,7 +653,7 @@
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
       "detailPage": "places/ucc-botanical-garden.html",
-      "newResearchThisBatch": true
+      "newResearchThisBatch": false
     },
     {
       "id": "fort-frederiksborg-site-amanful",
@@ -690,7 +690,7 @@
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": false,
       "detailPage": "places/fort-frederiksborg-site-amanful.html",
-      "newResearchThisBatch": true
+      "newResearchThisBatch": false
     },
     {
       "id": "hans-cottage-botel",
@@ -1006,7 +1006,7 @@
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
       "detailPage": "places/assin-manso-ancestral-slave-river-site.html",
-      "newResearchThisBatch": true
+      "newResearchThisBatch": false
     },
     {
       "id": "ostrich-farm",
@@ -1070,7 +1070,7 @@
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
       "detailPage": "places/cape-coast-cape-coast-historic-town.html",
-      "newResearchThisBatch": true
+      "newResearchThisBatch": false
     },
     {
       "id": "cape-coast-asafo-shrines-and-traditional-heritage-sites",
@@ -1102,7 +1102,7 @@
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
       "detailPage": "places/cape-coast-asafo-shrines-and-traditional-heritage-sites.html",
-      "newResearchThisBatch": true
+      "newResearchThisBatch": false
     },
     {
       "id": "elmina-elmina-historic-township",
@@ -1115,20 +1115,26 @@
           "townId": "elmina"
         }
       ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/edina-bakatue-festival/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "Explore the town separately from the castle visit. Confirm current festival arrangements locally, and ask permission before entering private or sacred spaces.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
       "detailPage": "places/elmina-elmina-historic-township.html",
-      "newResearchThisBatch": false
+      "newResearchThisBatch": true
     },
     {
       "id": "elmina-posuban-shrines",
@@ -1169,7 +1175,7 @@
       "locationGap": "",
       "hasPhoto": true,
       "detailPage": "places/elmina-posuban-shrines.html",
-      "newResearchThisBatch": true
+      "newResearchThisBatch": false
     },
     {
       "id": "fort-william-anomabo",
@@ -1867,6 +1873,11 @@
       "hasGenuineDescription": true,
       "contentSources": [
         {
+          "url": "https://visitghana.com/komfo-anokye-sword-site/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        },
+        {
           "url": "https://visitghana.com/komfo-anokye-sword-site-2/",
           "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
           "checkedOn": "2026-10-08"
@@ -1876,7 +1887,7 @@
         "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "The sword site is within hospital grounds. The tourism authority identifies the heritage site, but current visitor entry arrangements have not been verified.",
+        "access": "The site is within hospital grounds. Confirm visitor entry and photography arrangements before travelling. Adding this stop does not arrange entry.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
@@ -1884,32 +1895,6 @@
       "hasPhoto": true,
       "detailPage": "places/kumasi-komfo-anokye-sword-site.html",
       "newResearchThisBatch": true
-    },
-    {
-      "id": "kumasi-okomfo-anokye-historical-heritage",
-      "name": "Okomfo Anokye historical heritage",
-      "contexts": [
-        {
-          "region": "Ashanti Region",
-          "town": "Kumasi",
-          "regionId": "ashanti-region",
-          "townId": "kumasi"
-        }
-      ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
-      "operationalInformation": {
-        "checkedOn": "2026-10-07",
-        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
-        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
-        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      },
-      "location": null,
-      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
-      "hasPhoto": true,
-      "detailPage": "places/kumasi-okomfo-anokye-historical-heritage.html",
-      "newResearchThisBatch": false
     },
     {
       "id": "ejisu-yaa-asantewaa-museum-and-heritage-sites",
@@ -2006,20 +1991,26 @@
           "townId": "ntonso"
         }
       ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/ntonso-adinkra-cloth-village/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "The tourism authority identifies the visitor centre in Ntonso. Confirm current tours, fees and permission to photograph craftspeople locally; no workshop is reserved by adding this stop.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
       "detailPage": "places/ntonso-adinkra-cultural-heritage.html",
-      "newResearchThisBatch": false
+      "newResearchThisBatch": true
     },
     {
       "id": "akropong-akuapem-traditional-heritage",
@@ -2032,20 +2023,26 @@
           "townId": "akropong"
         }
       ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/odwira-festival/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "Confirm current public events and access with local custodians. Sacred or private ceremonies should not be assumed open to visitors.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
       "detailPage": "places/akropong-akuapem-traditional-heritage.html",
-      "newResearchThisBatch": false
+      "newResearchThisBatch": true
     },
     {
       "id": "akropong-historic-basel-mission-sites",
@@ -2506,49 +2503,36 @@
       "hasGenuineDescription": true,
       "contentSources": [
         {
+          "url": "https://gmmb.gov.gh/fort-gross-frederiksburg-princestown-1683/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        },
+        {
           "url": "https://whc.unesco.org/en/list/34",
           "scope": "Identification in the coastal forts and castles World Heritage property",
           "checkedOn": "2026-10-07"
         }
       ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "Use the named fort at Princestown, not Fort Frederiksborg at Amanful in Cape Coast. Published historical tariffs are not evidence of current admission fees; confirm current entry arrangements with GMMB.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
-      "location": null,
-      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
+      "location": {
+        "latitude": 4.7910522,
+        "longitude": -2.1339252,
+        "verified": true,
+        "checkedOn": "2026-10-08",
+        "source": "https://www.openstreetmap.org/node/2661484220",
+        "corroboration": "https://commons.wikimedia.org/wiki/Category:Fort_Gro%C3%9F_Friedrichsburg",
+        "verificationMethod": "Named fort point corroborated by the monument object location, not photograph camera coordinates or a town centre."
+      },
+      "locationGap": "",
       "hasPhoto": true,
       "detailPage": "places/princestown-fort-gross-friedrichsburg.html",
-      "newResearchThisBatch": false
-    },
-    {
-      "id": "princestown-brandenburg-prussian-colonial-heritage",
-      "name": "Brandenburg/Prussian colonial heritage",
-      "contexts": [
-        {
-          "region": "Western Region",
-          "town": "Princestown",
-          "regionId": "western-region",
-          "townId": "princestown"
-        }
-      ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
-      "operationalInformation": {
-        "checkedOn": "2026-10-07",
-        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
-        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
-        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      },
-      "location": null,
-      "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
-      "hasPhoto": true,
-      "detailPage": "places/princestown-brandenburg-prussian-colonial-heritage.html",
-      "newResearchThisBatch": false
+      "newResearchThisBatch": true
     },
     {
       "id": "shama-fort-st-sebastian",
@@ -2825,7 +2809,7 @@
       "locationGap": "",
       "hasPhoto": true,
       "detailPage": "places/larabanga-larabanga-mosque.html",
-      "newResearchThisBatch": true
+      "newResearchThisBatch": false
     },
     {
       "id": "larabanga-mystic-stone",
@@ -3225,20 +3209,26 @@
           "townId": "paga"
         }
       ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/paga-slave-camp-and-crocodile-pool/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "Ask local custodians about the specific site and current visitor arrangements. Do not assume wildlife interaction is safe or permitted.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
       "detailPage": "places/paga-paga-traditional-heritage.html",
-      "newResearchThisBatch": false
+      "newResearchThisBatch": true
     },
     {
       "id": "paga-pikworo-slave-camp",
@@ -3322,20 +3312,26 @@
           "townId": "tengzug-tongo"
         }
       ],
-      "hasGenuineDescription": false,
-      "contentSources": [],
+      "hasGenuineDescription": true,
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/1392/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ],
       "operationalInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "Agree access and photography with the relevant custodians. General landscape coordinates do not establish the location of a particular shrine or a public entrance.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
       "location": null,
       "locationGap": "No sufficiently evidenced attraction point accepted; not approximated.",
       "hasPhoto": true,
       "detailPage": "places/tengzug-tongo-talensi-traditional-heritage.html",
-      "newResearchThisBatch": false
+      "newResearchThisBatch": true
     },
     {
       "id": "sirigu-traditional-painted-compounds",

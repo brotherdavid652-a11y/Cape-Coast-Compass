@@ -1,0 +1,68 @@
+{
+  "checkedOn": "2026-10-08",
+  "merges": [
+    {
+      "from": "kumasi-okomfo-anokye-historical-heritage",
+      "to": "kumasi-komfo-anokye-sword-site",
+      "source": "https://visitghana.com/komfo-anokye-sword-site/",
+      "reason": "The tourism authority describes Okomfo Anokye traditions at the Sword Site on hospital grounds. The broad catalogue entry identifies no separate visitor location; its context is retained in the Sword Site record."
+    },
+    {
+      "from": "princestown-brandenburg-prussian-colonial-heritage",
+      "to": "princestown-fort-gross-friedrichsburg",
+      "source": "https://gmmb.gov.gh/fort-gross-frederiksburg-princestown-1683/",
+      "reason": "GMMB identifies the Brandenburg fort on Manfro Hill as the named monument. The additional thematic record supplies no distinct place; its historical context is retained with the fort."
+    }
+  ],
+  "changes": [
+    {
+      "id": "kumasi-komfo-anokye-sword-site",
+      "description": "The Komfo Anokye Sword Site is on the grounds of Komfo Anokye Teaching Hospital in Kumasi. Ghana Tourism Authority connects the sword with Okomfo Anokye and Asante history. The broader historical-heritage listing is included here, rather than offered as a second destination. The sword’s immovability is a traditional belief, not an independently verified claim.",
+      "url": "https://visitghana.com/komfo-anokye-sword-site/",
+      "access": "The site is within hospital grounds. Confirm visitor entry and photography arrangements before travelling. Adding this stop does not arrange entry."
+    },
+    {
+      "id": "princestown-fort-gross-friedrichsburg",
+      "description": "Fort Gross Friedrichsburg stands on Manfro Hill at Princestown. Ghana Museums and Monuments Board identifies it as a fort built by the Brandenburg Africa Company in 1683–1684. Brandenburg colonial history is included in this monument’s context, rather than offered as a separate trip stop.",
+      "url": "https://gmmb.gov.gh/fort-gross-frederiksburg-princestown-1683/",
+      "access": "Use the named fort at Princestown, not Fort Frederiksborg at Amanful in Cape Coast. Published historical tariffs are not evidence of current admission fees; confirm current entry arrangements with GMMB."
+    },
+    {
+      "id": "ntonso-adinkra-cultural-heritage",
+      "description": "Ntonso is associated with adinkra cloth and its symbolic patterns. Ghana Tourism Authority describes a visitor centre and guided activities covering dye preparation, stamping and embroidery. These are living craft traditions; current tour availability and participation arrangements should be confirmed before visiting.",
+      "url": "https://visitghana.com/ntonso-adinkra-cloth-village/",
+      "access": "The tourism authority identifies the visitor centre in Ntonso. Confirm current tours, fees and permission to photograph craftspeople locally; no workshop is reserved by adding this stop."
+    },
+    {
+      "id": "akropong-akuapem-traditional-heritage",
+      "description": "Akropong is a centre of Akuapem traditions in Ghana’s Eastern Region. Ghana Tourism Authority describes Odwira as a celebration of purification, ancestors and the harvest in Akropong and neighbouring Akuapem towns. This listing covers living community heritage, not a single museum or a confirmed event schedule.",
+      "url": "https://visitghana.com/odwira-festival/",
+      "access": "Confirm current public events and access with local custodians. Sacred or private ceremonies should not be assumed open to visitors."
+    },
+    {
+      "id": "elmina-elmina-historic-township",
+      "description": "Elmina’s historic township combines coastal community life with the setting of its forts. Ghana Tourism Authority identifies Bakatue as a tradition of Elmina and the Edina traditional area. This town experience is distinct from admission to Elmina Castle; private buildings and sacred activities require their own access arrangements.",
+      "url": "https://visitghana.com/edina-bakatue-festival/",
+      "access": "Explore the town separately from the castle visit. Confirm current festival arrangements locally, and ask permission before entering private or sacred spaces."
+    },
+    {
+      "id": "paga-paga-traditional-heritage",
+      "description": "Paga’s heritage includes traditions associated with sacred crocodile ponds and local chiefly institutions. Ghana Tourism Authority distinguishes these community traditions from the nearby Pikworo Slave Camp. This listing covers more than one local place and does not identify a single verified entrance.",
+      "url": "https://visitghana.com/paga-slave-camp-and-crocodile-pool/",
+      "access": "Ask local custodians about the specific site and current visitor arrangements. Do not assume wildlife interaction is safe or permitted."
+    },
+    {
+      "id": "tengzug-tongo-talensi-traditional-heritage",
+      "description": "The Tengzug–Tongo landscape includes Talensi settlements, traditional compounds and multiple sacred sites. UNESCO’s tentative-list account describes shrines and ancestor-related traditions across this landscape. This community heritage context is broader than the separate Tengzug Shrine listing and does not identify one visitor entrance.",
+      "url": "https://whc.unesco.org/en/tentativelists/1392/",
+      "access": "Agree access and photography with the relevant custodians. General landscape coordinates do not establish the location of a particular shrine or a public entrance."
+    }
+  ],
+  "newLocations": [
+    "princestown-fort-gross-friedrichsburg"
+  ],
+  "blocked": {
+    "contact": "Owner-approved recipient email, application URL or configured submission service and intended next step required.",
+    "accounts": "Designated authorized test email/account and secure access to its confirmation/recovery inbox required."
+  }
+}

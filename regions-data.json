@@ -329,10 +329,6 @@
             {
               "id": "kumasi-komfo-anokye-sword-site",
               "label": "Komfo Anokye Sword Site"
-            },
-            {
-              "id": "kumasi-okomfo-anokye-historical-heritage",
-              "label": "Okomfo Anokye historical heritage"
             }
           ]
         },
@@ -509,10 +505,6 @@
             {
               "id": "princestown-fort-gross-friedrichsburg",
               "label": "Fort Gross Friedrichsburg"
-            },
-            {
-              "id": "princestown-brandenburg-prussian-colonial-heritage",
-              "label": "Brandenburg/Prussian colonial heritage"
             }
           ]
         },
@@ -936,12 +928,20 @@
       ],
       "status": "Details to be added",
       "visitorInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "Explore the town separately from the castle visit. Confirm current festival arrangements locally, and ask permission before entering private or sacred spaces.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
+      },
+      "description": "Elmina’s historic township combines coastal community life with the setting of its forts. Ghana Tourism Authority identifies Bakatue as a tradition of Elmina and the Edina traditional area. This town experience is distinct from admission to Elmina Castle; private buildings and sacred activities require their own access arrangements.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/edina-bakatue-festival/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ]
     },
     {
       "id": "elmina-posuban-shrines",
@@ -2002,58 +2002,22 @@
         "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "The sword site is within hospital grounds. The tourism authority identifies the heritage site, but current visitor entry arrangements have not been verified.",
+        "access": "The site is within hospital grounds. Confirm visitor entry and photography arrangements before travelling. Adding this stop does not arrange entry.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
       },
-      "description": "The Komfo Anokye Sword Site stands on the grounds of Komfo Anokye Teaching Hospital in Kumasi. Ghana Tourism Authority presents the sword and its associated traditions as part of Asante history. Accounts of the sword’s immovability are traditional beliefs, not claims independently verified by Tourism Compass.",
+      "description": "The Komfo Anokye Sword Site is on the grounds of Komfo Anokye Teaching Hospital in Kumasi. Ghana Tourism Authority connects the sword with Okomfo Anokye and Asante history. The broader historical-heritage listing is included here, rather than offered as a second destination. The sword’s immovability is a traditional belief, not an independently verified claim.",
       "contentSources": [
+        {
+          "url": "https://visitghana.com/komfo-anokye-sword-site/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        },
         {
           "url": "https://visitghana.com/komfo-anokye-sword-site-2/",
           "scope": "Named site or architectural context reviewed; current visitor operations not confirmed",
           "checkedOn": "2026-10-08"
         }
       ]
-    },
-    {
-      "id": "kumasi-okomfo-anokye-historical-heritage",
-      "name": "Okomfo Anokye historical heritage",
-      "region": "Ashanti Region",
-      "town": "Kumasi",
-      "category": "Heritage",
-      "photos": [
-        {
-          "placeId": "kumasi-okomfo-anokye-historical-heritage",
-          "id": "kumasi-okomfo-anokye-historical-heritage-view",
-          "src": "assets/photos/regions/kumasi-komfo-anokye-sword-site/view-1600.webp",
-          "srcset": "assets/photos/regions/kumasi-komfo-anokye-sword-site/view-480.webp 480w, assets/photos/regions/kumasi-komfo-anokye-sword-site/view-960.webp 960w, assets/photos/regions/kumasi-komfo-anokye-sword-site/view-1600.webp 1600w, assets/photos/regions/kumasi-komfo-anokye-sword-site/view-2400.webp 2400w",
-          "full": "assets/photos/regions/kumasi-komfo-anokye-sword-site/view-12k.jpg",
-          "width": 1600,
-          "height": 900,
-          "sourceWidth": 1280,
-          "sourceHeight": 720,
-          "fullWidth": 12288,
-          "fullHeight": 6912,
-          "caption": "Okomfo Anokye sword site, legendary site of the foundation of the Asante empire in Kumasi, Ghana",
-          "credit": "Caupolicaningles",
-          "source": "https://commons.wikimedia.org/wiki/File:Okomfo_Anokye_sword_site,_legendary_site_of_the_foundation_of_the_Asante_empire_in_Kumasi,_Ghana.jpg",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Okomfo_Anokye_sword_site%2C_legendary_site_of_the_foundation_of_the_Asante_empire_in_Kumasi%2C_Ghana.jpg",
-          "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
-          "adjustments": {
-            "brightness": 0.98,
-            "saturation": 1.025
-          }
-        }
-      ],
-      "status": "Details to be added",
-      "visitorInformation": {
-        "checkedOn": "2026-10-07",
-        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
-        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
-        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
     },
     {
       "id": "ejisu-yaa-asantewaa-museum-and-heritage-sites",
@@ -2195,12 +2159,20 @@
       ],
       "status": "Details to be added",
       "visitorInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "The tourism authority identifies the visitor centre in Ntonso. Confirm current tours, fees and permission to photograph craftspeople locally; no workshop is reserved by adding this stop.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
+      },
+      "description": "Ntonso is associated with adinkra cloth and its symbolic patterns. Ghana Tourism Authority describes a visitor centre and guided activities covering dye preparation, stamping and embroidery. These are living craft traditions; current tour availability and participation arrangements should be confirmed before visiting.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/ntonso-adinkra-cloth-village/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ]
     },
     {
       "id": "akropong-akuapem-traditional-heritage",
@@ -2236,12 +2208,20 @@
       ],
       "status": "Details to be added",
       "visitorInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "Confirm current public events and access with local custodians. Sacred or private ceremonies should not be assumed open to visitors.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
+      },
+      "description": "Akropong is a centre of Akuapem traditions in Ghana’s Eastern Region. Ghana Tourism Authority describes Odwira as a celebration of purification, ancestors and the harvest in Akropong and neighbouring Akuapem towns. This listing covers living community heritage, not a single museum or a confirmed event schedule.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/odwira-festival/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ]
     },
     {
       "id": "akropong-historic-basel-mission-sites",
@@ -2929,8 +2909,13 @@
         }
       ],
       "status": "Details to be added",
-      "description": "A coastal fort included in Ghana’s UNESCO-listed forts and castles heritage.",
+      "description": "Fort Gross Friedrichsburg stands on Manfro Hill at Princestown. Ghana Museums and Monuments Board identifies it as a fort built by the Brandenburg Africa Company in 1683–1684. Brandenburg colonial history is included in this monument’s context, rather than offered as a separate trip stop.",
       "contentSources": [
+        {
+          "url": "https://gmmb.gov.gh/fort-gross-frederiksburg-princestown-1683/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        },
         {
           "url": "https://whc.unesco.org/en/list/34",
           "scope": "Identification in the coastal forts and castles World Heritage property",
@@ -2938,52 +2923,20 @@
         }
       ],
       "visitorInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "Use the named fort at Princestown, not Fort Frederiksborg at Amanful in Cape Coast. Published historical tariffs are not evidence of current admission fees; confirm current entry arrangements with GMMB.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
-    },
-    {
-      "id": "princestown-brandenburg-prussian-colonial-heritage",
-      "name": "Brandenburg/Prussian colonial heritage",
-      "region": "Western Region",
-      "town": "Princestown",
-      "category": "Heritage",
-      "photos": [
-        {
-          "placeId": "princestown-brandenburg-prussian-colonial-heritage",
-          "id": "princestown-brandenburg-prussian-colonial-heritage-view",
-          "src": "assets/photos/regions/princestown-fort-gross-friedrichsburg/view-1600.webp",
-          "srcset": "assets/photos/regions/princestown-fort-gross-friedrichsburg/view-480.webp 480w, assets/photos/regions/princestown-fort-gross-friedrichsburg/view-960.webp 960w, assets/photos/regions/princestown-fort-gross-friedrichsburg/view-1600.webp 1600w, assets/photos/regions/princestown-fort-gross-friedrichsburg/view-2400.webp 2400w",
-          "full": "assets/photos/regions/princestown-fort-gross-friedrichsburg/view-12k.jpg",
-          "width": 1600,
-          "height": 1200,
-          "sourceWidth": 4160,
-          "sourceHeight": 3120,
-          "fullWidth": 12288,
-          "fullHeight": 9216,
-          "caption": "Fort Gross Fredericksburg",
-          "credit": "Antorsu10",
-          "source": "https://commons.wikimedia.org/wiki/File:Fort_Gross_Fredericksburg.jpg",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fort_Gross_Fredericksburg.jpg",
-          "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
-          "adjustments": {
-            "brightness": 1.08,
-            "saturation": 1.025
-          }
-        }
-      ],
-      "status": "Details to be added",
-      "visitorInformation": {
-        "checkedOn": "2026-10-07",
-        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
-        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
-        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "location": {
+        "latitude": 4.7910522,
+        "longitude": -2.1339252,
+        "verified": true,
+        "checkedOn": "2026-10-08",
+        "source": "https://www.openstreetmap.org/node/2661484220",
+        "corroboration": "https://commons.wikimedia.org/wiki/Category:Fort_Gro%C3%9F_Friedrichsburg",
+        "verificationMethod": "Named fort point corroborated by the monument object location, not photograph camera coordinates or a town centre."
       }
     },
     {
@@ -4021,12 +3974,20 @@
       ],
       "status": "Details to be added",
       "visitorInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "Ask local custodians about the specific site and current visitor arrangements. Do not assume wildlife interaction is safe or permitted.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
+      },
+      "description": "Paga’s heritage includes traditions associated with sacred crocodile ponds and local chiefly institutions. Ghana Tourism Authority distinguishes these community traditions from the nearby Pikworo Slave Camp. This listing covers more than one local place and does not identify a single verified entrance.",
+      "contentSources": [
+        {
+          "url": "https://visitghana.com/paga-slave-camp-and-crocodile-pool/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ]
     },
     {
       "id": "paga-pikworo-slave-camp",
@@ -4168,12 +4129,20 @@
       ],
       "status": "Details to be added",
       "visitorInformation": {
-        "checkedOn": "2026-10-07",
+        "checkedOn": "2026-10-08",
         "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
         "admission": "Current admission fees have not been verified. Do not assume entry is free.",
-        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "access": "Agree access and photography with the relevant custodians. General landscape coordinates do not establish the location of a particular shrine or a public entrance.",
         "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
-      }
+      },
+      "description": "The Tengzug–Tongo landscape includes Talensi settlements, traditional compounds and multiple sacred sites. UNESCO’s tentative-list account describes shrines and ancestor-related traditions across this landscape. This community heritage context is broader than the separate Tengzug Shrine listing and does not identify one visitor entrance.",
+      "contentSources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/1392/",
+          "scope": "Description and location context researched; current visitor operations not independently confirmed",
+          "checkedOn": "2026-10-08"
+        }
+      ]
     },
     {
       "id": "sirigu-traditional-painted-compounds",
@@ -4569,7 +4538,9 @@
   "tripAliases": {
     "larabanga-historic-sudanic-architectural-heritage": "larabanga-larabanga-mosque",
     "assin-manso-slave-route-memorial-sites": "assin-manso-ancestral-slave-river-site",
-    "assin-manso-ancestral-burial-and-remembrance-grounds": "assin-manso-ancestral-slave-river-site"
+    "assin-manso-ancestral-burial-and-remembrance-grounds": "assin-manso-ancestral-slave-river-site",
+    "kumasi-okomfo-anokye-historical-heritage": "kumasi-komfo-anokye-sword-site",
+    "princestown-brandenburg-prussian-colonial-heritage": "princestown-fort-gross-friedrichsburg"
   },
   "mergedSites": [
     {
@@ -4685,6 +4656,100 @@
       "mergeEvidence": {
         "source": "https://theassda.gov.gh/tourist-sites/",
         "reason": "The Assembly identifies the Ancestral Graveyard as part of the same River Park.",
+        "checkedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "kumasi-okomfo-anokye-historical-heritage",
+      "name": "Okomfo Anokye historical heritage",
+      "region": "Ashanti Region",
+      "town": "Kumasi",
+      "category": "Heritage",
+      "photos": [
+        {
+          "placeId": "kumasi-okomfo-anokye-historical-heritage",
+          "id": "kumasi-okomfo-anokye-historical-heritage-view",
+          "src": "assets/photos/regions/kumasi-komfo-anokye-sword-site/view-1600.webp",
+          "srcset": "assets/photos/regions/kumasi-komfo-anokye-sword-site/view-480.webp 480w, assets/photos/regions/kumasi-komfo-anokye-sword-site/view-960.webp 960w, assets/photos/regions/kumasi-komfo-anokye-sword-site/view-1600.webp 1600w, assets/photos/regions/kumasi-komfo-anokye-sword-site/view-2400.webp 2400w",
+          "full": "assets/photos/regions/kumasi-komfo-anokye-sword-site/view-12k.jpg",
+          "width": 1600,
+          "height": 900,
+          "sourceWidth": 1280,
+          "sourceHeight": 720,
+          "fullWidth": 12288,
+          "fullHeight": 6912,
+          "caption": "Okomfo Anokye sword site, legendary site of the foundation of the Asante empire in Kumasi, Ghana",
+          "credit": "Caupolicaningles",
+          "source": "https://commons.wikimedia.org/wiki/File:Okomfo_Anokye_sword_site,_legendary_site_of_the_foundation_of_the_Asante_empire_in_Kumasi,_Ghana.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Okomfo_Anokye_sword_site%2C_legendary_site_of_the_foundation_of_the_Asante_empire_in_Kumasi%2C_Ghana.jpg",
+          "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
+          "adjustments": {
+            "brightness": 0.98,
+            "saturation": 1.025
+          }
+        }
+      ],
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "mergedInto": "kumasi-komfo-anokye-sword-site",
+      "mergeEvidence": {
+        "source": "https://visitghana.com/komfo-anokye-sword-site/",
+        "reason": "The tourism authority describes Okomfo Anokye traditions at the Sword Site on hospital grounds. The broad catalogue entry identifies no separate visitor location; its context is retained in the Sword Site record.",
+        "checkedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "princestown-brandenburg-prussian-colonial-heritage",
+      "name": "Brandenburg/Prussian colonial heritage",
+      "region": "Western Region",
+      "town": "Princestown",
+      "category": "Heritage",
+      "photos": [
+        {
+          "placeId": "princestown-brandenburg-prussian-colonial-heritage",
+          "id": "princestown-brandenburg-prussian-colonial-heritage-view",
+          "src": "assets/photos/regions/princestown-fort-gross-friedrichsburg/view-1600.webp",
+          "srcset": "assets/photos/regions/princestown-fort-gross-friedrichsburg/view-480.webp 480w, assets/photos/regions/princestown-fort-gross-friedrichsburg/view-960.webp 960w, assets/photos/regions/princestown-fort-gross-friedrichsburg/view-1600.webp 1600w, assets/photos/regions/princestown-fort-gross-friedrichsburg/view-2400.webp 2400w",
+          "full": "assets/photos/regions/princestown-fort-gross-friedrichsburg/view-12k.jpg",
+          "width": 1600,
+          "height": 1200,
+          "sourceWidth": 4160,
+          "sourceHeight": 3120,
+          "fullWidth": 12288,
+          "fullHeight": 9216,
+          "caption": "Fort Gross Fredericksburg",
+          "credit": "Antorsu10",
+          "source": "https://commons.wikimedia.org/wiki/File:Fort_Gross_Fredericksburg.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fort_Gross_Fredericksburg.jpg",
+          "changes": "Standard color and brightness adjustments; resized and converted to WebP. Download upscaled to a 12,288-pixel long edge, not native 12K detail.",
+          "adjustments": {
+            "brightness": 1.08,
+            "saturation": 1.025
+          }
+        }
+      ],
+      "status": "Details to be added",
+      "visitorInformation": {
+        "checkedOn": "2026-10-07",
+        "openingHours": "Current opening hours have not been verified. Confirm them before travelling.",
+        "admission": "Current admission fees have not been verified. Do not assume entry is free.",
+        "access": "Public visitor access has not been verified. Check with the venue or local custodian before travelling.",
+        "permissions": "Photography, group visits and any permission requirements have not been verified. Ask the venue or local custodian."
+      },
+      "mergedInto": "princestown-fort-gross-friedrichsburg",
+      "mergeEvidence": {
+        "source": "https://gmmb.gov.gh/fort-gross-frederiksburg-princestown-1683/",
+        "reason": "GMMB identifies the Brandenburg fort on Manfro Hill as the named monument. The additional thematic record supplies no distinct place; its historical context is retained with the fort.",
         "checkedOn": "2026-10-08"
       }
     }

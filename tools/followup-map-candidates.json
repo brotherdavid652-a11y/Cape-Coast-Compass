@@ -1,0 +1,94 @@
+{
+  "checkedAt": "2026-10-08T01:45:37.642Z",
+  "results": [
+    {
+      "area": "kumasi",
+      "status": 400,
+      "matches": []
+    },
+    {
+      "area": "princestown",
+      "status": 200,
+      "matches": [
+        {
+          "type": "node",
+          "attrs": "<node id=\"2661484220\" visible=\"true\" version=\"3\" changeset=\"104468042\" timestamp=\"2021-05-10T17:54:41Z\" user=\"Enock4seth\" uid=\"1803854\" lat=\"4.7910522\" lon=\"-2.1339252\"",
+          "tags": {
+            "castle_type": "fortress",
+            "historic": "castle",
+            "name": "Prince's Town's Fort",
+            "name:de": "Fort Groß Friedrichsburg",
+            "tourism": "attraction"
+          }
+        }
+      ]
+    },
+    {
+      "area": "axim",
+      "status": 200,
+      "matches": [
+        {
+          "type": "way",
+          "attrs": "<way id=\"204593464\" visible=\"true\" version=\"4\" changeset=\"49959495\" timestamp=\"2017-07-01T09:01:38Z\" user=\"Patchi\" uid=\"591881\"",
+          "tags": {
+            "building": "yes",
+            "heritage": "1",
+            "heritage:operator": "whc",
+            "historic": "castle",
+            "name": "Fort Santo Antonio",
+            "ref:whc": "34-010",
+            "whc:criteria": "(vi)",
+            "whc:inscription_date": "1979",
+            "wikidata": "Q1998460",
+            "wikipedia": "en:Fort Santo Antonio"
+          }
+        }
+      ]
+    },
+    {
+      "area": "butre",
+      "status": 200,
+      "matches": []
+    },
+    {
+      "area": "apam",
+      "status": 200,
+      "matches": [
+        {
+          "type": "way",
+          "attrs": "<way id=\"739731775\" visible=\"true\" version=\"1\" changeset=\"76328576\" timestamp=\"2019-10-29T07:43:31Z\" user=\"Hjart\" uid=\"207581\"",
+          "tags": {
+            "building": "yes",
+            "heritage": "1",
+            "heritage:operator": "whc",
+            "historic": "castle",
+            "name": "Fort Patience",
+            "ref:whc": "34-003",
+            "whc:criteria": "(vi)",
+            "whc:inscription_date": "1979",
+            "wikidata": "Q954593",
+            "wikimedia_commons": "Category:Fort Apam",
+            "wikipedia": "en:Fort Patience"
+          }
+        }
+      ]
+    },
+    {
+      "area": "anomabo",
+      "status": 200,
+      "matches": [
+        {
+          "type": "way",
+          "attrs": "<way id=\"520995071\" visible=\"true\" version=\"1\" changeset=\"51691175\" timestamp=\"2017-09-03T12:08:45Z\" user=\"macabe5387\" uid=\"2698880\"",
+          "tags": {
+            "building": "yes",
+            "historic": "castle",
+            "name": "Fort William",
+            "wikidata": "Q5472327",
+            "wikipedia": "en:Fort William, Ghana"
+          }
+        }
+      ]
+    }
+  ]
+}

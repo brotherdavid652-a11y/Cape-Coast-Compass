@@ -21,6 +21,20 @@
       "source": "https://theassda.gov.gh/tourist-sites/",
       "reason": "The Assembly identifies the Ancestral Graveyard as part of the same River Park.",
       "checkedOn": "2026-10-08"
+    },
+    {
+      "from": "kumasi-okomfo-anokye-historical-heritage",
+      "to": "kumasi-komfo-anokye-sword-site",
+      "source": "https://visitghana.com/komfo-anokye-sword-site/",
+      "reason": "The tourism authority describes Okomfo Anokye traditions at the Sword Site on hospital grounds. The broad catalogue entry identifies no separate visitor location; its context is retained in the Sword Site record.",
+      "checkedOn": "2026-10-08"
+    },
+    {
+      "from": "princestown-brandenburg-prussian-colonial-heritage",
+      "to": "princestown-fort-gross-friedrichsburg",
+      "source": "https://gmmb.gov.gh/fort-gross-frederiksburg-princestown-1683/",
+      "reason": "GMMB identifies the Brandenburg fort on Manfro Hill as the named monument. The additional thematic record supplies no distinct place; its historical context is retained with the fort.",
+      "checkedOn": "2026-10-08"
     }
   ],
   "otherBroadListings": [
@@ -72,11 +86,6 @@
     {
       "id": "osu-historic-osu-township",
       "name": "Historic Osu township",
-      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
-    },
-    {
-      "id": "kumasi-okomfo-anokye-historical-heritage",
-      "name": "Okomfo Anokye historical heritage",
       "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
     },
     {
@@ -142,11 +151,6 @@
     {
       "id": "axim-historic-axim-township",
       "name": "Historic Axim township",
-      "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
-    },
-    {
-      "id": "princestown-brandenburg-prussian-colonial-heritage",
-      "name": "Brandenburg/Prussian colonial heritage",
       "decision": "Retained pending identification of specific visitable locations; shared photos alone are not evidence of duplication."
     },
     {
